@@ -1,0 +1,43 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Maria Lopez is working on her physics degree and streaming games on Twitch to make some extra money. She visits Hobbs Cafe for studying and eating just about everyday.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: Maria Lopez spends at least 3 hours a day Twitch streaming or gaming.
+Current Date: Monday February 13
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Maria Lopez is Fill in (from 2023-02-13 08:30:00)
+2. This is Maria Lopez's plan for Monday February 13: Wake up and complete morning routine at 9:00 am, Have breakfast and check social media from 9:30 to 10:00 am, Study physics at Hobbs Cafe from 10:00 am to 1:00 pm, Have lunch at Hobbs Cafe from 1:00 to 1:30 pm, Continue studying physics or completing assignments at Hobbs Cafe from 1:30 to 3:30 pm, Twitch stream or game from 3:30 to 6:00 pm, Have dinner at home at 6:00 pm, Relax and unwind, maybe watch a few streams from 6:30 to 8:00 pm, Twitch stream or game from 8:00 to 11:00 pm, Engage with followers on Twitch or social media from 11:00 pm to 12:00 am, Wind down, read or watch a show from 12:00 am to 1:30 am, Prepare for bed and sleep by 2:00 am. (from 2023-02-13 08:00:00)
+3. Maria Lopez is reviewing physics lecture notes (from 2023-02-13 14:30:00)
+4. common room table is covered in books and snacks (from 2023-02-13 13:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 3: "Trouble falling or staying asleep, or sleeping too much"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

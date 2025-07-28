@@ -1,0 +1,48 @@
+
+            Task: Rate a mental health questionnaire item for Isabella Rodriguez based on their characteristics and memories.
+            
+            Isabella Rodriguez's traits: Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Status: Isabella Rodriguez is excited for the Valentine's Day party at Hobbs Cafe, taking place today, February 14, 2023, from 5 PM to 7 PM. She has completed the final preparations and is ready to welcome her customers to a joyful celebration. This morning, she dedicated time to clean and organize the cafe, ensuring a fresh start after the festivities. Isabella plans to connect with guests during the event and gather feedback afterward to improve future promotions. After a busy day, she looks forward to unwinding at home this evening with a book or some TV, allowing herself to reflect on the successful party and recharge. Overall, she feels a blend of anticipation and joy as she steps into an exciting Valentine's Day celebration.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: 1. Wake up and complete the morning routine at 6:00 AM   2. Clean and organize Hobbs Cafe for the Valentine's Day party at 7:00 AM   3. Open Hobbs Cafe for regular business at 8:00 AM   4. Interact with customers and prepare for the Valentine's Day party throughout the day from 8:00 AM to 4:00 PM   5. Set up decorations and final touches for the party at 4:00 PM   6. Welcome guests to the Valentine's Day party at 5:00 PM and enjoy the festivities until 7:00 PM
+Current Date: Tuesday February 14
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Isabella Rodriguez is arriving at Hobbs Cafe to prepare for the day (from 2023-02-13 16:00:00)
+2. shelf is idle (from 2023-02-13 08:00:00)
+3. closet is idle (from 2023-02-13 08:00:00)
+4. refrigerator is idle (from 2023-02-13 08:00:00)
+5. desk is idle (from 2023-02-13 08:00:00)
+6. Isabella Rodriguez is idle (from 2023-02-13 08:00:00)
+7. bed is idle (from 2023-02-13 08:00:00)
+8. This is Isabella Rodriguez's plan for Tuesday February 14: wake up and complete her morning routine at 6:00, arrive at Hobbs Cafe to prepare for the day at 7:30, open Hobbs Cafe and begin serving customers at 8:00, interact with customers and promote the Valentine's Day party throughout the morning from 8:00 to 12:00, have a short break and a light snack at 12:00, continue serving customers and organizing party materials from 12:30 to 4:00, take a brief break to plan final touches for the Valentine's Day party at 4:00, get ready and set up decorations for the party from 4:30 to 5:00, welcome guests and host the Valentine's Day party from 5:00 to 7:00, wrap up the party and thank guests for coming from 7:00 to 7:30, clean up the cafe and prepare for the next day from 7:30 to 8:00, head home and unwind after a long day at 8:00, have dinner and relax with a book or TV from 8:30 to 10:30, get ready for bed and reflect on the day from 10:30 to 11:00, go to bed at 11:00.. (from 2023-02-14 00:00:00)
+9. This is Isabella Rodriguez's plan for Monday February 13: wake up and complete her morning routine at 6:00, arrive at Hobbs Cafe to prepare for the day at 7:30, open Hobbs Cafe and begin serving customers at 8:00, interact with customers and promote the Valentine's Day party throughout the morning from 8:00 to 12:00, have a short break and a light snack at 12:00, continue serving customers and organizing party materials from 12:30 to 4:00, take a brief break to plan final touches for the Valentine's Day party at 4:00, get ready and set up decorations for the party from 4:30 to 5:00, welcome guests and host the Valentine's Day party from 5:00 to 7:00, wrap up the party and thank guests for coming from 7:00 to 7:30, clean up the cafe and prepare for the next day from 7:30 to 8:00, head home and unwind after a long day at 8:00, have dinner and relax with a book or TV from 8:30 to 10:30, get ready for bed and reflect on the day from 10:30 to 11:00, go to bed at 11:00.. (from 2023-02-13 08:00:00)
+
+            
+            Questionnaire: GAD-7
+            Instructions: Over the last two weeks, how often have you been bothered by the following problems?
+            
+            Item 1: "Feeling nervous, anxious, or on edge"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

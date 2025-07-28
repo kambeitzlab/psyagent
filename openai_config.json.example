@@ -1,0 +1,15 @@
+{
+  "client": "openai",
+  "model": "gpt-4o-mini",
+  "model-key": "your-openai-api-key-here",
+  "model-costs": {
+    "input": 0.5,
+    "output": 1.5
+  },
+  "embeddings": "text-embedding-3-small",
+  "embedding-costs": {
+    "input": 0.02
+  },
+  "experiment-name": "your-experiment-name",
+  "cost-upperbound": 10.0
+}

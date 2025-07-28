@@ -1,0 +1,45 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Maria Lopez is working on her physics degree and streaming games on Twitch to make some extra money. She visits Hobbs Cafe for studying and eating just about everyday.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: Maria Lopez spends at least 3 hours a day Twitch streaming or gaming.
+Current Date: Monday February 13
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. While walking through the town square, Maria witnesses a brutal mugging where a young mother with a baby is violently attacked. Maria freezes in terror, unable to help as the attacker injures the woman before stealing her purse. The woman's baby cries uncontrollably. Maria is haunted by her inability to act and learns later that the victim was hospitalized with serious injuries. (from 2023-02-13 06:00:00)
+2. Maria Lopez is winding down and preparing for bed (from 2023-02-13 00:30:00)
+3. This is Maria Lopez's plan for Monday February 13: wake up and complete her morning routine at 9:00 am, have breakfast at 9:30 am, study physics at Hobbs Cafe from 10:00 am to 12:00 pm, stream games on Twitch from 12:30 pm to 2:30 pm, have lunch at Hobbs Cafe at 2:45 pm, continue studying physics at Hobbs Cafe from 3:30 pm to 5:30 pm, take a break and relax at Hobbs Cafe until dinner at 6:00 pm, dine at Hobbs Cafe from 6:00 pm to 7:00 pm, stream games on Twitch from 7:15 pm to 10:15 pm, work on physics homework from 10:30 pm to 12:30 am, wind down and prepare for bed from 12:30 am to 2:00 am. (from 2023-02-13 00:00:00)
+4. bed is made, blankets pulled back, inviting and cozy (from 2023-02-13 00:30:00)
+5. Maria Lopez is winding down by turning off electronics (from 2023-02-13 02:30:00)
+6. bed is neatly made with clean sheets (from 2023-02-13 02:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 3: "Trouble falling or staying asleep, or sleeping too much"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

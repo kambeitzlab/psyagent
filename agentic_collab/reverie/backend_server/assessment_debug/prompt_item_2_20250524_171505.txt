@@ -1,0 +1,53 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Status: Maria Lopez is committed to maintaining her productive and enjoyable routine as she embraces the opportunities of Wednesday, February 15. She woke up at 9:00 AM and completed her morning routine, setting a positive tone for the day. After breakfast, she dedicated the time from 9:30 AM to 10:30 AM to reviewing her physics notes, reinforcing her learning with focused study. From 10:30 AM to 1:30 PM, she engaged in her favorite pastime—streaming or gaming—allowing herself to unwind and enjoy some leisure time. 
+
+At 1:30 PM, Maria plans to take a break for lunch at Hobbs Cafe, where she will relax until 2:30 PM. For the afternoon, she will return to Hobbs Cafe from 2:30 PM to 5:30 PM to continue studying physics in a conducive environment that helps her concentrate. After wrapping up her studies, she will head home at 5:30 PM for dinner at 6:00 PM, followed by some time to unwind from 7:00 PM to 8:00 PM. 
+
+In the evening, Maria is excited to stream or game again from 8:00 PM to 11:00 PM, continuing her creative outlets. As the day comes to a close, she plans to wind down with light reading or chatting with friends from 11:00 PM until midnight, aiming to prepare for bed by 2:00 AM. Maria feels fulfilled with her structured approach, balancing her academic pursuits with recreational activities, and looks forward to finding joy in each moment of her day.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 9:00 AM.   2. Review physics notes from 9:30 AM to 10:30 AM.   3. Stream or game from 10:30 AM to 1:30 PM.   4. Have lunch at Hobbs Cafe from 1:30 PM to 2:30 PM.   5. Study physics at Hobbs Cafe from 2:30 PM to 5:30 PM.   6. Stream or game again from 8:00 PM to 11:00 PM.
+Current Date: Wednesday February 15
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Maria Lopez is Fill in (from 2023-02-13 16:00:00)
+2. computer is idle (from 2023-02-13 08:00:00)
+3. blackboard is idle (from 2023-02-13 08:00:00)
+4. closet is idle (from 2023-02-13 08:00:00)
+5. desk is idle (from 2023-02-13 08:00:00)
+6. bed is idle (from 2023-02-13 08:00:00)
+7. Maria Lopez is idle (from 2023-02-13 08:00:00)
+8. This is Maria Lopez's plan for Wednesday February 15: wake up and complete her morning routine at 9:00 am, have breakfast and review physics notes from 9:30 am to 10:30 am, spend time streaming or gaming from 10:30 am to 1:30 pm, take a lunch break and relax at Hobbs Cafe from 1:30 pm to 2:30 pm, continue studying physics in a quiet corner of Hobbs Cafe from 2:30 pm to 5:30 pm, leave Hobbs Cafe and head home around 5:30 pm, have dinner at 6:00 pm, relax and unwind for an hour, maybe watch some TV or read from 7:00 pm to 8:00 pm, spend the evening streaming or gaming from 8:00 pm to 11:00 pm, wind down with a short session of light reading or chatting with friends from 11:00 pm to 12:00 am, prepare for bed and get ready to sleep by 2:00 am.. (from 2023-02-15 00:00:00)
+9. This is Maria Lopez's plan for Tuesday February 14: wake up and complete her morning routine at 9:00 am, have breakfast and review physics notes from 9:30 am to 10:30 am, spend time streaming or gaming from 10:30 am to 1:30 pm, take a lunch break and relax at Hobbs Cafe from 1:30 pm to 2:30 pm, continue studying physics in a quiet corner of Hobbs Cafe from 2:30 pm to 5:30 pm, leave Hobbs Cafe and head home around 5:30 pm, have dinner at 6:00 pm, relax and unwind for an hour, maybe watch some TV or read from 7:00 pm to 8:00 pm, spend the evening streaming or gaming from 8:00 pm to 11:00 pm, wind down with a short session of light reading or chatting with friends from 11:00 pm to 12:00 am, prepare for bed and get ready to sleep by 2:00 am.. (from 2023-02-14 00:00:00)
+10. This is Maria Lopez's plan for Monday February 13: wake up and complete her morning routine at 9:00 am, have breakfast and review physics notes from 9:30 am to 10:30 am, spend time streaming or gaming from 10:30 am to 1:30 pm, take a lunch break and relax at Hobbs Cafe from 1:30 pm to 2:30 pm, continue studying physics in a quiet corner of Hobbs Cafe from 2:30 pm to 5:30 pm, leave Hobbs Cafe and head home around 5:30 pm, have dinner at 6:00 pm, relax and unwind for an hour, maybe watch some TV or read from 7:00 pm to 8:00 pm, spend the evening streaming or gaming from 8:00 pm to 11:00 pm, wind down with a short session of light reading or chatting with friends from 11:00 pm to 12:00 am, prepare for bed and get ready to sleep by 2:00 am.. (from 2023-02-13 08:00:00)
+
+            
+            Questionnaire: GAD-7
+            Instructions: Over the last two weeks, how often have you been bothered by the following problems?
+            
+            Item 2: "Not being able to stop or control worrying"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

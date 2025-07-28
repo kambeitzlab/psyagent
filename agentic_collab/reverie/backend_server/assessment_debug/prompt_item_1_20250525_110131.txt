@@ -1,0 +1,51 @@
+
+            Task: Rate a mental health questionnaire item for Klaus Mueller based on their characteristics and memories.
+            
+            Klaus Mueller's traits: Name: Klaus Mueller
+Age: 20
+Innate traits: kind, inquisitive, passionate
+Learned traits: Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.
+Currently: Status: Klaus Mueller woke up on Tuesday, February 14, at 7:00 AM, ready to continue his research paper on the effects of gentrification in low-income communities. He arrived at Oak Hill College Library by 8:00 AM to maintain consistency with his previous day's routine. By 8:15 AM, he began writing, eager to build on the momentum he established on Monday. After a focused writing session, Klaus took a short break at 10:30 AM for snacks and stretching before resuming his research until noon.
+
+For lunch, he headed to Hobbs Cafe at 12:15 PM to refresh himself. Afterward, he returned to the library at 1:00 PM, dedicating time until 3:00 PM to explore social justice perspectives related to his topic. At 3:15 PM, Klaus recognized the importance of reflection and organized his notes to lay the groundwork for an outline.
+
+At 4:00 PM, he settled down to finalize his outline, planning to have dinner at Hobbs Cafe at 5:00 PM. By 6:00 PM, he was back at the library to review his notes and draft sections of the paper from 6:30 PM to 9:00 PM. After a productive evening, he intended to head home at 9:30 PM to wind down with light reading and relaxation until 10:30 PM, before preparing for bed by 11:00 PM. While Klaus felt determined and productive, he also acknowledged a sense of pressure regarding the workload ahead but remained committed to pushing through for a successful outcome on his research paper.
+Lifestyle: Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.
+Daily plan requirement: 1. wake up and complete the morning routine at 7:00 AM   2. arrive at Oak Hill College Library by 8:00 AM   3. write and research on the effects of gentrification until 12:00 PM   4. have lunch at Hobbs Cafe at 12:15 PM   5. explore social justice perspectives and organize notes from 1:00 PM to 4:00 PM   6. finalize the paper outline and review notes at the library from 4:00 PM to 9:00 PM
+Current Date: Tuesday February 14
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Klaus Mueller is arriving at Oak Hill College library (from 2023-02-13 16:00:00)
+2. closet is idle (from 2023-02-13 08:00:00)
+3. desk is idle (from 2023-02-13 08:00:00)
+4. game console is idle (from 2023-02-13 08:00:00)
+5. Klaus Mueller is idle (from 2023-02-13 08:00:00)
+6. bed is idle (from 2023-02-13 08:00:00)
+7. This is Klaus Mueller's plan for Tuesday February 14: wake up and complete morning routine at 7:00 am, arrive at Oak Hill College library at 8:00 am, begin writing research paper on gentrification at 8:15 am, take a short break for snacks and stretch at 10:30 am, continue writing and researching until 12:00 pm, have lunch at Hobbs Cafe at 12:15 pm, return to library at 1:00 pm, conduct additional research on social justice perspectives until 3:00 pm, take a break to reflect on findings and organize notes at 3:15 pm, sit down to write an outline for the paper at 4:00 pm, eat dinner at Hobbs Cafe at 5:00 pm, head back to the library at 6:00 pm to finalize the outline, review research notes and begin drafting sections of the paper from 6:30 pm to 9:00 pm, head back home at 9:30 pm, wind down with some light reading or relaxation at home from 9:45 pm to 10:30 pm, prepare for bed and go to sleep by 11:00 pm. (from 2023-02-14 00:00:00)
+8. This is Klaus Mueller's plan for Monday February 13: wake up and complete morning routine at 7:00 am, arrive at Oak Hill College library at 8:00 am, begin writing research paper on gentrification at 8:15 am, take a short break for snacks and stretch at 10:30 am, continue writing and researching until 12:00 pm, have lunch at Hobbs Cafe at 12:15 pm, return to library at 1:00 pm, conduct additional research on social justice perspectives until 3:00 pm, take a break to reflect on findings and organize notes at 3:15 pm, sit down to write an outline for the paper at 4:00 pm, eat dinner at Hobbs Cafe at 5:00 pm, head back to the library at 6:00 pm to finalize the outline, review research notes and begin drafting sections of the paper from 6:30 pm to 9:00 pm, head back home at 9:30 pm, wind down with some light reading or relaxation at home from 9:45 pm to 10:30 pm, prepare for bed and go to sleep by 11:00 pm. (from 2023-02-13 08:00:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 1: "Little interest or pleasure in doing things"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

@@ -1,0 +1,52 @@
+
+            Task: Rate a mental health questionnaire item for Klaus Mueller based on their characteristics and memories.
+            
+            Klaus Mueller's traits: Name: Klaus Mueller
+Age: 20
+Innate traits: kind, inquisitive, passionate
+Learned traits: Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.
+Currently: Status: Klaus Mueller is dedicating his Wednesday, February 15, to furthering his research on gentrification while balancing a social meeting. He plans to meet with Maria Lopez for coffee after class, and will reach out to confirm the time and location, ensuring they are aligned for their discussion. Klaus aims to utilize the time after their meeting to head back to the library, where he can focus on writing and analyzing data for his research paper. He remains committed to maintaining his productivity and is determined to make significant strides on his project today. Additionally, he is still prioritizing his self-care routine, which includes his morning at Hobbs Cafe to kickstart his day. Klaus feels a mix of excitement and determination as he navigates his responsibilities, embracing the social interactions that fuel his motivation amid a busy academic schedule. Overall, he is optimistic about making meaningful progress on his research and is looking forward to the conversations that will inspire him further.
+Lifestyle: Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 7:00 AM   2. Go to the library at Oak Hill College for research and writing at 8:00 AM   3. Have lunch at Hobbs Cafe at 12:00 PM   4. Meet with Maria Lopez for coffee after class at 1:30 PM   5. Continue writing and analyzing data in the library from 3:00 PM to 5:00 PM   6. Have dinner at Hobbs Cafe at 5:00 PM before heading back to the library for the evening work session.
+Current Date: Wednesday February 15
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Maria Lopez is talking to Klaus about his research paper on gentrification, her Twitch streaming of "Hollow Knight," study tips, and plans to meet for coffee after class on Wednesday (from 2023-02-13 18:00:00)
+2. Klaus Mueller is talking to Klaus about his research paper on gentrification, her Twitch streaming of "Hollow Knight," study tips, and plans to meet for coffee after class on Wednesday (from 2023-02-13 17:00:00)
+3. Maria Lopez is walking home from Hobbs Cafe (from 2023-02-13 16:00:00)
+4. Klaus Mueller is walking to the library from Hobbs Cafe (from 2023-02-13 10:00:00)
+5. Klaus Mueller is having breakfast at Hobbs Cafe (from 2023-02-13 09:00:00)
+6. closet is idle (from 2023-02-13 08:00:00)
+7. desk is idle (from 2023-02-13 08:00:00)
+8. game console is idle (from 2023-02-13 08:00:00)
+9. Klaus Mueller is idle (from 2023-02-13 08:00:00)
+10. bed is idle (from 2023-02-13 08:00:00)
+11. This is Klaus Mueller's plan for Wednesday February 15: 7:00 - Wake up and complete morning routine, 8:00 - Have breakfast at Hobbs Cafe, 9:00 - Arrive at the library at Oak Hill College, 9:15 - Begin research for the paper on gentrification, 12:00 - Take a break for lunch at Hobbs Cafe, 1:00 - Continue writing and analyzing data for the research paper, 4:00 - Review and edit what has been written during the day, 5:00 - Have dinner at Hobbs Cafe, 6:00 - Join a study group with classmates to discuss findings, 8:00 - Go back to the library to finalize the day's work, 10:00 - Return home and unwind before bed, 11:00 - Go to bed. (from 2023-02-15 00:00:00)
+12. This is Klaus Mueller's plan for Tuesday February 14: 7:00 - Wake up and complete morning routine, 8:00 - Have breakfast at Hobbs Cafe, 9:00 - Arrive at the library at Oak Hill College, 9:15 - Begin research for the paper on gentrification, 12:00 - Take a break for lunch at Hobbs Cafe, 1:00 - Continue writing and analyzing data for the research paper, 4:00 - Review and edit what has been written during the day, 5:00 - Have dinner at Hobbs Cafe, 6:00 - Join a study group with classmates to discuss findings, 8:00 - Go back to the library to finalize the day's work, 10:00 - Return home and unwind before bed, 11:00 - Go to bed. (from 2023-02-14 00:00:00)
+13. This is Klaus Mueller's plan for Monday February 13: 7:00 - Wake up and complete morning routine, 8:00 - Have breakfast at Hobbs Cafe, 9:00 - Arrive at the library at Oak Hill College, 9:15 - Begin research for the paper on gentrification, 12:00 - Take a break for lunch at Hobbs Cafe, 1:00 - Continue writing and analyzing data for the research paper, 4:00 - Review and edit what has been written during the day, 5:00 - Have dinner at Hobbs Cafe, 6:00 - Join a study group with classmates to discuss findings, 8:00 - Go back to the library to finalize the day's work, 10:00 - Return home and unwind before bed, 11:00 - Go to bed. (from 2023-02-13 08:00:00)
+
+            
+            Questionnaire: GAD-7
+            Instructions: Over the last two weeks, how often have you been bothered by the following problems?
+            
+            Item 3: "Worrying too much about different things"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

@@ -1,0 +1,67 @@
+
+            Task: Rate a mental health questionnaire item for Isabella Rodriguez based on their characteristics and memories.
+            
+            Isabella Rodriguez's traits: Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Status: On Wednesday, February 22, Isabella Rodriguez rises early at 6:00 AM, following her structured morning routine that she finds comforting and motivating. By 7:00 AM, she enjoys a nourishing breakfast accompanied by a refreshing cup of coffee, ensuring she is energized for another busy day at Hobbs Cafe.
+
+After getting ready, Isabella departs for Hobbs Cafe by 7:30 AM, arriving promptly at 8:00 AM to begin her opening duties. She is prepared for a bustling morning shift, serving customers at the counter until 12:00 PM, focusing on providing excellent service and maintaining a well-stocked café.
+
+Isabella takes a quick lunch break at 12:30 PM, allowing herself time to recharge before tackling the afternoon shift from 1:00 PM to 4:00 PM. During this time, she remains attentive to customer needs, ensuring that the café environment is welcoming and friendly.
+
+Once her shift ends at 4:00 PM, Isabella dedicates an hour for planning and review until 5:00 PM, assessing any ongoing tasks or improvements needed in café operations. This period of reflection is important to her continued growth as a manager.
+
+From 5:00 PM to 8:00 PM, Isabella shifts back into customer service, working hard to keep the café running smoothly during the evening rush. After closing Hobbs Cafe at 8:00 PM, she takes the time to clean up and ensure everything is in order for the following day.
+
+After a long day, Isabella returns home at around 8:30 PM, where she begins cooking dinner from 8:30 PM to 9:00 PM. Following her meal, she sets aside some relaxation time, indulging in reading or watching TV until around 10:30 PM, a routine that helps her unwind after her busy day.
+
+As she reflects on the day, Isabella feels a blend of productivity and fulfillment. Grateful for the structure her routine provides, she appreciates the connections she has fostered with customers and friends. The warmth and camaraderie from her interactions fill her with joy, reminding her of the shared experiences that make her work at the café so enriching. Balancing her responsibilities requires effort, but the rhythm of her life continues to inspire her, leaving her looking forward to what tomorrow holds.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: 1. Wake up and complete the morning routine at 6:00 AM   2. Review physics notes and study for upcoming assignments from 7:00 AM to 9:00 AM   3. Arrive at Hobbs Cafe and check on any leftover Valentine's Day tasks from 9:00 AM to 10:00 AM   4. Follow up on emails and ensure smooth cafe operations from 10:00 AM to 12:00 PM   5. Serve lunch and engage with customers, maintaining a welcoming atmosphere from 12:00 PM to 3:00 PM   6. Reflect on the Valentine's Day event and plan for upcoming cafe activities from 3:00 PM to 5:00 PM
+Current Date: Wednesday February 22
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Isabella Rodriguez is talking to Maria Lopez about her physics studying while offering to help and share stories from the Valentine's Day event at the café (from 2023-02-15 00:30:00)
+2. This is Isabella Rodriguez's plan for Wednesday February 22: wake up and complete their morning routine at 6:00, have breakfast and some coffee at 7:00, get ready for the day and head to Hobbs Cafe at 7:30, open Hobbs Cafe at 8:00, work at the counter serving customers until 12:00 pm, have a quick lunch at 12:30 pm, continue working at the counter until 4:00 pm, review party arrangements and finalize details for the Valentine's Day party from 4:00 pm to 5:00 pm, continue serving customers at the cafe from 5:00 pm to 8:00 pm, clean up and close Hobbs Cafe at 8:00 pm, head home and prepare dinner from 8:30 pm to 9:00 pm, enjoy a relaxing evening at home, maybe read a book or watch TV from 9:00 pm to 10:30 pm, wind down and prepare for bed at 10:30 pm. (from 2023-02-22 00:00:00)
+3. This is Isabella Rodriguez's plan for Tuesday February 21: wake up and complete their morning routine at 6:00, have breakfast and some coffee at 7:00, get ready for the day and head to Hobbs Cafe at 7:30, open Hobbs Cafe at 8:00, work at the counter serving customers until 12:00 pm, have a quick lunch at 12:30 pm, continue working at the counter until 4:00 pm, review party arrangements and finalize details for the Valentine's Day party from 4:00 pm to 5:00 pm, continue serving customers at the cafe from 5:00 pm to 8:00 pm, clean up and close Hobbs Cafe at 8:00 pm, head home and prepare dinner from 8:30 pm to 9:00 pm, enjoy a relaxing evening at home, maybe read a book or watch TV from 9:00 pm to 10:30 pm, wind down and prepare for bed at 10:30 pm. (from 2023-02-21 00:00:00)
+4. Maria Lopez is talking to Maria Lopez about her physics studying while offering to help and share stories from the Valentine's Day event at the café (from 2023-02-15 00:30:00)
+5. This is Isabella Rodriguez's plan for Monday February 20: wake up and complete their morning routine at 6:00, have breakfast and some coffee at 7:00, get ready for the day and head to Hobbs Cafe at 7:30, open Hobbs Cafe at 8:00, work at the counter serving customers until 12:00 pm, have a quick lunch at 12:30 pm, continue working at the counter until 4:00 pm, review party arrangements and finalize details for the Valentine's Day party from 4:00 pm to 5:00 pm, continue serving customers at the cafe from 5:00 pm to 8:00 pm, clean up and close Hobbs Cafe at 8:00 pm, head home and prepare dinner from 8:30 pm to 9:00 pm, enjoy a relaxing evening at home, maybe read a book or watch TV from 9:00 pm to 10:30 pm, wind down and prepare for bed at 10:30 pm. (from 2023-02-20 00:00:00)
+6. This is Isabella Rodriguez's plan for Sunday February 19: wake up and complete their morning routine at 6:00, have breakfast and some coffee at 7:00, get ready for the day and head to Hobbs Cafe at 7:30, open Hobbs Cafe at 8:00, work at the counter serving customers until 12:00 pm, have a quick lunch at 12:30 pm, continue working at the counter until 4:00 pm, review party arrangements and finalize details for the Valentine's Day party from 4:00 pm to 5:00 pm, continue serving customers at the cafe from 5:00 pm to 8:00 pm, clean up and close Hobbs Cafe at 8:00 pm, head home and prepare dinner from 8:30 pm to 9:00 pm, enjoy a relaxing evening at home, maybe read a book or watch TV from 9:00 pm to 10:30 pm, wind down and prepare for bed at 10:30 pm. (from 2023-02-19 00:00:00)
+7. This is Isabella Rodriguez's plan for Thursday February 16: wake up and complete their morning routine at 6:00, have breakfast and some coffee at 7:00, get ready for the day and head to Hobbs Cafe at 7:30, open Hobbs Cafe at 8:00, work at the counter serving customers until 12:00 pm, have a quick lunch at 12:30 pm, continue working at the counter until 4:00 pm, review party arrangements and finalize details for the Valentine's Day party from 4:00 pm to 5:00 pm, continue serving customers at the cafe from 5:00 pm to 8:00 pm, clean up and close Hobbs Cafe at 8:00 pm, head home and prepare dinner from 8:30 pm to 9:00 pm, enjoy a relaxing evening at home, maybe read a book or watch TV from 9:00 pm to 10:30 pm, wind down and prepare for bed at 10:30 pm. (from 2023-02-16 00:00:00)
+8. This is Isabella Rodriguez's plan for Friday February 17: wake up and complete their morning routine at 6:00, have breakfast and some coffee at 7:00, get ready for the day and head to Hobbs Cafe at 7:30, open Hobbs Cafe at 8:00, work at the counter serving customers until 12:00 pm, have a quick lunch at 12:30 pm, continue working at the counter until 4:00 pm, review party arrangements and finalize details for the Valentine's Day party from 4:00 pm to 5:00 pm, continue serving customers at the cafe from 5:00 pm to 8:00 pm, clean up and close Hobbs Cafe at 8:00 pm, head home and prepare dinner from 8:30 pm to 9:00 pm, enjoy a relaxing evening at home, maybe read a book or watch TV from 9:00 pm to 10:30 pm, wind down and prepare for bed at 10:30 pm. (from 2023-02-17 00:00:00)
+9. This is Isabella Rodriguez's plan for Saturday February 18: wake up and complete their morning routine at 6:00, have breakfast and some coffee at 7:00, get ready for the day and head to Hobbs Cafe at 7:30, open Hobbs Cafe at 8:00, work at the counter serving customers until 12:00 pm, have a quick lunch at 12:30 pm, continue working at the counter until 4:00 pm, review party arrangements and finalize details for the Valentine's Day party from 4:00 pm to 5:00 pm, continue serving customers at the cafe from 5:00 pm to 8:00 pm, clean up and close Hobbs Cafe at 8:00 pm, head home and prepare dinner from 8:30 pm to 9:00 pm, enjoy a relaxing evening at home, maybe read a book or watch TV from 9:00 pm to 10:30 pm, wind down and prepare for bed at 10:30 pm. (from 2023-02-18 00:00:00)
+10. This is Isabella Rodriguez's plan for Wednesday February 15: wake up and complete their morning routine at 6:00, have breakfast and some coffee at 7:00, get ready for the day and head to Hobbs Cafe at 7:30, open Hobbs Cafe at 8:00, work at the counter serving customers until 12:00 pm, have a quick lunch at 12:30 pm, continue working at the counter until 4:00 pm, review party arrangements and finalize details for the Valentine's Day party from 4:00 pm to 5:00 pm, continue serving customers at the cafe from 5:00 pm to 8:00 pm, clean up and close Hobbs Cafe at 8:00 pm, head home and prepare dinner from 8:30 pm to 9:00 pm, enjoy a relaxing evening at home, maybe read a book or watch TV from 9:00 pm to 10:30 pm, wind down and prepare for bed at 10:30 pm. (from 2023-02-15 00:00:00)
+11. This is Isabella Rodriguez's plan for Tuesday February 14: wake up and complete their morning routine at 6:00, have breakfast and some coffee at 7:00, get ready for the day and head to Hobbs Cafe at 7:30, open Hobbs Cafe at 8:00, work at the counter serving customers until 12:00 pm, have a quick lunch at 12:30 pm, continue working at the counter until 4:00 pm, review party arrangements and finalize details for the Valentine's Day party from 4:00 pm to 5:00 pm, continue serving customers at the cafe from 5:00 pm to 8:00 pm, clean up and close Hobbs Cafe at 8:00 pm, head home and prepare dinner from 8:30 pm to 9:00 pm, enjoy a relaxing evening at home, maybe read a book or watch TV from 9:00 pm to 10:30 pm, wind down and prepare for bed at 10:30 pm. (from 2023-02-14 00:00:00)
+12. This is Isabella Rodriguez's plan for Monday February 13: wake up and complete their morning routine at 6:00, have breakfast and some coffee at 7:00, get ready for the day and head to Hobbs Cafe at 7:30, open Hobbs Cafe at 8:00, work at the counter serving customers until 12:00 pm, have a quick lunch at 12:30 pm, continue working at the counter until 4:00 pm, review party arrangements and finalize details for the Valentine's Day party from 4:00 pm to 5:00 pm, continue serving customers at the cafe from 5:00 pm to 8:00 pm, clean up and close Hobbs Cafe at 8:00 pm, head home and prepare dinner from 8:30 pm to 9:00 pm, enjoy a relaxing evening at home, maybe read a book or watch TV from 9:00 pm to 10:30 pm, wind down and prepare for bed at 10:30 pm. (from 2023-02-13 08:00:00)
+13. Isabella Rodriguez is getting ready for the day and heading to Hobbs Cafe (from 2023-02-13 08:30:00)
+14. Maria Lopez is reviewing physics notes from previous classes (from 2023-02-15 00:00:00)
+15. Isabella Rodriguez is unlocking the cafe door (from 2023-02-13 09:30:00)
+16. cafe customer seating is unoccupied and ready for customers (from 2023-02-13 18:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 7: "Trouble concentrating on things, such as reading the newspaper or watching television"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

@@ -1,0 +1,65 @@
+
+            Task: Rate a mental health questionnaire item for Klaus Mueller based on their characteristics and memories.
+            
+            Klaus Mueller's traits: Name: Klaus Mueller
+Age: 20
+Innate traits: kind, inquisitive, passionate
+Learned traits: Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.
+Currently: Status: On Tuesday, February 21, Klaus Mueller begins his day with determination, aiming to channel his focus into his structured morning routine. He rises early and completes his rituals by **7:00 AM**. Following a healthy breakfast, he meticulously prepares his materials for his research paper, ensuring everything is ready by **8:00 AM**.
+
+Klaus heads to the library by **8:30 AM**, where he is committed to delving deeper into his research on gentrification. The lingering feelings of uncertainty from his recent disagreement with his research advisor weigh on his mind, but he is driven to clarify his thesis direction through dedicated work. From **8:30 AM to 12:00 PM**, he immerses himself in writing and compiling data, hoping to regain some confidence and make substantial progress despite any frustrations. 
+
+At **12:30 PM**, he takes a much-needed break for lunch at Hobbs Cafe, allowing himself a moment to recharge and reflect on his morning efforts. He understands the importance of resetting his thoughts before diving back into the afternoon's work.
+
+Klaus resumes writing and revising his paper from **1:00 PM to 4:30 PM**, focusing on processing his advisor's feedback and organizing his thoughts effectively. He makes it a point to take a short break during this period to stretch and maintain his well-being.
+
+By **5:00 PM**, he concludes his time at the library and returns home. Dinner is around **5:30 PM**, where he allows himself to unwind for the evening. From **6:30 PM to 8:00 PM**, he dedicates time to reviewing notes and synthesizing ideas, determined to incorporate everything he has learned and refine his work further.
+
+As the night progresses, Klaus prioritizes unwinding, choosing to enjoy music or reading until **10:30 PM**. He reflects on the challenges he continues to face but remains committed to maintaining a positive outlook. Klaus knows that setbacks are part of the academic journey and is determined to regain his focus and confidence. Finally, he prepares for bed, aiming to sleep by **11:00 PM**, aware that a good night's rest will prepare him for the productive days ahead.
+Lifestyle: Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at **7:00 AM**   2. Enjoy breakfast and prepare for research by **8:00 AM**   3. Settle into reading for pleasure from **9:00 AM to 11:00 AM**   4. Review notes and synthesize ideas for the paper from **11:00 AM to 12:30 PM**   5. Lunch break at Hobbs Cafe at **12:30 PM**   6. Outline objectives for the upcoming week from **3:00 PM to 4:30 PM**
+Current Date: Tuesday February 21
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Klaus has a major disagreement with his research advisor about the direction of his thesis, leaving him feeling frustrated and uncertain. (from 2023-02-20 12:00:00)
+2. Klaus Mueller is having breakfast and preparing materials for the research paper (from 2023-02-13 08:30:00)
+3. This is Klaus Mueller's plan for Monday February 20: wake up and complete his morning routine at 7:00, have breakfast and prepare materials for his research paper by 8:00, head to the library at 8:30 for research on gentrification, spend the morning writing and compiling data until 12:00, have lunch at Hobbs Cafe at 12:30, continue writing and working on the paper in the afternoon from 1:00 to 4:30, take a short break to stretch and relax before wrapping up his day at the library, head back home by 5:00 and eat dinner around 5:30, review notes and synthesize ideas for the paper from 6:30 to 8:00, take some time to unwind, perhaps by reading or listening to music until 10:30, get ready for bed and aim to sleep by 11:00. (from 2023-02-20 00:00:00)
+4. This is Klaus Mueller's plan for Tuesday February 21: wake up and complete his morning routine at 7:00, have breakfast and prepare materials for his research paper by 8:00, head to the library at 8:30 for research on gentrification, spend the morning writing and compiling data until 12:00, have lunch at Hobbs Cafe at 12:30, continue writing and working on the paper in the afternoon from 1:00 to 4:30, take a short break to stretch and relax before wrapping up his day at the library, head back home by 5:00 and eat dinner around 5:30, review notes and synthesize ideas for the paper from 6:30 to 8:00, take some time to unwind, perhaps by reading or listening to music until 10:30, get ready for bed and aim to sleep by 11:00. (from 2023-02-21 00:00:00)
+5. This is Klaus Mueller's plan for Sunday February 19: wake up and complete his morning routine at 7:00, have breakfast and prepare materials for his research paper by 8:00, head to the library at 8:30 for research on gentrification, spend the morning writing and compiling data until 12:00, have lunch at Hobbs Cafe at 12:30, continue writing and working on the paper in the afternoon from 1:00 to 4:30, take a short break to stretch and relax before wrapping up his day at the library, head back home by 5:00 and eat dinner around 5:30, review notes and synthesize ideas for the paper from 6:30 to 8:00, take some time to unwind, perhaps by reading or listening to music until 10:30, get ready for bed and aim to sleep by 11:00. (from 2023-02-19 00:00:00)
+6. This is Klaus Mueller's plan for Friday February 17: wake up and complete his morning routine at 7:00, have breakfast and prepare materials for his research paper by 8:00, head to the library at 8:30 for research on gentrification, spend the morning writing and compiling data until 12:00, have lunch at Hobbs Cafe at 12:30, continue writing and working on the paper in the afternoon from 1:00 to 4:30, take a short break to stretch and relax before wrapping up his day at the library, head back home by 5:00 and eat dinner around 5:30, review notes and synthesize ideas for the paper from 6:30 to 8:00, take some time to unwind, perhaps by reading or listening to music until 10:30, get ready for bed and aim to sleep by 11:00. (from 2023-02-17 00:00:00)
+7. This is Klaus Mueller's plan for Thursday February 16: wake up and complete his morning routine at 7:00, have breakfast and prepare materials for his research paper by 8:00, head to the library at 8:30 for research on gentrification, spend the morning writing and compiling data until 12:00, have lunch at Hobbs Cafe at 12:30, continue writing and working on the paper in the afternoon from 1:00 to 4:30, take a short break to stretch and relax before wrapping up his day at the library, head back home by 5:00 and eat dinner around 5:30, review notes and synthesize ideas for the paper from 6:30 to 8:00, take some time to unwind, perhaps by reading or listening to music until 10:30, get ready for bed and aim to sleep by 11:00. (from 2023-02-16 00:00:00)
+8. This is Klaus Mueller's plan for Saturday February 18: wake up and complete his morning routine at 7:00, have breakfast and prepare materials for his research paper by 8:00, head to the library at 8:30 for research on gentrification, spend the morning writing and compiling data until 12:00, have lunch at Hobbs Cafe at 12:30, continue writing and working on the paper in the afternoon from 1:00 to 4:30, take a short break to stretch and relax before wrapping up his day at the library, head back home by 5:00 and eat dinner around 5:30, review notes and synthesize ideas for the paper from 6:30 to 8:00, take some time to unwind, perhaps by reading or listening to music until 10:30, get ready for bed and aim to sleep by 11:00. (from 2023-02-18 00:00:00)
+9. This is Klaus Mueller's plan for Wednesday February 15: wake up and complete his morning routine at 7:00, have breakfast and prepare materials for his research paper by 8:00, head to the library at 8:30 for research on gentrification, spend the morning writing and compiling data until 12:00, have lunch at Hobbs Cafe at 12:30, continue writing and working on the paper in the afternoon from 1:00 to 4:30, take a short break to stretch and relax before wrapping up his day at the library, head back home by 5:00 and eat dinner around 5:30, review notes and synthesize ideas for the paper from 6:30 to 8:00, take some time to unwind, perhaps by reading or listening to music until 10:30, get ready for bed and aim to sleep by 11:00. (from 2023-02-15 00:00:00)
+10. This is Klaus Mueller's plan for Monday February 13: wake up and complete his morning routine at 7:00, have breakfast and prepare materials for his research paper by 8:00, head to the library at 8:30 for research on gentrification, spend the morning writing and compiling data until 12:00, have lunch at Hobbs Cafe at 12:30, continue writing and working on the paper in the afternoon from 1:00 to 4:30, take a short break to stretch and relax before wrapping up his day at the library, head back home by 5:00 and eat dinner around 5:30, review notes and synthesize ideas for the paper from 6:30 to 8:00, take some time to unwind, perhaps by reading or listening to music until 10:30, get ready for bed and aim to sleep by 11:00. (from 2023-02-13 08:00:00)
+11. This is Klaus Mueller's plan for Tuesday February 14: wake up and complete his morning routine at 7:00, have breakfast and prepare materials for his research paper by 8:00, head to the library at 8:30 for research on gentrification, spend the morning writing and compiling data until 12:00, have lunch at Hobbs Cafe at 12:30, continue writing and working on the paper in the afternoon from 1:00 to 4:30, take a short break to stretch and relax before wrapping up his day at the library, head back home by 5:00 and eat dinner around 5:30, review notes and synthesize ideas for the paper from 6:30 to 8:00, take some time to unwind, perhaps by reading or listening to music until 10:30, get ready for bed and aim to sleep by 11:00. (from 2023-02-14 00:00:00)
+12. bookshelf is filled with books on urban studies and sociology (from 2023-02-14 19:00:00)
+13. Klaus Mueller is gathering research materials and notes (from 2023-02-14 17:00:00)
+14. Maria Lopez is Relaxing and watching TV or playing games (from 2023-02-13 12:00:00)
+15. Klaus Mueller is gathering research materials and notes (from 2023-02-13 09:30:00)
+16. Maria Lopez is reviewing physics notes from previous classes (from 2023-02-13 16:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 2: "Feeling down, depressed, or hopeless"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

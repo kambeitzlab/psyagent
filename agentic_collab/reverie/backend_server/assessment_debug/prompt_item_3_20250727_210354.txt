@@ -1,0 +1,49 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Status: Maria Lopez is ready to tackle another day on Tuesday, February 14. She plans to start her morning routine promptly at 9:00 AM, ensuring she sets a positive tone for the day ahead. Breakfast and a review of class notes will take place at 9:30 AM, preparing her for classes scheduled from 10:30 AM to 1:00 PM, where she aims to stay focused and take detailed notes.
+
+After her classes, Maria will recharge with lunch at Hobbs Cafe from 1:00 PM to 2:00 PM, hopefully catching up with friends during this break. From 2:00 PM to 5:00 PM, she has dedicated time for studying for her physics exams, emphasizing the importance of covering all necessary materials.
+
+Dinner is planned for 5:00 PM, allowing her to refuel before diving into her evening activities. Maria intends to stream video games on Twitch from 6:00 PM to 9:00 PM, ensuring her setup is ready for a smooth streaming experience.
+
+Following the stream, she is looking forward to relaxing and unwinding at home from 9:00 PM to 11:00 PM, which is essential for keeping her stress at bay. Should she feel up to it, Maria might extend her streaming or gaming session from 11:00 PM to 1:00 AM while managing her energy levels, so she doesn't get too tired. Finally, she plans to prepare for bed and aims to sleep by 2:00 AM to maintain her well-being through a consistent sleep schedule. Overall, Maria is optimistic about her day, feeling accomplished and energized from her previous day’s efforts.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 9:00 AM.   2. Have breakfast and review class notes at 9:30 AM.   3. Attend classes from 10:30 AM to 1:00 PM.   4. Recharge with lunch at Hobbs Cafe from 1:00 PM to 2:00 PM.   5. Study for physics exams from 2:00 PM to 5:00 PM.   6. Stream video games on Twitch from 6:00 PM to 9:00 PM.
+Current Date: Tuesday February 14
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. This is Maria Lopez's plan for Tuesday February 14: Wake up and complete morning routine at 9:00 am, Enjoy breakfast and review notes for classes at 9:30 am, Attend classes from 10:30 am to 1:00 pm, Have lunch and take a break at Hobbs Cafe from 1:00 pm to 2:00 pm, Study for physics exams from 2:00 pm to 5:00 pm, Have early dinner at 5:00 pm, Twitch stream video games from 6:00 pm to 9:00 pm, Relax and unwind at home from 9:00 pm to 11:00 pm, Continue streaming or gaming from 11:00 pm to 1:00 am, Prepare for bed and sleep at 2:00 am. (from 2023-02-14 00:00:00)
+2. This is Maria Lopez's plan for Monday February 13: Wake up and complete morning routine at 9:00 am, Enjoy breakfast and review notes for classes at 9:30 am, Attend classes from 10:30 am to 1:00 pm, Have lunch and take a break at Hobbs Cafe from 1:00 pm to 2:00 pm, Study for physics exams from 2:00 pm to 5:00 pm, Have early dinner at 5:00 pm, Twitch stream video games from 6:00 pm to 9:00 pm, Relax and unwind at home from 9:00 pm to 11:00 pm, Continue streaming or gaming from 11:00 pm to 1:00 am, Prepare for bed and sleep at 2:00 am. (from 2023-02-13 00:00:00)
+3. Maria Lopez is setting up the streaming software (from 2023-02-13 00:15:00)
+4. computer is currently running streaming software and connected to the internet (from 2023-02-13 01:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 3: "Trouble falling or staying asleep, or sleeping too much"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

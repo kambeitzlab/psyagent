@@ -1,0 +1,42 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Maria Lopez is working on her physics degree and streaming games on Twitch to make some extra money. She visits Hobbs Cafe for studying and eating just about everyday.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: Maria Lopez spends at least 3 hours a day Twitch streaming or gaming.
+Current Date: Monday February 13
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. This is Maria Lopez's plan for Monday February 13: Wake up and complete morning routine at 9:00 am, Have breakfast and review physics notes at 10:00 am, Head to Hobbs Cafe to study for classes from 11:00 am to 1:00 pm, Take a break and chat with friends or fellow students at Hobbs Cafe from 1:00 pm to 2:00 pm, Return home and prepare for afternoon gaming session from 2:00 pm to 5:00 pm, Have dinner at 6:00 pm and relax for a bit, Start Twitch streaming session from 7:00 pm to 10:00 pm, Wind down and relax by watching videos or reading from 10:00 pm to 12:00 am, Do a final gaming session or study additional physics topics until 2:00 am. (from 2023-02-13 08:00:00)
+2. Maria Lopez is playing games (from 2023-02-13 08:30:00)
+3. common room sofa is occupied with cushions and snacks scattered (from 2023-02-13 16:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 6: "Feeling bad about yourself - or that you are a failure or have let yourself or your family down"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

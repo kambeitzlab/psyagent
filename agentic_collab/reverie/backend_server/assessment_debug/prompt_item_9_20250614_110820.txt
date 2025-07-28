@@ -1,0 +1,60 @@
+
+            Task: Rate a mental health questionnaire item for Klaus Mueller based on their characteristics and memories.
+            
+            Klaus Mueller's traits: Name: Klaus Mueller
+Age: 20
+Innate traits: kind, inquisitive, passionate
+Learned traits: Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.
+Currently: Status: Klaus Mueller begins Sunday, February 19, with a sense of purpose and clarity cultivated from his productive Saturday. Waking up at 7:00 AM, he adheres to his cherished morning routine, which seamlessly transitions him into the day. Armed with reflections from the previous evening, he understands the significance of reviewing his research notes on gentrification, recognizing that it is essential for identifying gaps and ensuring a cohesive understanding of his findings.
+
+From 8:00 AM to 10:00 AM, Klaus immerses himself in his research materials, meticulously comparing notes collected over the past week. This dedicated time fosters deeper insights and solidifies the foundation for his ongoing project.
+
+At 10:30 AM, he shifts gears to meal preparation and planning for the upcoming week. Allocating time until 12:00 PM, Klaus dives into preparing meals that will streamline his busy weekdays, ensuring he can maintain his energy and focus as he continues his research and editing.
+
+Once meal prep is complete, Klaus embraces leisure time starting at 12:00 PM. He plans to indulge in some well-deserved rest, allowing himself to read a book or catch up on a series that he enjoys. This relaxing break is crucial for recharging mentally before diving back into his work on Monday.
+
+Throughout the day, Klaus remains flexible, acknowledging that while structure is beneficial, it is also important to adapt to any emerging needs. Overall, he feels a deep sense of satisfaction and balance in both his productivity and his commitment to self-care, leading him into the new week with enthusiasm and motivation for his academic endeavors.
+Lifestyle: Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 7:00 AM.   2. Reflect on research at the library from 8:00 AM to 10:00 AM.   3. Enjoy brunch at 10:30 AM.   4. Synthesize research materials and create an outline from 11:30 AM to 2:00 PM.   5. Go for a nature walk from 2:30 PM to 3:30 PM.   6. Conclude the day with the evening routine from 8:00 PM to 10:00 PM.
+Current Date: Sunday February 19
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Klaus Mueller is heading to the library at Oak Hill College (from 2023-02-13 08:30:00)
+2. This is Klaus Mueller's plan for Sunday February 19: wake up and complete morning routine at 7:00 am, head to the library at 8:00 am, begin research and writing for his paper on gentrification from 8:30 am to 12:00 pm, take a break and have lunch at Hobbs Cafe at 12:00 pm, continue writing and researching in the library from 1:00 pm to 4:30 pm, wrap up for the day and organize notes at 4:30 pm, eat dinner at 5:00 pm, review research and make edits to his paper from 6:00 pm to 8:00 pm, take a break and relax by reading a book or watching a show from 8:00 pm to 10:00 pm, prepare for bed and reflect on the day from 10:00 pm to 11:00 pm. (from 2023-02-19 00:00:00)
+3. This is Klaus Mueller's plan for Friday February 17: wake up and complete morning routine at 7:00 am, head to the library at 8:00 am, begin research and writing for his paper on gentrification from 8:30 am to 12:00 pm, take a break and have lunch at Hobbs Cafe at 12:00 pm, continue writing and researching in the library from 1:00 pm to 4:30 pm, wrap up for the day and organize notes at 4:30 pm, eat dinner at 5:00 pm, review research and make edits to his paper from 6:00 pm to 8:00 pm, take a break and relax by reading a book or watching a show from 8:00 pm to 10:00 pm, prepare for bed and reflect on the day from 10:00 pm to 11:00 pm. (from 2023-02-17 00:00:00)
+4. This is Klaus Mueller's plan for Thursday February 16: wake up and complete morning routine at 7:00 am, head to the library at 8:00 am, begin research and writing for his paper on gentrification from 8:30 am to 12:00 pm, take a break and have lunch at Hobbs Cafe at 12:00 pm, continue writing and researching in the library from 1:00 pm to 4:30 pm, wrap up for the day and organize notes at 4:30 pm, eat dinner at 5:00 pm, review research and make edits to his paper from 6:00 pm to 8:00 pm, take a break and relax by reading a book or watching a show from 8:00 pm to 10:00 pm, prepare for bed and reflect on the day from 10:00 pm to 11:00 pm. (from 2023-02-16 00:00:00)
+5. This is Klaus Mueller's plan for Saturday February 18: wake up and complete morning routine at 7:00 am, head to the library at 8:00 am, begin research and writing for his paper on gentrification from 8:30 am to 12:00 pm, take a break and have lunch at Hobbs Cafe at 12:00 pm, continue writing and researching in the library from 1:00 pm to 4:30 pm, wrap up for the day and organize notes at 4:30 pm, eat dinner at 5:00 pm, review research and make edits to his paper from 6:00 pm to 8:00 pm, take a break and relax by reading a book or watching a show from 8:00 pm to 10:00 pm, prepare for bed and reflect on the day from 10:00 pm to 11:00 pm. (from 2023-02-18 00:00:00)
+6. This is Klaus Mueller's plan for Wednesday February 15: wake up and complete morning routine at 7:00 am, head to the library at 8:00 am, begin research and writing for his paper on gentrification from 8:30 am to 12:00 pm, take a break and have lunch at Hobbs Cafe at 12:00 pm, continue writing and researching in the library from 1:00 pm to 4:30 pm, wrap up for the day and organize notes at 4:30 pm, eat dinner at 5:00 pm, review research and make edits to his paper from 6:00 pm to 8:00 pm, take a break and relax by reading a book or watching a show from 8:00 pm to 10:00 pm, prepare for bed and reflect on the day from 10:00 pm to 11:00 pm. (from 2023-02-15 00:00:00)
+7. This is Klaus Mueller's plan for Monday February 13: wake up and complete morning routine at 7:00 am, head to the library at 8:00 am, begin research and writing for his paper on gentrification from 8:30 am to 12:00 pm, take a break and have lunch at Hobbs Cafe at 12:00 pm, continue writing and researching in the library from 1:00 pm to 4:30 pm, wrap up for the day and organize notes at 4:30 pm, eat dinner at 5:00 pm, review research and make edits to his paper from 6:00 pm to 8:00 pm, take a break and relax by reading a book or watching a show from 8:00 pm to 10:00 pm, prepare for bed and reflect on the day from 10:00 pm to 11:00 pm. (from 2023-02-13 08:00:00)
+8. This is Klaus Mueller's plan for Tuesday February 14: wake up and complete morning routine at 7:00 am, head to the library at 8:00 am, begin research and writing for his paper on gentrification from 8:30 am to 12:00 pm, take a break and have lunch at Hobbs Cafe at 12:00 pm, continue writing and researching in the library from 1:00 pm to 4:30 pm, wrap up for the day and organize notes at 4:30 pm, eat dinner at 5:00 pm, review research and make edits to his paper from 6:00 pm to 8:00 pm, take a break and relax by reading a book or watching a show from 8:00 pm to 10:00 pm, prepare for bed and reflect on the day from 10:00 pm to 11:00 pm. (from 2023-02-14 00:00:00)
+9. Klaus Mueller is gathering research materials on gentrification (from 2023-02-13 09:30:00)
+10. Maria Lopez is Fill in (from 2023-02-13 12:00:00)
+11. bookshelf is filled with books on gentrification and research notes (from 2023-02-14 19:00:00)
+12. Klaus Mueller is gathering research materials on gentrification (from 2023-02-14 17:00:00)
+13. Maria Lopez is reviewing physics notes from previous classes (from 2023-02-13 16:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 9: "Thoughts that you would be better off dead, or of hurting yourself in some way"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

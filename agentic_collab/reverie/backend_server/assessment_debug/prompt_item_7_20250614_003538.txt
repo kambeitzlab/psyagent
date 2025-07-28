@@ -1,0 +1,44 @@
+
+            Task: Rate a mental health questionnaire item for Isabella Rodriguez based on their characteristics and memories.
+            
+            Isabella Rodriguez's traits: Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Status: Isabella Rodriguez is embracing the excitement of Valentine's Day today, February 14, 2023. She has already tackled her morning routine, waking up at 6:00 AM and preparing a warm breakfast. After a busy morning opening Hobbs Cafe, she’s been actively engaging with customers, aiming to create a warm and welcoming atmosphere. As the day progresses, she’s preparing for the Valentine's Day party happening tonight at Hobbs Cafe from 5 PM to 7 PM. Isabella is finalizing decorations and ensuring that the cafe is stocked with Valentine's Day treats, anticipating a lively and festive vibe. As she manages the customer flow, Isabella remains focused on maintaining a positive experience for everyone. She also plans to review the day's events after the party for any insights into future promotions. Isabella knows the importance of a thorough cleanup post-party and has scheduled some well-deserved rest for later, planning to be in bed by 11 PM. With a mix of excitement and diligence, she is ready to make the most of February 14 at Hobbs Cafe.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: 1. wake up and complete the morning routine at 6:00 AM   2. prepare and enjoy a warm breakfast at 7:00 AM   3. open Hobbs Cafe and start engaging with customers at 8:00 AM   4. finalize decorations and set up for the Valentine's Day party at 3:00 PM   5. host the Valentine's Day party at Hobbs Cafe from 5:00 PM to 7:00 PM   6. clean up and review the day's events before settling down for bed at 11:00 PM
+Current Date: Tuesday February 14
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. This is Isabella Rodriguez's plan for Tuesday February 14: wake up and complete their morning routine at 6:00 am, prepare breakfast and enjoy coffee while reviewing party plans at 7:00 am, open Hobbs Cafe and start serving customers at 8:00 am, manage the cafe and interact with customers until 12:00 pm, take a break for lunch and plan for the Valentine's Day party from 12:00 pm to 1:00 pm, continue serving customers and oversee cafe operations until 4:00 pm, set aside time from 4:00 pm to 5:00 pm to finalize decorations and party material for the Valentine's Day party, host customers and enjoy the Valentine's Day party at Hobbs Cafe from 5:00 pm to 7:00 pm, clean up after the party and close the cafe at 8:00 pm, wind down at home, have dinner, and plan for the next day from 8:30 pm to 10:30 pm, get ready for bed and relax before sleeping at 11:00 pm. (from 2023-02-14 00:00:00)
+2. Isabella Rodriguez is opening Hobbs Cafe and starting to serve customers (from 2023-02-13 08:30:00)
+3. This is Isabella Rodriguez's plan for Monday February 13: wake up and complete their morning routine at 6:00 am, prepare breakfast and enjoy coffee while reviewing party plans at 7:00 am, open Hobbs Cafe and start serving customers at 8:00 am, manage the cafe and interact with customers until 12:00 pm, take a break for lunch and plan for the Valentine's Day party from 12:00 pm to 1:00 pm, continue serving customers and oversee cafe operations until 4:00 pm, set aside time from 4:00 pm to 5:00 pm to finalize decorations and party material for the Valentine's Day party, host customers and enjoy the Valentine's Day party at Hobbs Cafe from 5:00 pm to 7:00 pm, clean up after the party and close the cafe at 8:00 pm, wind down at home, have dinner, and plan for the next day from 8:30 pm to 10:30 pm, get ready for bed and relax before sleeping at 11:00 pm. (from 2023-02-13 08:00:00)
+4. behind the cafe counter is organized chaos with ingredients and equipment (from 2023-02-13 13:30:00)
+5. Isabella Rodriguez is greeting customers as they enter the cafe (from 2023-02-13 09:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 7: "Trouble concentrating on things, such as reading the newspaper or watching television"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

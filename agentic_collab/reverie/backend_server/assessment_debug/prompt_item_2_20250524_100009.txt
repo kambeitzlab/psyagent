@@ -1,0 +1,48 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Status: Maria Lopez is focused on her physics degree and continues to stream games on Twitch for extra income. On Tuesday, February 14, she has set a well-planned schedule to keep her day productive and balanced. She aims to complete her morning routine by 9:00 AM, followed by breakfast and a social media check from 9:30 AM to 10:00 AM. She will then head to Hobbs Cafe to study physics from 10:00 AM to 1:00 PM, ensuring she sticks to this time frame for effective studying. After a lunch break at Hobbs Cafe from 1:00 PM to 2:00 PM, she plans to resume her physics studies from 2:00 PM to 4:00 PM. In the afternoon, Maria will stream gaming on Twitch from 4:00 PM to 7:00 PM, followed by dinner at 6:00 PM. Post-dinner, she can relax or hang out with friends until 9:00 PM, when she will start her evening gaming stream on Twitch that will last until 12:00 AM. Maria intends to wind down, complete any remaining studies or tasks from 12:00 AM to 2:00 AM, and prepare for bed, ensuring she gets enough rest for the next day. Feeling productive and fulfilled, she hopes to maintain her positive momentum throughout the day.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: 1. Wake up and complete the morning routine by 9:00 AM.   2. Have breakfast and check social media from 9:30 AM to 10:00 AM.   3. Study physics at Hobbs Cafe from 10:00 AM to 1:00 PM.   4. Have lunch at Hobbs Cafe from 1:00 PM to 2:00 PM.   5. Resume physics studies from 2:00 PM to 4:00 PM.   6. Stream gaming on Twitch from 4:00 PM to 7:00 PM, followed by dinner at 6:00 PM.   7. Relax or hang out with friends until 9:00 PM before starting the evening gaming stream on Twitch until 12:00 AM.
+Current Date: Tuesday February 14
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Maria Lopez is Fill in (from 2023-02-13 16:00:00)
+2. computer is idle (from 2023-02-13 08:00:00)
+3. blackboard is idle (from 2023-02-13 08:00:00)
+4. closet is idle (from 2023-02-13 08:00:00)
+5. desk is idle (from 2023-02-13 08:00:00)
+6. bed is idle (from 2023-02-13 08:00:00)
+7. Maria Lopez is idle (from 2023-02-13 08:00:00)
+8. This is Maria Lopez's plan for Tuesday February 14: Wake up and complete her morning routine at 9:00 am, Have breakfast and check social media from 9:30 am to 10:00 am, Study physics at Hobbs Cafe from 10:00 am to 1:00 pm, Take a break and have lunch at Hobbs Cafe from 1:00 pm to 2:00 pm, Continue studying physics at Hobbs Cafe from 2:00 pm to 4:00 pm, Stream gaming on Twitch from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Perform post-dinner activities, such as relaxing or hanging out with friends, from 7:00 pm to 9:00 pm, Stream gaming on Twitch again from 9:00 pm to 12:00 am, Wind down and complete any remaining studies or tasks from 12:00 am to 2:00 am, Prepare for bed and sleep at 2:00 am. (from 2023-02-14 00:00:00)
+9. This is Maria Lopez's plan for Monday February 13: Wake up and complete her morning routine at 9:00 am, Have breakfast and check social media from 9:30 am to 10:00 am, Study physics at Hobbs Cafe from 10:00 am to 1:00 pm, Take a break and have lunch at Hobbs Cafe from 1:00 pm to 2:00 pm, Continue studying physics at Hobbs Cafe from 2:00 pm to 4:00 pm, Stream gaming on Twitch from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Perform post-dinner activities, such as relaxing or hanging out with friends, from 7:00 pm to 9:00 pm, Stream gaming on Twitch again from 9:00 pm to 12:00 am, Wind down and complete any remaining studies or tasks from 12:00 am to 2:00 am, Prepare for bed and sleep at 2:00 am. (from 2023-02-13 08:00:00)
+
+            
+            Questionnaire: GAD-7
+            Instructions: Over the last two weeks, how often have you been bothered by the following problems?
+            
+            Item 2: "Not being able to stop or control worrying"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

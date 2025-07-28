@@ -1,0 +1,348 @@
+# AI Agent Psychological Research Platform - .gitignore
+
+# ===========================
+# API Keys and Secrets
+# ===========================
+openai_config.json
+**/openai_config.json
+*.key
+*.secret
+.env
+.env.local
+.env.*.local
+
+# ===========================
+# Simulation Data and Results  
+# ===========================
+simulations/
+**/simulations/
+experiment_results/
+**/experiment_results/
+assessment_results/
+**/assessment_results/
+all_logs/
+**/all_logs/
+logs/
+**/logs/
+simulation_debug.log
+assessment_debug.log
+*.log
+
+# Large simulation storage files
+environment/frontend_server/storage/
+environment/frontend_server/temp_storage/
+environment/frontend_server/compressed_storage/
+**/storage/
+**/temp_storage/
+
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask
+instance/
+.webassets-cache
+
+# Scrapy
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# PEP 582
+__pypackages__/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# ===========================
+# Operating System
+# ===========================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.tmp
+*.temp
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ===========================
+# IDEs and Editors
+# ===========================
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+Session.vim
+Sessionx.vim
+.netrwhist
+*~
+tags
+[._]*.un~
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+.org-id-locations
+*_archive
+*_flymake.*
+/eshell/history
+/eshell/lastdir
+/elpa/
+*.rel
+
+# ===========================
+# Research and Data Files
+# ===========================
+
+# Large data files
+*.csv
+*.xlsx
+*.json
+!**/example_*.json
+!openai_config.json.example
+
+# Plot outputs
+*.png
+*.pdf
+*.svg
+*.jpg
+*.jpeg
+!docs/**/*.png
+!docs/**/*.pdf
+!README_assets/
+
+# Statistical outputs
+*.rds
+*.rdata
+*.sav
+*.dta
+
+# ===========================
+# Temporary and Cache Files
+# ===========================
+tmp/
+temp/
+cache/
+.cache/
+*.swp
+*.swo
+*~
+
+# ===========================
+# Version Control
+# ===========================
+.git/
+*.orig
+*.rej
+
+# ===========================
+# Package managers
+# ===========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===========================
+# Documentation builds
+# ===========================
+docs/_build/
+docs/build/
+site/
+
+# ===========================
+# Backup files
+# ===========================
+*.bak
+*.backup
+*.old
+*_backup.py
+*_old.py
+
+# ===========================
+# Custom exclusions for this project
+# ===========================
+
+# Exclude large base simulation files but keep structure
+environment/frontend_server/storage/base_*/
+!environment/frontend_server/storage/base_*/README.md
+
+# Exclude user-specific test files
+test_*.py
+!test_simulation_interface.py
+!test_absolute_steps.py
+
+# Exclude personal experiment files
+run_experiment_V*.py
+!run_experiment_example.py
+
+# Exclude personal analysis files  
+analysis_*.py
+plot_*.py
+check_*.py
+!examples/analysis_example.py
+
+# Keep example configurations but exclude real ones
+*_config.json
+!*_config.json.exampleagentic_collab.zip

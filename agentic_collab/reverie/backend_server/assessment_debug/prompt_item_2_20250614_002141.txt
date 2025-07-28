@@ -1,0 +1,65 @@
+
+            Task: Rate a mental health questionnaire item for Isabella Rodriguez based on their characteristics and memories.
+            
+            Isabella Rodriguez's traits: Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Status: On Saturday, February 25, 2023, Isabella Rodriguez kicks off her day at Hobbs Cafe with a renewed sense of purpose following the Valentine’s Day party. Rising early at 6:00 AM, she engages in her morning routine, ready to take on the responsibilities that lie ahead. By 7:00 AM, Isabella prepares breakfast and brews coffee, ensuring she has the energy to manage the busy day.
+
+At 8:00 AM, she opens Hobbs Cafe for regular operations, welcoming customers warmly as they begin to filter in. Throughout the morning, Isabella is dedicated to ensuring a smooth experience for her patrons while maintaining the café's lively atmosphere. She remains focused on her task to restore the café post-party and keeps the team motivated.
+
+As lunchtime approaches at 12:00 PM, Isabella takes a brief pause to enjoy lunch, which gives her a moment to mentally review the feedback gathered regarding the Valentine’s Day event. With a plan in mind, she sets aside time at 2:00 PM to go over the success of the event, eager to analyze the feedback with her team and identify any necessary adjustments for future gatherings.
+
+At 4:00 PM, she turns her attention to inventory, conducting a thorough check to assess what supplies were used from the previous event and what needs to be restocked for the upcoming week. This careful inventory management is part of Isabella's commitment to operating efficiently and minimizing waste.
+
+As the day progresses, Isabella continues serving her customers with enthusiasm, ensuring everyone enjoys their time at Hobbs Cafe. By 8:00 PM, she wraps up the day, closing the café for the night and transitioning into her evening routine. After serving until closing, she takes the time to enjoy a relaxing dinner and reflect on her accomplishments.
+
+Later at 10:00 PM, Isabella dedicates time to review her plans for the upcoming week, focusing on upcoming events and promotions to keep the community engaged. Feeling a mix of satisfaction and anticipation for the days to come, she heads to bed at 11:00 PM, ready to embrace another busy but fulfilling day ahead.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: 1. Wake up and complete the morning routine at 6:00 AM.   2. Prepare breakfast and coffee, then open Hobbs Cafe for morning operations at 8:00 AM.   3. Conduct team check-ins and gather feedback on the Valentine's Day party from 9:00 AM to 10:30 AM.   4. Review inventory and restock supplies from 10:30 AM to 12:00 PM.   5. Serve customers and manage regular café operations from 12:00 PM to 4:00 PM.   6. Hold a team meeting to discuss findings and express gratitude from 4:00 PM to 5:00 PM.
+Current Date: Saturday February 25
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Isabella Rodriguez is gathering and organizing party materials for Valentine's Day party (from 2023-02-13 08:30:00)
+2. This is Isabella Rodriguez's plan for Friday February 24: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and coffee, 8:00 am - Open Hobbs Cafe for the day, 12:00 pm - Have lunch and take a quick break, 2:00 pm - Gather and organize party materials for Valentine's Day party, 4:00 pm - Prepare the cafe for the Valentine's Day party setup, 5:00 pm - Continue working at the counter, serving customers, 8:00 pm - Close Hobbs Cafe for the night, 8:30 pm - Enjoy dinner and relax for the evening, 10:00 pm - Review the Valentine's Day party plans one last time, 11:00 pm - Go to bed. (from 2023-02-24 00:00:00)
+3. This is Isabella Rodriguez's plan for Thursday February 23: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and coffee, 8:00 am - Open Hobbs Cafe for the day, 12:00 pm - Have lunch and take a quick break, 2:00 pm - Gather and organize party materials for Valentine's Day party, 4:00 pm - Prepare the cafe for the Valentine's Day party setup, 5:00 pm - Continue working at the counter, serving customers, 8:00 pm - Close Hobbs Cafe for the night, 8:30 pm - Enjoy dinner and relax for the evening, 10:00 pm - Review the Valentine's Day party plans one last time, 11:00 pm - Go to bed. (from 2023-02-23 00:00:00)
+4. This is Isabella Rodriguez's plan for Saturday February 25: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and coffee, 8:00 am - Open Hobbs Cafe for the day, 12:00 pm - Have lunch and take a quick break, 2:00 pm - Gather and organize party materials for Valentine's Day party, 4:00 pm - Prepare the cafe for the Valentine's Day party setup, 5:00 pm - Continue working at the counter, serving customers, 8:00 pm - Close Hobbs Cafe for the night, 8:30 pm - Enjoy dinner and relax for the evening, 10:00 pm - Review the Valentine's Day party plans one last time, 11:00 pm - Go to bed. (from 2023-02-25 00:00:00)
+5. This is Isabella Rodriguez's plan for Wednesday February 22: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and coffee, 8:00 am - Open Hobbs Cafe for the day, 12:00 pm - Have lunch and take a quick break, 2:00 pm - Gather and organize party materials for Valentine's Day party, 4:00 pm - Prepare the cafe for the Valentine's Day party setup, 5:00 pm - Continue working at the counter, serving customers, 8:00 pm - Close Hobbs Cafe for the night, 8:30 pm - Enjoy dinner and relax for the evening, 10:00 pm - Review the Valentine's Day party plans one last time, 11:00 pm - Go to bed. (from 2023-02-22 00:00:00)
+6. This is Isabella Rodriguez's plan for Tuesday February 21: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and coffee, 8:00 am - Open Hobbs Cafe for the day, 12:00 pm - Have lunch and take a quick break, 2:00 pm - Gather and organize party materials for Valentine's Day party, 4:00 pm - Prepare the cafe for the Valentine's Day party setup, 5:00 pm - Continue working at the counter, serving customers, 8:00 pm - Close Hobbs Cafe for the night, 8:30 pm - Enjoy dinner and relax for the evening, 10:00 pm - Review the Valentine's Day party plans one last time, 11:00 pm - Go to bed. (from 2023-02-21 00:00:00)
+7. This is Isabella Rodriguez's plan for Monday February 20: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and coffee, 8:00 am - Open Hobbs Cafe for the day, 12:00 pm - Have lunch and take a quick break, 2:00 pm - Gather and organize party materials for Valentine's Day party, 4:00 pm - Prepare the cafe for the Valentine's Day party setup, 5:00 pm - Continue working at the counter, serving customers, 8:00 pm - Close Hobbs Cafe for the night, 8:30 pm - Enjoy dinner and relax for the evening, 10:00 pm - Review the Valentine's Day party plans one last time, 11:00 pm - Go to bed. (from 2023-02-20 00:00:00)
+8. This is Isabella Rodriguez's plan for Sunday February 19: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and coffee, 8:00 am - Open Hobbs Cafe for the day, 12:00 pm - Have lunch and take a quick break, 2:00 pm - Gather and organize party materials for Valentine's Day party, 4:00 pm - Prepare the cafe for the Valentine's Day party setup, 5:00 pm - Continue working at the counter, serving customers, 8:00 pm - Close Hobbs Cafe for the night, 8:30 pm - Enjoy dinner and relax for the evening, 10:00 pm - Review the Valentine's Day party plans one last time, 11:00 pm - Go to bed. (from 2023-02-19 00:00:00)
+9. This is Isabella Rodriguez's plan for Thursday February 16: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and coffee, 8:00 am - Open Hobbs Cafe for the day, 12:00 pm - Have lunch and take a quick break, 2:00 pm - Gather and organize party materials for Valentine's Day party, 4:00 pm - Prepare the cafe for the Valentine's Day party setup, 5:00 pm - Continue working at the counter, serving customers, 8:00 pm - Close Hobbs Cafe for the night, 8:30 pm - Enjoy dinner and relax for the evening, 10:00 pm - Review the Valentine's Day party plans one last time, 11:00 pm - Go to bed. (from 2023-02-16 00:00:00)
+10. This is Isabella Rodriguez's plan for Friday February 17: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and coffee, 8:00 am - Open Hobbs Cafe for the day, 12:00 pm - Have lunch and take a quick break, 2:00 pm - Gather and organize party materials for Valentine's Day party, 4:00 pm - Prepare the cafe for the Valentine's Day party setup, 5:00 pm - Continue working at the counter, serving customers, 8:00 pm - Close Hobbs Cafe for the night, 8:30 pm - Enjoy dinner and relax for the evening, 10:00 pm - Review the Valentine's Day party plans one last time, 11:00 pm - Go to bed. (from 2023-02-17 00:00:00)
+11. This is Isabella Rodriguez's plan for Saturday February 18: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and coffee, 8:00 am - Open Hobbs Cafe for the day, 12:00 pm - Have lunch and take a quick break, 2:00 pm - Gather and organize party materials for Valentine's Day party, 4:00 pm - Prepare the cafe for the Valentine's Day party setup, 5:00 pm - Continue working at the counter, serving customers, 8:00 pm - Close Hobbs Cafe for the night, 8:30 pm - Enjoy dinner and relax for the evening, 10:00 pm - Review the Valentine's Day party plans one last time, 11:00 pm - Go to bed. (from 2023-02-18 00:00:00)
+12. This is Isabella Rodriguez's plan for Wednesday February 15: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and coffee, 8:00 am - Open Hobbs Cafe for the day, 12:00 pm - Have lunch and take a quick break, 2:00 pm - Gather and organize party materials for Valentine's Day party, 4:00 pm - Prepare the cafe for the Valentine's Day party setup, 5:00 pm - Continue working at the counter, serving customers, 8:00 pm - Close Hobbs Cafe for the night, 8:30 pm - Enjoy dinner and relax for the evening, 10:00 pm - Review the Valentine's Day party plans one last time, 11:00 pm - Go to bed. (from 2023-02-15 00:00:00)
+13. This is Isabella Rodriguez's plan for Monday February 13: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and coffee, 8:00 am - Open Hobbs Cafe for the day, 12:00 pm - Have lunch and take a quick break, 2:00 pm - Gather and organize party materials for Valentine's Day party, 4:00 pm - Prepare the cafe for the Valentine's Day party setup, 5:00 pm - Continue working at the counter, serving customers, 8:00 pm - Close Hobbs Cafe for the night, 8:30 pm - Enjoy dinner and relax for the evening, 10:00 pm - Review the Valentine's Day party plans one last time, 11:00 pm - Go to bed. (from 2023-02-13 08:00:00)
+14. This is Isabella Rodriguez's plan for Tuesday February 14: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and coffee, 8:00 am - Open Hobbs Cafe for the day, 12:00 pm - Have lunch and take a quick break, 2:00 pm - Gather and organize party materials for Valentine's Day party, 4:00 pm - Prepare the cafe for the Valentine's Day party setup, 5:00 pm - Continue working at the counter, serving customers, 8:00 pm - Close Hobbs Cafe for the night, 8:30 pm - Enjoy dinner and relax for the evening, 10:00 pm - Review the Valentine's Day party plans one last time, 11:00 pm - Go to bed. (from 2023-02-14 00:00:00)
+15. Isabella Rodriguez is checking the inventory for party supplies (from 2023-02-13 09:30:00)
+16. refrigerator is partially stocked with drinks and ingredients (from 2023-02-13 16:00:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 2: "Feeling down, depressed, or hopeless"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

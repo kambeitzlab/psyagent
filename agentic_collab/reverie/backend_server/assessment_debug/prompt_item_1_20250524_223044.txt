@@ -1,0 +1,56 @@
+
+            Task: Rate a mental health questionnaire item for Klaus Mueller based on their characteristics and memories.
+            
+            Klaus Mueller's traits: Name: Klaus Mueller
+Age: 20
+Innate traits: kind, inquisitive, passionate
+Learned traits: Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.
+Currently: Status: Klaus Mueller is beginning his day on Wednesday, February 15, with his established routine, which he finds essential for maintaining productivity. He woke up at 7:00 AM and successfully completed his morning routine, following it up with a nutritious breakfast at 7:30 AM to fuel his day ahead.
+
+Klaus plans to leave for the library at 8:30 AM, aiming to arrive by 9:00 AM, where he will dive back into his research and writing focused on the effects of gentrification in low-income communities. He has allocated the morning until 12:00 PM for concentrated writing and research efforts.
+
+At 12:30 PM, Klaus intends to take a lunch break at Hobbs Cafe, a spot he has enjoyed over the past few days for both meals and a brief respite. After lunch, he will return to the library at 1:30 PM, where he plans to continue his writing until 4:30 PM. 
+
+Klaus has set a goal to wrap up his writing and finalize his notes by 5:00 PM. He will then head to Hobbs Cafe for dinner at 5:30 PM, which offers him another opportunity to refuel after a productive day. 
+
+In the evening, Klaus will dedicate time from 6:30 PM to review what he accomplished throughout the day and plan for tomorrow. To unwind from a full day of work, he aims to relax with a book or TV from 7:30 PM to 9:30 PM, before preparing for bed, with a target of being asleep by 11:00 PM. Klaus is feeling focused and motivated as he continues to implement his structured routine that effectively balances productivity with necessary relaxation.
+Lifestyle: Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.
+Daily plan requirement: 1. wake up and complete the morning routine at 7:00 AM   2. enjoy breakfast at Hobbs Cafe at 7:30 AM   3. leave for the library at 8:30 AM and arrive by 9:00 AM   4. focus on research and writing from 9:00 AM to 12:00 PM   5. have lunch at Hobbs Cafe at 12:30 PM   6. return to the library and continue writing from 1:30 PM to 4:30 PM
+Current Date: Wednesday February 15
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Klaus Mueller is having breakfast (from 2023-02-13 16:00:00)
+2. closet is idle (from 2023-02-13 08:00:00)
+3. desk is idle (from 2023-02-13 08:00:00)
+4. game console is idle (from 2023-02-13 08:00:00)
+5. bed is idle (from 2023-02-13 08:00:00)
+6. Klaus Mueller is idle (from 2023-02-13 08:00:00)
+7. This is Klaus Mueller's plan for Wednesday February 15: Wake up and complete morning routine at 7:00 am, Have breakfast around 7:30 am, Leave for the library by 8:30 am, Arrive at the library by 9:00 am and begin research for the paper, Spend the morning writing and researching until 12:00 pm, Take a break for lunch at Hobbs Cafe at 12:30 pm, Continue writing in the library from 1:30 pm until 4:30 pm, Wrap up writing for the day and finalize notes by 5:00 pm, Have dinner at Hobbs Cafe at 5:30 pm, Review the day's work and plan for tomorrow from 6:30 pm, Relax, read a book or watch TV from 7:30 pm to 9:30 pm, Prepare for bed and unwind from 9:30 pm to 11:00 pm, Go to bed by 11:00 pm. (from 2023-02-15 00:00:00)
+8. This is Klaus Mueller's plan for Tuesday February 14: Wake up and complete morning routine at 7:00 am, Have breakfast around 7:30 am, Leave for the library by 8:30 am, Arrive at the library by 9:00 am and begin research for the paper, Spend the morning writing and researching until 12:00 pm, Take a break for lunch at Hobbs Cafe at 12:30 pm, Continue writing in the library from 1:30 pm until 4:30 pm, Wrap up writing for the day and finalize notes by 5:00 pm, Have dinner at Hobbs Cafe at 5:30 pm, Review the day's work and plan for tomorrow from 6:30 pm, Relax, read a book or watch TV from 7:30 pm to 9:30 pm, Prepare for bed and unwind from 9:30 pm to 11:00 pm, Go to bed by 11:00 pm. (from 2023-02-14 00:00:00)
+9. This is Klaus Mueller's plan for Monday February 13: Wake up and complete morning routine at 7:00 am, Have breakfast around 7:30 am, Leave for the library by 8:30 am, Arrive at the library by 9:00 am and begin research for the paper, Spend the morning writing and researching until 12:00 pm, Take a break for lunch at Hobbs Cafe at 12:30 pm, Continue writing in the library from 1:30 pm until 4:30 pm, Wrap up writing for the day and finalize notes by 5:00 pm, Have dinner at Hobbs Cafe at 5:30 pm, Review the day's work and plan for tomorrow from 6:30 pm, Relax, read a book or watch TV from 7:30 pm to 9:30 pm, Prepare for bed and unwind from 9:30 pm to 11:00 pm, Go to bed by 11:00 pm. (from 2023-02-13 08:00:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 1: "Little interest or pleasure in doing things"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

@@ -1,0 +1,48 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Status: Maria Lopez is staying on track with her physics degree while enjoying her hobby of streaming games on Twitch. On this Valentine’s Day, February 14, she has structured her day to maintain a balance between studying and relaxation. She woke up today at 9:00 AM and completed her morning routine. After having breakfast and reviewing her physics notes from 9:30 AM to 10:30 AM, she transitioned into streaming or gaming from 10:30 AM to 1:30 PM. Lunch is planned at Hobbs Cafe from 1:30 PM to 2:30 PM, where she hopes to meet friends for a more enjoyable break. Following lunch, she will study physics again from 2:30 PM to 5:30 PM, returning to the familiar and cozy environment of Hobbs Cafe that aids her focus. Heading home at 5:30 PM, she looks forward to dinner at 6:00 PM before unwinding from 7:00 PM to 8:00 PM. The evening will then be filled with more streaming or gaming from 8:00 PM to 11:00 PM. As the day winds down, she plans to relax with light reading or chatting with friends until midnight, aiming for bed by 2:00 AM. Maria feels content with her structured yet enjoyable day ahead, always keeping in mind the spirit of Valentine's Day and her connections with friends and loved ones.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 9:00 AM.   2. Review physics notes from 9:30 AM to 10:30 AM.   3. Stream or game from 10:30 AM to 1:30 PM.   4. Have lunch at Hobbs Cafe from 1:30 PM to 2:30 PM.   5. Study physics from 2:30 PM to 5:30 PM.   6. Stream or game again from 8:00 PM to 11:00 PM.
+Current Date: Tuesday February 14
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Maria Lopez is Fill in (from 2023-02-13 16:00:00)
+2. computer is idle (from 2023-02-13 08:00:00)
+3. blackboard is idle (from 2023-02-13 08:00:00)
+4. closet is idle (from 2023-02-13 08:00:00)
+5. desk is idle (from 2023-02-13 08:00:00)
+6. bed is idle (from 2023-02-13 08:00:00)
+7. Maria Lopez is idle (from 2023-02-13 08:00:00)
+8. This is Maria Lopez's plan for Tuesday February 14: wake up and complete her morning routine at 9:00 am, have breakfast and review physics notes from 9:30 am to 10:30 am, spend time streaming or gaming from 10:30 am to 1:30 pm, take a lunch break and relax at Hobbs Cafe from 1:30 pm to 2:30 pm, continue studying physics in a quiet corner of Hobbs Cafe from 2:30 pm to 5:30 pm, leave Hobbs Cafe and head home around 5:30 pm, have dinner at 6:00 pm, relax and unwind for an hour, maybe watch some TV or read from 7:00 pm to 8:00 pm, spend the evening streaming or gaming from 8:00 pm to 11:00 pm, wind down with a short session of light reading or chatting with friends from 11:00 pm to 12:00 am, prepare for bed and get ready to sleep by 2:00 am.. (from 2023-02-14 00:00:00)
+9. This is Maria Lopez's plan for Monday February 13: wake up and complete her morning routine at 9:00 am, have breakfast and review physics notes from 9:30 am to 10:30 am, spend time streaming or gaming from 10:30 am to 1:30 pm, take a lunch break and relax at Hobbs Cafe from 1:30 pm to 2:30 pm, continue studying physics in a quiet corner of Hobbs Cafe from 2:30 pm to 5:30 pm, leave Hobbs Cafe and head home around 5:30 pm, have dinner at 6:00 pm, relax and unwind for an hour, maybe watch some TV or read from 7:00 pm to 8:00 pm, spend the evening streaming or gaming from 8:00 pm to 11:00 pm, wind down with a short session of light reading or chatting with friends from 11:00 pm to 12:00 am, prepare for bed and get ready to sleep by 2:00 am.. (from 2023-02-13 08:00:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 2: "Feeling down, depressed, or hopeless"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

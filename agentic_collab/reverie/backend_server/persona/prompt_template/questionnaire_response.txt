@@ -1,0 +1,9 @@
+# persona/prompt_template/questionnaire.txt
+{persona_name}, you are being asked the following question about your recent experiences.
+Please answer based on your current emotional state and recent experiences.
+
+Question: {question}
+Options: {options}
+
+Respond with only the option number (0, 1, 2, or 3) that best describes your situation.
+Output:

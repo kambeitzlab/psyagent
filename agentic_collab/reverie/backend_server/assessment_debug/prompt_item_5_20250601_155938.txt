@@ -1,0 +1,43 @@
+
+            Task: Rate a mental health questionnaire item for Isabella Rodriguez based on their characteristics and memories.
+            
+            Isabella Rodriguez's traits: Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Isabella receives devastating news that her beloved mother has suddenly passed away from a heart attack. (from 2023-02-13 11:00:00)
+2. Isabella Rodriguez is opening Hobbs Cafe (from 2023-02-13 10:00:00)
+3. This is Isabella Rodriguez's plan for Monday February 13: wake up and complete morning routine at 6:00 am, have breakfast and coffee at 7:00 am, arrive at Hobbs Cafe to prepare for the day at 7:30 am, open Hobbs Cafe at 8:00 am, serve customers and manage the cafe until 12:00 pm, take a short break and have a light lunch at 12:00 pm, resume work at the counter from 12:30 pm until 5:00 pm, prepare for Valentine's Day party decorations and setup from 5:00 pm to 6:30 pm, host and enjoy the Valentine's Day party from 6:30 pm to 7:00 pm, clean up after the party and close the cafe at 8:00 pm, relax at home and wind down from 8:30 pm to 10:30 pm, prepare for bed and read until 11:00 pm. (from 2023-02-13 09:00:00)
+4. Isabella Rodriguez is greeting customers as they enter the cafe (from 2023-02-13 11:00:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 5: "Poor appetite or overeating"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

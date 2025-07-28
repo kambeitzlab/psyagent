@@ -1,0 +1,59 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Status: On Wednesday, February 22, Maria Lopez wakes up at her usual time of 9:00 AM, feeling excited and prepared to embrace the day ahead. She follows her cherished morning routine, which sets a positive tone as she transitions into her busy schedule. At 9:30 AM, Maria enjoys a nourishing breakfast while reviewing her notes, reinforcing her understanding of the material for her classes.
+
+From 10:30 AM to 1:00 PM, she is fully engaged as she attends her classes, actively participating and absorbing every lesson with enthusiasm. At 1:00 PM, Maria takes a much-needed break at Hobbs Cafe, allowing herself to relax and refocus until 2:00 PM.
+
+Dedicating her afternoon to her physics studies, Maria dives into the complex concepts from 2:00 PM to 5:00 PM, feeling increasingly confident as she diligently works through her materials in preparation for her upcoming exams. At 5:00 PM, she returns home for an early dinner, enjoying a meal she had thoughtfully prepared in advance, which maintains her efficiency.
+
+From 6:00 PM to 9:00 PM, Maria eagerly engages with her audience during her Twitch streaming session, sharing her passion for gaming and enjoying the interaction with her viewers. Following the stream, she sets aside time for relaxation from 9:00 PM to 11:00 PM, reflecting on her day and prioritizing her mental well-being.
+
+If inspiration strikes, Maria considers continuing her gaming or streaming from 11:00 PM to 1:00 AM, always mindful of her energy levels. As the night draws to a close, she begins preparing for bed at 2:00 AM, ensuring a restful night’s sleep to recharge for the next day. Overall, Maria feels organized and focused, appreciating the structure her routine provides while maintaining a healthy balance between her academic responsibilities and her personal interests.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 9:00 AM.   2. Have a relaxed breakfast and consider plans for the day at 9:30 AM.   3. Attend classes from 10:30 AM to 1:00 PM.   4. Study for physics exams from 2:00 PM to 5:00 PM.   5. Stream video games on Twitch from 6:00 PM to 9:00 PM.   6. Have a laid-back evening to decompress after the day at 9:30 PM onward.
+Current Date: Wednesday February 22
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. This is Maria Lopez's plan for Wednesday February 22: Wake up and complete morning routine at 9:00 am, Enjoy breakfast and review notes for classes at 9:30 am, Attend classes from 10:30 am to 1:00 pm, Have lunch and take a break at Hobbs Cafe from 1:00 pm to 2:00 pm, Study for physics exams from 2:00 pm to 5:00 pm, Have early dinner at 5:00 pm, Twitch stream video games from 6:00 pm to 9:00 pm, Relax and unwind at home from 9:00 pm to 11:00 pm, Continue streaming or gaming from 11:00 pm to 1:00 am, Prepare for bed and sleep at 2:00 am. (from 2023-02-22 00:00:00)
+2. This is Maria Lopez's plan for Tuesday February 21: Wake up and complete morning routine at 9:00 am, Enjoy breakfast and review notes for classes at 9:30 am, Attend classes from 10:30 am to 1:00 pm, Have lunch and take a break at Hobbs Cafe from 1:00 pm to 2:00 pm, Study for physics exams from 2:00 pm to 5:00 pm, Have early dinner at 5:00 pm, Twitch stream video games from 6:00 pm to 9:00 pm, Relax and unwind at home from 9:00 pm to 11:00 pm, Continue streaming or gaming from 11:00 pm to 1:00 am, Prepare for bed and sleep at 2:00 am. (from 2023-02-21 00:00:00)
+3. This is Maria Lopez's plan for Monday February 20: Wake up and complete morning routine at 9:00 am, Enjoy breakfast and review notes for classes at 9:30 am, Attend classes from 10:30 am to 1:00 pm, Have lunch and take a break at Hobbs Cafe from 1:00 pm to 2:00 pm, Study for physics exams from 2:00 pm to 5:00 pm, Have early dinner at 5:00 pm, Twitch stream video games from 6:00 pm to 9:00 pm, Relax and unwind at home from 9:00 pm to 11:00 pm, Continue streaming or gaming from 11:00 pm to 1:00 am, Prepare for bed and sleep at 2:00 am. (from 2023-02-20 00:00:00)
+4. This is Maria Lopez's plan for Thursday February 16: Wake up and complete morning routine at 9:00 am, Enjoy breakfast and review notes for classes at 9:30 am, Attend classes from 10:30 am to 1:00 pm, Have lunch and take a break at Hobbs Cafe from 1:00 pm to 2:00 pm, Study for physics exams from 2:00 pm to 5:00 pm, Have early dinner at 5:00 pm, Twitch stream video games from 6:00 pm to 9:00 pm, Relax and unwind at home from 9:00 pm to 11:00 pm, Continue streaming or gaming from 11:00 pm to 1:00 am, Prepare for bed and sleep at 2:00 am. (from 2023-02-16 00:00:00)
+5. This is Maria Lopez's plan for Friday February 17: Wake up and complete morning routine at 9:00 am, Enjoy breakfast and review notes for classes at 9:30 am, Attend classes from 10:30 am to 1:00 pm, Have lunch and take a break at Hobbs Cafe from 1:00 pm to 2:00 pm, Study for physics exams from 2:00 pm to 5:00 pm, Have early dinner at 5:00 pm, Twitch stream video games from 6:00 pm to 9:00 pm, Relax and unwind at home from 9:00 pm to 11:00 pm, Continue streaming or gaming from 11:00 pm to 1:00 am, Prepare for bed and sleep at 2:00 am. (from 2023-02-17 00:00:00)
+6. This is Maria Lopez's plan for Sunday February 19: Wake up and complete morning routine at 9:00 am, Enjoy breakfast and review notes for classes at 9:30 am, Attend classes from 10:30 am to 1:00 pm, Have lunch and take a break at Hobbs Cafe from 1:00 pm to 2:00 pm, Study for physics exams from 2:00 pm to 5:00 pm, Have early dinner at 5:00 pm, Twitch stream video games from 6:00 pm to 9:00 pm, Relax and unwind at home from 9:00 pm to 11:00 pm, Continue streaming or gaming from 11:00 pm to 1:00 am, Prepare for bed and sleep at 2:00 am. (from 2023-02-19 00:00:00)
+7. This is Maria Lopez's plan for Saturday February 18: Wake up and complete morning routine at 9:00 am, Enjoy breakfast and review notes for classes at 9:30 am, Attend classes from 10:30 am to 1:00 pm, Have lunch and take a break at Hobbs Cafe from 1:00 pm to 2:00 pm, Study for physics exams from 2:00 pm to 5:00 pm, Have early dinner at 5:00 pm, Twitch stream video games from 6:00 pm to 9:00 pm, Relax and unwind at home from 9:00 pm to 11:00 pm, Continue streaming or gaming from 11:00 pm to 1:00 am, Prepare for bed and sleep at 2:00 am. (from 2023-02-18 00:00:00)
+8. This is Maria Lopez's plan for Wednesday February 15: Wake up and complete morning routine at 9:00 am, Enjoy breakfast and review notes for classes at 9:30 am, Attend classes from 10:30 am to 1:00 pm, Have lunch and take a break at Hobbs Cafe from 1:00 pm to 2:00 pm, Study for physics exams from 2:00 pm to 5:00 pm, Have early dinner at 5:00 pm, Twitch stream video games from 6:00 pm to 9:00 pm, Relax and unwind at home from 9:00 pm to 11:00 pm, Continue streaming or gaming from 11:00 pm to 1:00 am, Prepare for bed and sleep at 2:00 am. (from 2023-02-15 00:00:00)
+9. This is Maria Lopez's plan for Monday February 13: Wake up and complete morning routine at 9:00 am, Enjoy breakfast and review notes for classes at 9:30 am, Attend classes from 10:30 am to 1:00 pm, Have lunch and take a break at Hobbs Cafe from 1:00 pm to 2:00 pm, Study for physics exams from 2:00 pm to 5:00 pm, Have early dinner at 5:00 pm, Twitch stream video games from 6:00 pm to 9:00 pm, Relax and unwind at home from 9:00 pm to 11:00 pm, Continue streaming or gaming from 11:00 pm to 1:00 am, Prepare for bed and sleep at 2:00 am. (from 2023-02-13 00:00:00)
+10. This is Maria Lopez's plan for Tuesday February 14: Wake up and complete morning routine at 9:00 am, Enjoy breakfast and review notes for classes at 9:30 am, Attend classes from 10:30 am to 1:00 pm, Have lunch and take a break at Hobbs Cafe from 1:00 pm to 2:00 pm, Study for physics exams from 2:00 pm to 5:00 pm, Have early dinner at 5:00 pm, Twitch stream video games from 6:00 pm to 9:00 pm, Relax and unwind at home from 9:00 pm to 11:00 pm, Continue streaming or gaming from 11:00 pm to 1:00 am, Prepare for bed and sleep at 2:00 am. (from 2023-02-14 00:00:00)
+11. Maria Lopez is setting up the streaming software (from 2023-02-13 00:15:00)
+12. computer is currently running streaming software and connected to the internet (from 2023-02-13 01:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 3: "Trouble falling or staying asleep, or sleeping too much"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

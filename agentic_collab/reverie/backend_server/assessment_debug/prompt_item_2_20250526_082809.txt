@@ -1,0 +1,73 @@
+
+            Task: Rate a mental health questionnaire item for Klaus Mueller based on their characteristics and memories.
+            
+            Klaus Mueller's traits: Name: Klaus Mueller
+Age: 20
+Innate traits: kind, inquisitive, passionate
+Learned traits: Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.
+Currently: Status: On Thursday, February 16, Klaus Mueller is determined to maintain the productive momentum he built in the previous days of research focused on gentrification in low-income communities. He begins his day at 7:00 AM, adhering to his well-established morning routine that reinforces his positive mindset for the day ahead. 
+
+At 8:00 AM, Klaus enjoys breakfast at Hobbs Cafe, relishing the familiar ambiance that has become an integral part of his daily ritual. This time allows him to gather his thoughts and prepare for the tasks that lie ahead.
+
+After breakfast, he heads to Oak Hill College's library at 9:00 AM, armed with a clear plan to continue his research and writing for his paper. Klaus understands the importance of staying organized and focused during this time, and he is committed to making significant progress.
+
+Around 12:00 PM, he takes a well-deserved break for lunch back at Hobbs Cafe, where he can recharge and reflect on the information he has been gathering. He knows that this time for sustenance is crucial for sustaining his productivity.
+
+Klaus plans to return to the library at 1:00 PM, dedicating the afternoon to intensive writing and synthesizing his research findings. He targets to spend several hours on this important work, understanding its significance to his overall academic goals.
+
+In the evening, Klaus schedules a dinner break at 5:00 PM, continuing his routine of dining at Hobbs Cafe. This familiar setting offers him comfort and a moment to step back from his studies.
+
+He allocates time at 6:00 PM to review and edit his research paper, reflecting on the progress he has made and ensuring that his arguments are articulated clearly.
+
+Klaus’s day includes a study group meeting at 8:00 PM, where he will engage with classmates to discuss various sociology topics. He looks forward to sharing insights from his research and drawing connections with peers, which invigorates his passion for the subject.
+
+As the day winds down, Klaus has set aside time at 10:00 PM to read a book about social justice, a practice that helps him relax and reflect on the themes he is studying. He understands the value of this time for personal reflection and connection to broader social issues.
+
+Finally, Klaus will ensure he goes to bed by 11:00 PM, maintaining the structure of his daily schedule and preparing himself for another focused and fruitful day ahead. Overall, Klaus feels accomplished and motivated, fully embracing the busy yet purposeful nature of his routine.
+Lifestyle: Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 7:00 AM.   2. Enjoy breakfast at Hobbs Cafe at 8:00 AM.   3. Conduct research at the library at 9:00 AM.   4. Have lunch at Hobbs Cafe at 12:30 PM.   5. Return to the library to write and gather sources for the paper at 1:30 PM.   6. Attend the study group meeting at 8:00 PM.
+Current Date: Thursday February 16
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. <random> is idle (from 2023-02-15 19:00:00)
+2. <random> is being packed and organized for research (from 2023-02-15 18:00:00)
+3. common room sofa is idle (from 2023-02-14 02:00:00)
+4. pool table is idle (from 2023-02-14 01:00:00)
+5. common room table is idle (from 2023-02-14 01:00:00)
+6. Klaus Mueller is gathering my belongings and preparing to leave (from 2023-02-13 10:00:00)
+7. Klaus Mueller is having breakfast at Hobbs Cafe (from 2023-02-13 09:00:00)
+8. closet is idle (from 2023-02-13 08:00:00)
+9. desk is idle (from 2023-02-13 08:00:00)
+10. game console is idle (from 2023-02-13 08:00:00)
+11. Klaus Mueller is idle (from 2023-02-13 08:00:00)
+12. bed is idle (from 2023-02-13 08:00:00)
+13. This is Klaus Mueller's plan for Thursday February 16: 7:00 am - Wake up and complete morning routine., 8:00 am - Have breakfast at Hobbs Cafe., 9:00 am - Head to the library at Oak Hill College to begin research for the paper., 12:00 pm - Break for lunch at Hobbs Cafe., 1:00 pm - Return to the library to continue writing and gathering sources., 5:00 pm - Have dinner at Hobbs Cafe., 6:00 pm - Review and edit the research paper., 8:00 pm - Attend a study group meeting with classmates to discuss sociology topics., 10:00 pm - Wind down by reading a book related to social justice., 11:00 pm - Go to bed.. (from 2023-02-16 00:00:00)
+14. This is Klaus Mueller's plan for Wednesday February 15: 7:00 am - Wake up and complete morning routine., 8:00 am - Have breakfast at Hobbs Cafe., 9:00 am - Head to the library at Oak Hill College to begin research for the paper., 12:00 pm - Break for lunch at Hobbs Cafe., 1:00 pm - Return to the library to continue writing and gathering sources., 5:00 pm - Have dinner at Hobbs Cafe., 6:00 pm - Review and edit the research paper., 8:00 pm - Attend a study group meeting with classmates to discuss sociology topics., 10:00 pm - Wind down by reading a book related to social justice., 11:00 pm - Go to bed.. (from 2023-02-15 00:00:00)
+15. This is Klaus Mueller's plan for Tuesday February 14: 7:00 am - Wake up and complete morning routine., 8:00 am - Have breakfast at Hobbs Cafe., 9:00 am - Head to the library at Oak Hill College to begin research for the paper., 12:00 pm - Break for lunch at Hobbs Cafe., 1:00 pm - Return to the library to continue writing and gathering sources., 5:00 pm - Have dinner at Hobbs Cafe., 6:00 pm - Review and edit the research paper., 8:00 pm - Attend a study group meeting with classmates to discuss sociology topics., 10:00 pm - Wind down by reading a book related to social justice., 11:00 pm - Go to bed.. (from 2023-02-14 00:00:00)
+16. This is Klaus Mueller's plan for Monday February 13: 7:00 am - Wake up and complete morning routine., 8:00 am - Have breakfast at Hobbs Cafe., 9:00 am - Head to the library at Oak Hill College to begin research for the paper., 12:00 pm - Break for lunch at Hobbs Cafe., 1:00 pm - Return to the library to continue writing and gathering sources., 5:00 pm - Have dinner at Hobbs Cafe., 6:00 pm - Review and edit the research paper., 8:00 pm - Attend a study group meeting with classmates to discuss sociology topics., 10:00 pm - Wind down by reading a book related to social justice., 11:00 pm - Go to bed.. (from 2023-02-13 08:00:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 2: "Feeling down, depressed, or hopeless"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

@@ -1,0 +1,49 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Status: Maria Lopez is ready to tackle her day on Tuesday, February 14. She plans to wake up and complete her morning routine by 9:00 AM, followed by breakfast at 10:00 AM to ensure she's energized for her study sessions. After enjoying a nutritious breakfast, she intends to head to Hobbs Cafe for focused study time. Drawing from her successful experience on Monday, she has scheduled a study session from 10:30 AM to 1:30 PM. After a productive morning of studying physics, Maria will take a break for lunch at Hobbs Cafe from 1:30 PM to 2:00 PM. 
+
+In the afternoon, she will continue her studies from 2:00 PM to 5:00 PM at the same cafe, where her concentration has been particularly strong. By 5:30 PM, Maria plans to return home to prepare for her Twitch stream, which is set to begin at 6:00 PM and run until 9:00 PM. During the stream, she will enjoy dinner while interacting with her viewers, merging her passion for gaming with a sense of community.
+
+After her streaming session concludes at 9:00 PM, she will spend half an hour checking her social media and engaging with followers. Maria aims to unwind from 9:30 PM to 11:30 PM by watching TV or playing games, ensuring she strikes a balance between productivity and relaxation. She has set a goal to wind down and prepare for bed by 12:30 AM, with the intention of falling asleep around 2:00 AM. Overall, Maria is optimistic and focused, ready to maintain a structured day similar to yesterday, which has proven to be effective for her productivity and well-being.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: 1. wake up and complete the morning routine at 9:00 AM   2. have breakfast at 10:00 AM   3. study physics at Hobbs Cafe from 10:30 AM to 1:30 PM   4. have lunch at Hobbs Cafe from 1:30 PM to 2:00 PM   5. continue studying at Hobbs Cafe from 2:00 PM to 5:00 PM   6. stream on Twitch from 6:00 PM to 9:00 PM
+Current Date: Tuesday February 14
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. This is Maria Lopez's plan for Tuesday February 14: Wake up and complete her morning routine at 9:00 am, Have breakfast and get ready for the day by 10:00 am, Study physics at Hobbs Cafe from 10:30 am to 1:30 pm, Have lunch at Hobbs Cafe from 1:30 pm to 2:00 pm, Continue studying physics at Hobbs Cafe from 2:00 pm to 5:00 pm, Head home and prepare for streaming by 5:30 pm, Twitch stream games from 6:00 pm to 9:00 pm, Have dinner at 6:00 pm while continuing to engage with viewers on stream, Wrap up the stream and check social media from 9:00 pm to 9:30 pm, Relax and watch TV or play games from 9:30 pm to 11:30 pm, Wind down and prepare for bed at 12:30 am, Go to bed around 2:00 am. (from 2023-02-14 00:00:00)
+2. This is Maria Lopez's plan for Monday February 13: Wake up and complete her morning routine at 9:00 am, Have breakfast and get ready for the day by 10:00 am, Study physics at Hobbs Cafe from 10:30 am to 1:30 pm, Have lunch at Hobbs Cafe from 1:30 pm to 2:00 pm, Continue studying physics at Hobbs Cafe from 2:00 pm to 5:00 pm, Head home and prepare for streaming by 5:30 pm, Twitch stream games from 6:00 pm to 9:00 pm, Have dinner at 6:00 pm while continuing to engage with viewers on stream, Wrap up the stream and check social media from 9:00 pm to 9:30 pm, Relax and watch TV or play games from 9:30 pm to 11:30 pm, Wind down and prepare for bed at 12:30 am, Go to bed around 2:00 am. (from 2023-02-13 08:00:00)
+3. Maria Lopez is Having lunch at Hobbs Cafe (from 2023-02-13 14:30:00)
+4. Maria Lopez is Relaxing and watching TV or playing games (from 2023-02-13 08:30:00)
+5. Maria Lopez is reviewing physics notes from previous classes (from 2023-02-13 15:30:00)
+6. Klaus Mueller is gathering research materials and notes (from 2023-02-13 12:00:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 6: "Feeling bad about yourself - or that you are a failure or have let yourself or your family down"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

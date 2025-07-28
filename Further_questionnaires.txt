@@ -1,0 +1,10 @@
+Further questionnaires:
+
+DASS-21 (Depression Anxiety Stress Scales) - Measures depression, anxiety, and stress simultaneously
+PANAS (Positive and Negative Affect Schedule) - Measures positive and negative emotional states
+PSS (Perceived Stress Scale) - Measures perception of stress
+WHO-5 (WHO Well-Being Index) - Brief measure of positive well-being
+PCL-5 (PTSD Checklist) - For trauma-related symptoms
+Social Support Questionnaire - Measures perceived social support
+UCLA Loneliness Scale - Measures feelings of loneliness and social isolation
+Brief Resilience Scale - Measures ability to bounce back from stress

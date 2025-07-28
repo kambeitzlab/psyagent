@@ -1,0 +1,62 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Status: Maria Lopez is embracing Thursday, February 16, with a focus on balancing her academic responsibilities and emotional well-being. After reflecting on her experiences from the previous days, she plans to wake up at 9:00 AM to maintain her morning routine, setting a positive tone for the day. At 9:30 AM, she will enjoy breakfast while catching up on her social media, allowing herself this quiet moment to center her thoughts.
+
+By 10:00 AM, she intends to head to Hobbs Cafe for a focused study session dedicated to her physics assignments, similar to her productive sessions earlier in the week. She plans to study until 1:00 PM, followed by a well-deserved lunch break at the cafe to recharge before diving back into her studies until around 3:00 PM. Recognizing the importance of emotional self-care, Maria aims to return home at 3:30 PM to take some time for relaxation and reflection, especially considering the weight of her recent experiences.
+
+In the late afternoon, she will engage in her passion for gaming, planning to stream on Twitch from 4:00 PM to 7:00 PM, ensuring she includes dinner at 6:00 PM to maintain a smooth schedule. After her stream, Maria has dedicated time from 7:30 PM to 10:00 PM to catch up on homework and review material, which she understands is essential for keeping up with her studies.
+
+In the evening, she has set aside time for another gaming session or Twitch stream from 10:00 PM to 12:00 AM, after which she plans to wind down by watching a show or chatting with friends from 12:00 AM to 1:30 AM, allowing herself these moments of connection as part of her emotional recovery journey. She aims to prepare for bed by 2:00 AM, continuing to prioritize her sleep schedule to maintain her overall health.
+
+Throughout this day, Maria remains mindful of the insights gained during her therapy sessions with Dr. Sarah Thompson and reflects on the emotional challenges she has faced, particularly following the accident she witnessed. With a structured yet flexible plan, Maria is determined to navigate her responsibilities while nurturing her emotional health, ensuring she finds balance amidst the complexities of daily life.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 9:00 AM.   2. Enjoy breakfast and check social media from 9:30 AM to 10:00 AM.   3. Head to Hobbs Cafe for a focused study session from 10:00 AM to 1:00 PM.   4. Take a lunch break at Hobbs Cafe from 1:00 PM to 2:00 PM.   5. Stream games on Twitch from 4:00 PM to 7:00 PM, including dinner at around 6:00 PM.   6. Relax and watch Netflix from 7:30 PM until preparing for bed around 2:00 AM.
+Current Date: Thursday February 16
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Maria Lopez had a meaningful therapy session with Dr. Sarah Thompson (from 2023-02-15 15:00:00)
+2. Maria Lopez had a meaningful therapy session with Dr. Sarah Thompson (from 2023-02-13 16:00:00)
+3. Maria witnesses a serious accident that causes emotional distress, guilt, and intrusive thoughts about the incident. (from 2023-02-13 10:00:00)
+4. This is Maria Lopez's plan for Thursday February 16: Wake up and complete morning routine at 9:00 am, Have breakfast and check social media at 9:30 am, Head to Hobbs Cafe to study physics from 10:00 am to 1:00 pm, Have lunch at Hobbs Cafe at 1:00 pm, Continue studying at Hobbs Cafe until 3:00 pm, Go home and relax for a bit at 3:30 pm, Twitch stream or game from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Catch up on any remaining homework or review material from 7:30 pm to 10:00 pm, Twitch stream or game from 10:00 pm to 12:00 am, Relax and unwind, possibly watch a show or chat with friends from 12:00 am to 1:30 am, Prepare for bed and go to sleep around 2:00 am. (from 2023-02-16 00:00:00)
+5. This is Maria Lopez's plan for Wednesday February 15: Wake up and complete morning routine at 9:00 am, Have breakfast and check social media at 9:30 am, Head to Hobbs Cafe to study physics from 10:00 am to 1:00 pm, Have lunch at Hobbs Cafe at 1:00 pm, Continue studying at Hobbs Cafe until 3:00 pm, Go home and relax for a bit at 3:30 pm, Twitch stream or game from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Catch up on any remaining homework or review material from 7:30 pm to 10:00 pm, Twitch stream or game from 10:00 pm to 12:00 am, Relax and unwind, possibly watch a show or chat with friends from 12:00 am to 1:30 am, Prepare for bed and go to sleep around 2:00 am. (from 2023-02-15 00:00:00)
+6. This is Maria Lopez's plan for Wednesday February 15: Wake up and complete morning routine at 9:00 am, Have breakfast and check social media at 9:30 am, Head to Hobbs Cafe to study physics from 10:00 am to 1:00 pm, Have lunch at Hobbs Cafe at 1:00 pm, Continue studying at Hobbs Cafe until 3:00 pm, Go home and relax for a bit at 3:30 pm, Twitch stream or game from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Catch up on any remaining homework or review material from 7:30 pm to 10:00 pm, Twitch stream or game from 10:00 pm to 12:00 am, Relax and unwind, possibly watch a show or chat with friends from 12:00 am to 1:30 am, Prepare for bed and go to sleep around 2:00 am. (from 2023-02-15 00:00:00)
+7. This is Maria Lopez's plan for Monday February 13: Wake up and complete morning routine at 9:00 am, Have breakfast and check social media at 9:30 am, Head to Hobbs Cafe to study physics from 10:00 am to 1:00 pm, Have lunch at Hobbs Cafe at 1:00 pm, Continue studying at Hobbs Cafe until 3:00 pm, Go home and relax for a bit at 3:30 pm, Twitch stream or game from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Catch up on any remaining homework or review material from 7:30 pm to 10:00 pm, Twitch stream or game from 10:00 pm to 12:00 am, Relax and unwind, possibly watch a show or chat with friends from 12:00 am to 1:30 am, Prepare for bed and go to sleep around 2:00 am. (from 2023-02-13 00:00:00)
+8. This is Maria Lopez's plan for Tuesday February 14: Wake up and complete morning routine at 9:00 am, Have breakfast and check social media at 9:30 am, Head to Hobbs Cafe to study physics from 10:00 am to 1:00 pm, Have lunch at Hobbs Cafe at 1:00 pm, Continue studying at Hobbs Cafe until 3:00 pm, Go home and relax for a bit at 3:30 pm, Twitch stream or game from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Catch up on any remaining homework or review material from 7:30 pm to 10:00 pm, Twitch stream or game from 10:00 pm to 12:00 am, Relax and unwind, possibly watch a show or chat with friends from 12:00 am to 1:30 am, Prepare for bed and go to sleep around 2:00 am. (from 2023-02-14 00:00:00)
+9. This is Maria Lopez's plan for Monday February 13: Wake up and complete morning routine at 9:00 am, Have breakfast and check social media at 9:30 am, Head to Hobbs Cafe to study physics from 10:00 am to 1:00 pm, Have lunch at Hobbs Cafe at 1:00 pm, Continue studying at Hobbs Cafe until 3:00 pm, Go home and relax for a bit at 3:30 pm, Twitch stream or game from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Catch up on any remaining homework or review material from 7:30 pm to 10:00 pm, Twitch stream or game from 10:00 pm to 12:00 am, Relax and unwind, possibly watch a show or chat with friends from 12:00 am to 1:30 am, Prepare for bed and go to sleep around 2:00 am. (from 2023-02-13 00:00:00)
+10. This is Maria Lopez's plan for Tuesday February 14: Wake up and complete morning routine at 9:00 am, Have breakfast and check social media at 9:30 am, Head to Hobbs Cafe to study physics from 10:00 am to 1:00 pm, Have lunch at Hobbs Cafe at 1:00 pm, Continue studying at Hobbs Cafe until 3:00 pm, Go home and relax for a bit at 3:30 pm, Twitch stream or game from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Catch up on any remaining homework or review material from 7:30 pm to 10:00 pm, Twitch stream or game from 10:00 pm to 12:00 am, Relax and unwind, possibly watch a show or chat with friends from 12:00 am to 1:30 am, Prepare for bed and go to sleep around 2:00 am. (from 2023-02-14 00:00:00)
+11. common room sofa is occupied and cozy with cushions slightly displaced (from 2023-02-13 16:00:00)
+12. common room sofa is occupied and cozy with cushions slightly displaced (from 2023-02-13 04:15:00)
+13. Maria Lopez is watching a show on Netflix (from 2023-02-13 16:15:00)
+14. Maria Lopez is watching a show on Netflix (from 2023-02-13 00:15:00)
+15. Maria Lopez is watching a show on Netflix (from 2023-02-13 00:15:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 8: "Moving or speaking so slowly that other people could have noticed. Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

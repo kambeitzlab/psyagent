@@ -1,0 +1,44 @@
+
+            Task: Rate a mental health questionnaire item for Klaus Mueller based on their characteristics and memories.
+            
+            Klaus Mueller's traits: Name: Klaus Mueller
+Age: 20
+Innate traits: kind, inquisitive, passionate
+Learned traits: Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.
+Currently: Status: Klaus Mueller is focused on continuing his research paper on the effects of gentrification in low-income communities. He has scheduled a lunch break around 12:00 PM, potentially at Hobbs Cafe, to catch up with friends. Throughout the day, he plans to allocate dedicated time for writing and organizing his space, as he still needs to fully tidy up his closet. In the evening, he aims to unwind with some light reading or a documentary on social justice as part of his self-care routine. Additionally, Klaus intends to block out time to prepare for his tasks on Wednesday, February 15, ensuring he stays on track with his commitments. Overall, he is optimistic and motivated to balance productivity with relaxation today.
+Lifestyle: Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.
+Daily plan requirement: 1. wake up and complete the morning routine at 7:00 AM,   2. go to the library at Oak Hill College to work on the research paper at 8:00 AM,   3. have lunch with friends at Hobbs Cafe at 12:00 PM,   4. continue writing and organizing the space in the afternoon,   5. have dinner at 5:00 PM,   6. unwind with light reading or a documentary on social justice in the evening.
+Current Date: Tuesday February 14
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. This is Klaus Mueller's plan for Tuesday February 14: 7:00 - Wake up and complete morning routine, 7:30 - Have breakfast, possibly a smoothie and toast, 8:00 - Head to the library at Oak Hill College, 8:30 - Start researching and writing the research paper on the effects of gentrification, 12:00 - Break for lunch at Hobbs Cafe, catch up with friends, 1:00 - Continue writing and exploring different perspectives on social justice, 3:00 - Take a short break, maybe a walk around campus, 3:30 - Return to research and writing, finalize key points, 5:00 - Have dinner at Hobbs Cafe, 6:00 - Review and edit the research paper for clarity, 8:00 - Relax with some light reading or watch a documentary on social justice, 9:30 - Prepare for the next day, plan any tasks, 10:30 - Wind down, maybe chat with friends online, 11:00 - Go to bed. (from 2023-02-14 00:00:00)
+2. This is Klaus Mueller's plan for Monday February 13: 7:00 - Wake up and complete morning routine, 7:30 - Have breakfast, possibly a smoothie and toast, 8:00 - Head to the library at Oak Hill College, 8:30 - Start researching and writing the research paper on the effects of gentrification, 12:00 - Break for lunch at Hobbs Cafe, catch up with friends, 1:00 - Continue writing and exploring different perspectives on social justice, 3:00 - Take a short break, maybe a walk around campus, 3:30 - Return to research and writing, finalize key points, 5:00 - Have dinner at Hobbs Cafe, 6:00 - Review and edit the research paper for clarity, 8:00 - Relax with some light reading or watch a documentary on social justice, 9:30 - Prepare for the next day, plan any tasks, 10:30 - Wind down, maybe chat with friends online, 11:00 - Go to bed. (from 2023-02-13 08:00:00)
+3. Klaus Mueller is having breakfast, possibly a smoothie and toast (from 2023-02-13 08:30:00)
+4. closet is partially organized with books and supplies scattered (from 2023-02-13 11:00:00)
+5. Klaus Mueller is gathering his backpack and supplies (from 2023-02-13 09:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 7: "Trouble concentrating on things, such as reading the newspaper or watching television"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

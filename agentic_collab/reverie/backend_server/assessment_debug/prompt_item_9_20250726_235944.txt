@@ -1,0 +1,50 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Status: Maria Lopez is beginning her day on Wednesday, February 15, with a strong desire to adhere to her routine while being mindful of her well-being. She has set her alarms to wake up at 9:00 AM, aiming for a fresh start. After enjoying breakfast and preparing herself for the day by 9:30 AM, she plans to head to Hobbs Cafe at 10:00 AM for a focused study session on her physics degree. Maria has allocated three hours for her study, from 10:00 AM to 1:00 PM, dedicating this time to tackle important topics in preparation for upcoming tests and projects.
+
+At 1:00 PM, she will take a much-needed lunch break at Hobbs Cafe before continuing her studies from 1:30 PM to 3:30 PM. After her afternoon of studying, she will return home around 3:45 PM to set up her streaming equipment in anticipation of her Twitch session starting at 4:00 PM, which will run until 7:00 PM. During the stream, Maria intends to manage her dinner at 6:00 PM to keep the engagement with her audience lively.
+
+After finishing her stream, she will make time to interact with her followers on social media from 9:00 PM to 10:00 PM, reflecting her commitment to connecting with her audience despite her busy schedule. Maria has also scheduled a relaxation period from 10:00 PM to 11:00 PM to wind down before she dedicates the late-night hours from 11:00 PM to 1:00 AM to light reading or reviewing her physics notes. Finally, she aims to prepare for bed by 2:00 AM.
+
+Maria is cognizant of her need for balance, recognizing the importance of self-care in light of her packed schedule. While she feels motivated to stick to her study and streaming plans, she is determined to ensure that she incorporates moments of downtime to replenish her energy and maintain her enthusiasm throughout the day.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 9:30 AM.   2. Study physics at Hobbs Cafe from 10:00 AM to 1:00 PM.   3. Lunch break at 1:00 PM followed by a short rest.   4. Continue studying physics from 1:30 PM to 3:30 PM.   5. Prepare streaming setup and start Twitch session at 4:00 PM, streaming until 7:00 PM.   6. Engage with followers on social media from 9:00 PM to 10:00 PM.
+Current Date: Wednesday February 15
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. This is Maria Lopez's plan for Wednesday February 15: Wake up and complete her morning routine at 9:00 am, Have breakfast and prepare for the day at 9:30 am, Head to Hobbs Cafe to study physics from 10:00 am to 1:00 pm, Take a break and grab lunch at Hobbs Cafe around 1:00 pm, Continue studying physics at Hobbs Cafe from 1:30 pm to 3:30 pm, Go back home to set up for streaming around 3:45 pm, Stream games on Twitch from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Continue streaming or gaming until 9:00 pm, Engage with followers and chat on social media from 9:00 pm to 10:00 pm, Take some time to relax and wind down from 10:00 pm to 11:00 pm, Do some light reading or study physics notes from 11:00 pm to 1:00 am, Prepare for bed and go to sleep around 2:00 am. (from 2023-02-15 00:00:00)
+2. This is Maria Lopez's plan for Tuesday February 14: Wake up and complete her morning routine at 9:00 am, Have breakfast and prepare for the day at 9:30 am, Head to Hobbs Cafe to study physics from 10:00 am to 1:00 pm, Take a break and grab lunch at Hobbs Cafe around 1:00 pm, Continue studying physics at Hobbs Cafe from 1:30 pm to 3:30 pm, Go back home to set up for streaming around 3:45 pm, Stream games on Twitch from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Continue streaming or gaming until 9:00 pm, Engage with followers and chat on social media from 9:00 pm to 10:00 pm, Take some time to relax and wind down from 10:00 pm to 11:00 pm, Do some light reading or study physics notes from 11:00 pm to 1:00 am, Prepare for bed and go to sleep around 2:00 am. (from 2023-02-14 00:00:00)
+3. This is Maria Lopez's plan for Monday February 13: Wake up and complete her morning routine at 9:00 am, Have breakfast and prepare for the day at 9:30 am, Head to Hobbs Cafe to study physics from 10:00 am to 1:00 pm, Take a break and grab lunch at Hobbs Cafe around 1:00 pm, Continue studying physics at Hobbs Cafe from 1:30 pm to 3:30 pm, Go back home to set up for streaming around 3:45 pm, Stream games on Twitch from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Continue streaming or gaming until 9:00 pm, Engage with followers and chat on social media from 9:00 pm to 10:00 pm, Take some time to relax and wind down from 10:00 pm to 11:00 pm, Do some light reading or study physics notes from 11:00 pm to 1:00 am, Prepare for bed and go to sleep around 2:00 am. (from 2023-02-13 08:00:00)
+4. Maria Lopez is sleeping (from 2023-02-13 09:00:00)
+5. bed is occupied and in use (from 2023-02-13 09:00:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 9: "Thoughts that you would be better off dead, or of hurting yourself in some way"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

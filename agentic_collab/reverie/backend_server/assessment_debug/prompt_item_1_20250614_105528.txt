@@ -1,0 +1,48 @@
+
+            Task: Rate a mental health questionnaire item for Isabella Rodriguez based on their characteristics and memories.
+            
+            Isabella Rodriguez's traits: Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Status: Isabella Rodriguez is taking a moment to reflect on the busy Valentine's Day celebrations at Hobbs Cafe, which took place on February 14th, 2023, from 5 PM to 7 PM. Following the excitement of the event, she is now focusing on her priorities for Wednesday, February 15. Isabella plans to set aside time to review her physics notes, as she recognizes the importance of staying on top of her studies for upcoming assignments and exams. In addition, she will check in on any leftover tasks related to the Valentine's Day party and follow up on emails to ensure a smooth transition after the festivities. Although specific tasks for the day are not yet determined, Isabella aims to maintain her usual operations at Hobbs Cafe while remaining flexible to address any matters that may arise. With a mix of anticipation and calm, she is committed to balancing her responsibilities at the cafe with her academic goals, eager to make this day just as memorable as the last.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: 1. Wake up and complete the morning routine at 6:00 AM,   2. Review physics notes and study for upcoming assignments from 7:00 AM to 9:00 AM,   3. Arrive at Hobbs Cafe and check on any leftover Valentine's Day tasks from 9:00 AM to 10:00 AM,   4. Follow up on emails and ensure smooth operations at the cafe from 10:00 AM to 12:00 PM,   5. Serve lunch and engage with customers, maintaining a welcoming atmosphere from 12:00 PM to 3:00 PM,   6. Reflect on the Valentine's Day event and plan for upcoming cafe activities from 3:00 PM to 5:00 PM.
+Current Date: Wednesday February 15
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Isabella Rodriguez is talking to Maria Lopez about her physics studying while offering to help and share stories from the Valentine's Day event at the café (from 2023-02-15 00:30:00)
+2. This is Isabella Rodriguez's plan for Wednesday February 15: wake up and complete their morning routine at 6:00, have breakfast and some coffee at 7:00, get ready for the day and head to Hobbs Cafe at 7:30, open Hobbs Cafe at 8:00, work at the counter serving customers until 12:00 pm, have a quick lunch at 12:30 pm, continue working at the counter until 4:00 pm, review party arrangements and finalize details for the Valentine's Day party from 4:00 pm to 5:00 pm, continue serving customers at the cafe from 5:00 pm to 8:00 pm, clean up and close Hobbs Cafe at 8:00 pm, head home and prepare dinner from 8:30 pm to 9:00 pm, enjoy a relaxing evening at home, maybe read a book or watch TV from 9:00 pm to 10:30 pm, wind down and prepare for bed at 10:30 pm. (from 2023-02-15 00:00:00)
+3. This is Isabella Rodriguez's plan for Tuesday February 14: wake up and complete their morning routine at 6:00, have breakfast and some coffee at 7:00, get ready for the day and head to Hobbs Cafe at 7:30, open Hobbs Cafe at 8:00, work at the counter serving customers until 12:00 pm, have a quick lunch at 12:30 pm, continue working at the counter until 4:00 pm, review party arrangements and finalize details for the Valentine's Day party from 4:00 pm to 5:00 pm, continue serving customers at the cafe from 5:00 pm to 8:00 pm, clean up and close Hobbs Cafe at 8:00 pm, head home and prepare dinner from 8:30 pm to 9:00 pm, enjoy a relaxing evening at home, maybe read a book or watch TV from 9:00 pm to 10:30 pm, wind down and prepare for bed at 10:30 pm. (from 2023-02-14 00:00:00)
+4. This is Isabella Rodriguez's plan for Monday February 13: wake up and complete their morning routine at 6:00, have breakfast and some coffee at 7:00, get ready for the day and head to Hobbs Cafe at 7:30, open Hobbs Cafe at 8:00, work at the counter serving customers until 12:00 pm, have a quick lunch at 12:30 pm, continue working at the counter until 4:00 pm, review party arrangements and finalize details for the Valentine's Day party from 4:00 pm to 5:00 pm, continue serving customers at the cafe from 5:00 pm to 8:00 pm, clean up and close Hobbs Cafe at 8:00 pm, head home and prepare dinner from 8:30 pm to 9:00 pm, enjoy a relaxing evening at home, maybe read a book or watch TV from 9:00 pm to 10:30 pm, wind down and prepare for bed at 10:30 pm. (from 2023-02-13 08:00:00)
+5. Isabella Rodriguez is getting ready for the day and heading to Hobbs Cafe (from 2023-02-13 08:30:00)
+6. Maria Lopez is talking to Maria Lopez about her physics studying while offering to help and share stories from the Valentine's Day event at the café (from 2023-02-15 00:30:00)
+7. Maria Lopez is reviewing physics notes from previous classes (from 2023-02-15 00:00:00)
+8. Isabella Rodriguez is unlocking the cafe door (from 2023-02-13 09:30:00)
+9. cafe customer seating is unoccupied and ready for customers (from 2023-02-13 18:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 1: "Little interest or pleasure in doing things"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

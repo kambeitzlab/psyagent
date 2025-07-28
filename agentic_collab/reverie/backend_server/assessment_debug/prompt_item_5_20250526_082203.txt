@@ -1,0 +1,57 @@
+
+            Task: Rate a mental health questionnaire item for Klaus Mueller based on their characteristics and memories.
+            
+            Klaus Mueller's traits: Name: Klaus Mueller
+Age: 20
+Innate traits: kind, inquisitive, passionate
+Learned traits: Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.
+Currently: Status: On Tuesday, February 14, Klaus Mueller is committed to continuing his research paper on the effects of gentrification in low-income communities. He plans to wake up early at 7:00 AM to maintain his productive morning routine, which has proven effective. Klaus intends to enjoy breakfast at Hobbs Cafe once again, replicating the positive start he experienced on Monday. 
+
+After breakfast, he will head to the library at Oak Hill College in the morning to conduct further research. Klaus has made a mental note to prepare necessary materials to maximize his time effectively. For lunch, he is considering either a repeat visit to Hobbs Cafe or exploring a new dining option if he feels adventurous.
+
+In the afternoon, Klaus will return to the library to focus on writing and gathering more sources for his paper, dedicating sufficient time to make significant progress. Later in the evening, he has a study group meeting scheduled at 8:00 PM, where he plans to actively engage in discussions related to sociology and share insights from his research.
+
+Klaus looks forward to winding down his day with some reading about social justice, as this routine helps him relax and reflect on his learning. Overall, he is motivated and hopeful for a fulfilling and productive day ahead.
+Lifestyle: Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 7:00 AM.   2. Enjoy breakfast at Hobbs Cafe at 8:00 AM.   3. Conduct research at the library at 9:00 AM.   4. Have lunch at Hobbs Cafe or explore a new option at 12:30 PM.   5. Return to the library to write and gather sources for the paper at 1:30 PM.   6. Attend the study group meeting at 8:00 PM.
+Current Date: Tuesday February 14
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. common room sofa is idle (from 2023-02-14 02:00:00)
+2. pool table is idle (from 2023-02-14 01:00:00)
+3. common room table is idle (from 2023-02-14 01:00:00)
+4. Klaus Mueller is gathering my belongings and preparing to leave (from 2023-02-13 10:00:00)
+5. Klaus Mueller is having breakfast at Hobbs Cafe (from 2023-02-13 09:00:00)
+6. closet is idle (from 2023-02-13 08:00:00)
+7. desk is idle (from 2023-02-13 08:00:00)
+8. game console is idle (from 2023-02-13 08:00:00)
+9. Klaus Mueller is idle (from 2023-02-13 08:00:00)
+10. bed is idle (from 2023-02-13 08:00:00)
+11. This is Klaus Mueller's plan for Tuesday February 14: 7:00 am - Wake up and complete morning routine., 8:00 am - Have breakfast at Hobbs Cafe., 9:00 am - Head to the library at Oak Hill College to begin research for the paper., 12:00 pm - Break for lunch at Hobbs Cafe., 1:00 pm - Return to the library to continue writing and gathering sources., 5:00 pm - Have dinner at Hobbs Cafe., 6:00 pm - Review and edit the research paper., 8:00 pm - Attend a study group meeting with classmates to discuss sociology topics., 10:00 pm - Wind down by reading a book related to social justice., 11:00 pm - Go to bed.. (from 2023-02-14 00:00:00)
+12. This is Klaus Mueller's plan for Monday February 13: 7:00 am - Wake up and complete morning routine., 8:00 am - Have breakfast at Hobbs Cafe., 9:00 am - Head to the library at Oak Hill College to begin research for the paper., 12:00 pm - Break for lunch at Hobbs Cafe., 1:00 pm - Return to the library to continue writing and gathering sources., 5:00 pm - Have dinner at Hobbs Cafe., 6:00 pm - Review and edit the research paper., 8:00 pm - Attend a study group meeting with classmates to discuss sociology topics., 10:00 pm - Wind down by reading a book related to social justice., 11:00 pm - Go to bed.. (from 2023-02-13 08:00:00)
+
+            
+            Questionnaire: GAD-7
+            Instructions: Over the last two weeks, how often have you been bothered by the following problems?
+            
+            Item 5: "Being so restless that it's hard to sit still"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

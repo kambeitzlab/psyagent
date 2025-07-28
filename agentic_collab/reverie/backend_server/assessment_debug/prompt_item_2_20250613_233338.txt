@@ -1,0 +1,73 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Status: Maria Lopez wakes up on Saturday, February 25, at 9:00 AM, feeling refreshed and ready to tackle the day ahead. She recalls her reflections from the previous night, reminding herself of the importance of sticking to her structured routine despite the challenges she has faced. With determination, she embraces the morning, preparing for her day with renewed energy.
+
+By 10:00 AM, Maria arrives at Oak Hill College, ready for her classes that run until 1:00 PM. Armed with her materials and a focused mindset, she is eager to engage with the lectures and discussions, hoping to maximize her learning experience. Each moment in class represents a step towards her academic aspirations, and she remains hopeful despite the lingering disappointment about her grant rejection.
+
+At 1:15 PM, Maria heads to Hobbs Cafe for lunch, appreciating this time as not only a chance to refuel but also an opportunity to connect with her classmates. She toys with the idea of inviting one of her peers to join her, recognizing the value of social connections amid her academic journey.
+
+From 2:00 PM to 5:30 PM, Maria sets up at Hobbs Cafe to study physics, dedicating herself to reviewing notes and mastering the material. With a list of topics in hand, she feels prepared to make the most of her focused study session. She takes care to incorporate mindfulness breaks, ensuring that her emotional well-being is a priority alongside her academic goals.
+
+After studying, Maria returns home by 5:30 PM to prepare dinner for herself, aiming for a cozy meal by 6:00 PM. This part of her day serves as a crucial moment to decompress before moving on to her evening plans.
+
+At 7:00 PM, she begins her Twitch stream, fully engaged with her audience until 10:00 PM. The connection with her viewers offers her solace, and she relishes the moments spent sharing her passion for gaming. After the stream, from 10:00 PM to 11:00 PM, Maria takes a well-deserved break to interact with her chat, reflecting on the positive connections she has made online.
+
+Maria decides to continue streaming from 11:00 PM to 12:30 AM, excitedly immersing herself in new games and discussions, leveraging the energy of her viewers to uplift her spirits. As the night winds down, she sets aside time from 12:30 AM to 1:30 AM to reflect on her day, jotting down any goals for tomorrow and reminding herself of the resilience she has developed in the face of adversity.
+
+By 1:30 AM, Maria prepares for bed, aiming to drift off by 2:00 AM, feeling accomplished and optimistic about what lies ahead on Sunday. With her routine in place and a supportive community around her, Maria embraces the challenges of her academic journey while nurturing her passions and emotional well-being.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 9:00 AM.   2. Attend classes at Oak Hill College from 10:00 AM to 1:00 PM.   3. Enjoy lunch at Hobbs Cafe at 1:15 PM.   4. Review physics notes at Hobbs Cafe from 2:00 PM to 5:30 PM.   5. Prepare and eat dinner at 6:00 PM.   6. Stream on Twitch from 7:00 PM to 10:00 PM, then engage with chat until 11:30 PM.
+Current Date: Saturday February 25
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Maria receives encouraging words and advice from a senior colleague about alternative funding opportunities, helping her regain confidence. (from 2023-02-24 04:00:00)
+2. Maria receives news that her research grant application has been rejected, causing significant stress about her academic future. (from 2023-02-20 11:00:00)
+3. This is Maria Lopez's plan for Wednesday February 22: wake up and complete their morning routine at 9:00am, attend classes at Oak Hill College from 10:00am to 1:00pm, grab lunch at Hobbs Cafe at 1:15pm, study and review physics notes at Hobbs Cafe from 2:00pm to 5:30pm, head back home at 5:30pm to prepare for dinner, eat dinner at 6:00pm, stream games on Twitch from 7:00pm to 10:00pm, take a break and interact with chat or relax between 10:00pm and 11:00pm, resume streaming or gaming from 11:00pm to 12:30am, wind down and plan for the next day from 12:30am to 1:30am, get ready for bed at 1:30am, and go to sleep around 2:00am. (from 2023-02-22 00:00:00)
+4. This is Maria Lopez's plan for Saturday February 25: wake up and complete their morning routine at 9:00am, attend classes at Oak Hill College from 10:00am to 1:00pm, grab lunch at Hobbs Cafe at 1:15pm, study and review physics notes at Hobbs Cafe from 2:00pm to 5:30pm, head back home at 5:30pm to prepare for dinner, eat dinner at 6:00pm, stream games on Twitch from 7:00pm to 10:00pm, take a break and interact with chat or relax between 10:00pm and 11:00pm, resume streaming or gaming from 11:00pm to 12:30am, wind down and plan for the next day from 12:30am to 1:30am, get ready for bed at 1:30am, and go to sleep around 2:00am. (from 2023-02-25 00:00:00)
+5. This is Maria Lopez's plan for Thursday February 23: wake up and complete their morning routine at 9:00am, attend classes at Oak Hill College from 10:00am to 1:00pm, grab lunch at Hobbs Cafe at 1:15pm, study and review physics notes at Hobbs Cafe from 2:00pm to 5:30pm, head back home at 5:30pm to prepare for dinner, eat dinner at 6:00pm, stream games on Twitch from 7:00pm to 10:00pm, take a break and interact with chat or relax between 10:00pm and 11:00pm, resume streaming or gaming from 11:00pm to 12:30am, wind down and plan for the next day from 12:30am to 1:30am, get ready for bed at 1:30am, and go to sleep around 2:00am. (from 2023-02-23 00:00:00)
+6. This is Maria Lopez's plan for Friday February 24: wake up and complete their morning routine at 9:00am, attend classes at Oak Hill College from 10:00am to 1:00pm, grab lunch at Hobbs Cafe at 1:15pm, study and review physics notes at Hobbs Cafe from 2:00pm to 5:30pm, head back home at 5:30pm to prepare for dinner, eat dinner at 6:00pm, stream games on Twitch from 7:00pm to 10:00pm, take a break and interact with chat or relax between 10:00pm and 11:00pm, resume streaming or gaming from 11:00pm to 12:30am, wind down and plan for the next day from 12:30am to 1:30am, get ready for bed at 1:30am, and go to sleep around 2:00am. (from 2023-02-24 00:00:00)
+7. This is Maria Lopez's plan for Monday February 20: wake up and complete their morning routine at 9:00am, attend classes at Oak Hill College from 10:00am to 1:00pm, grab lunch at Hobbs Cafe at 1:15pm, study and review physics notes at Hobbs Cafe from 2:00pm to 5:30pm, head back home at 5:30pm to prepare for dinner, eat dinner at 6:00pm, stream games on Twitch from 7:00pm to 10:00pm, take a break and interact with chat or relax between 10:00pm and 11:00pm, resume streaming or gaming from 11:00pm to 12:30am, wind down and plan for the next day from 12:30am to 1:30am, get ready for bed at 1:30am, and go to sleep around 2:00am. (from 2023-02-20 00:00:00)
+8. This is Maria Lopez's plan for Tuesday February 21: wake up and complete their morning routine at 9:00am, attend classes at Oak Hill College from 10:00am to 1:00pm, grab lunch at Hobbs Cafe at 1:15pm, study and review physics notes at Hobbs Cafe from 2:00pm to 5:30pm, head back home at 5:30pm to prepare for dinner, eat dinner at 6:00pm, stream games on Twitch from 7:00pm to 10:00pm, take a break and interact with chat or relax between 10:00pm and 11:00pm, resume streaming or gaming from 11:00pm to 12:30am, wind down and plan for the next day from 12:30am to 1:30am, get ready for bed at 1:30am, and go to sleep around 2:00am. (from 2023-02-21 00:00:00)
+9. This is Maria Lopez's plan for Thursday February 16: wake up and complete their morning routine at 9:00am, attend classes at Oak Hill College from 10:00am to 1:00pm, grab lunch at Hobbs Cafe at 1:15pm, study and review physics notes at Hobbs Cafe from 2:00pm to 5:30pm, head back home at 5:30pm to prepare for dinner, eat dinner at 6:00pm, stream games on Twitch from 7:00pm to 10:00pm, take a break and interact with chat or relax between 10:00pm and 11:00pm, resume streaming or gaming from 11:00pm to 12:30am, wind down and plan for the next day from 12:30am to 1:30am, get ready for bed at 1:30am, and go to sleep around 2:00am. (from 2023-02-16 00:00:00)
+10. This is Maria Lopez's plan for Wednesday February 15: wake up and complete their morning routine at 9:00am, attend classes at Oak Hill College from 10:00am to 1:00pm, grab lunch at Hobbs Cafe at 1:15pm, study and review physics notes at Hobbs Cafe from 2:00pm to 5:30pm, head back home at 5:30pm to prepare for dinner, eat dinner at 6:00pm, stream games on Twitch from 7:00pm to 10:00pm, take a break and interact with chat or relax between 10:00pm and 11:00pm, resume streaming or gaming from 11:00pm to 12:30am, wind down and plan for the next day from 12:30am to 1:30am, get ready for bed at 1:30am, and go to sleep around 2:00am. (from 2023-02-15 00:00:00)
+11. This is Maria Lopez's plan for Friday February 17: wake up and complete their morning routine at 9:00am, attend classes at Oak Hill College from 10:00am to 1:00pm, grab lunch at Hobbs Cafe at 1:15pm, study and review physics notes at Hobbs Cafe from 2:00pm to 5:30pm, head back home at 5:30pm to prepare for dinner, eat dinner at 6:00pm, stream games on Twitch from 7:00pm to 10:00pm, take a break and interact with chat or relax between 10:00pm and 11:00pm, resume streaming or gaming from 11:00pm to 12:30am, wind down and plan for the next day from 12:30am to 1:30am, get ready for bed at 1:30am, and go to sleep around 2:00am. (from 2023-02-17 00:00:00)
+12. This is Maria Lopez's plan for Sunday February 19: wake up and complete their morning routine at 9:00am, attend classes at Oak Hill College from 10:00am to 1:00pm, grab lunch at Hobbs Cafe at 1:15pm, study and review physics notes at Hobbs Cafe from 2:00pm to 5:30pm, head back home at 5:30pm to prepare for dinner, eat dinner at 6:00pm, stream games on Twitch from 7:00pm to 10:00pm, take a break and interact with chat or relax between 10:00pm and 11:00pm, resume streaming or gaming from 11:00pm to 12:30am, wind down and plan for the next day from 12:30am to 1:30am, get ready for bed at 1:30am, and go to sleep around 2:00am. (from 2023-02-19 00:00:00)
+13. This is Maria Lopez's plan for Saturday February 18: wake up and complete their morning routine at 9:00am, attend classes at Oak Hill College from 10:00am to 1:00pm, grab lunch at Hobbs Cafe at 1:15pm, study and review physics notes at Hobbs Cafe from 2:00pm to 5:30pm, head back home at 5:30pm to prepare for dinner, eat dinner at 6:00pm, stream games on Twitch from 7:00pm to 10:00pm, take a break and interact with chat or relax between 10:00pm and 11:00pm, resume streaming or gaming from 11:00pm to 12:30am, wind down and plan for the next day from 12:30am to 1:30am, get ready for bed at 1:30am, and go to sleep around 2:00am. (from 2023-02-18 00:00:00)
+14. This is Maria Lopez's plan for Tuesday February 14: wake up and complete their morning routine at 9:00am, attend classes at Oak Hill College from 10:00am to 1:00pm, grab lunch at Hobbs Cafe at 1:15pm, study and review physics notes at Hobbs Cafe from 2:00pm to 5:30pm, head back home at 5:30pm to prepare for dinner, eat dinner at 6:00pm, stream games on Twitch from 7:00pm to 10:00pm, take a break and interact with chat or relax between 10:00pm and 11:00pm, resume streaming or gaming from 11:00pm to 12:30am, wind down and plan for the next day from 12:30am to 1:30am, get ready for bed at 1:30am, and go to sleep around 2:00am. (from 2023-02-14 00:00:00)
+15. This is Maria Lopez's plan for Monday February 13: wake up and complete their morning routine at 9:00am, attend classes at Oak Hill College from 10:00am to 1:00pm, grab lunch at Hobbs Cafe at 1:15pm, study and review physics notes at Hobbs Cafe from 2:00pm to 5:30pm, head back home at 5:30pm to prepare for dinner, eat dinner at 6:00pm, stream games on Twitch from 7:00pm to 10:00pm, take a break and interact with chat or relax between 10:00pm and 11:00pm, resume streaming or gaming from 11:00pm to 12:30am, wind down and plan for the next day from 12:30am to 1:30am, get ready for bed at 1:30am, and go to sleep around 2:00am. (from 2023-02-13 08:00:00)
+16. Maria Lopez is studying and reviewing physics notes at Hobbs Cafe (from 2023-02-13 17:30:00)
+17. Maria Lopez is attending classes at Oak Hill College (from 2023-02-13 13:30:00)
+18. Maria Lopez is sleeping (from 2023-02-13 08:30:00)
+19. Klaus Mueller is searching for articles on gentrification (from 2023-02-13 16:00:00)
+20. Maria Lopez is setting up the streaming software (from 2023-02-13 20:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 2: "Feeling down, depressed, or hopeless"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

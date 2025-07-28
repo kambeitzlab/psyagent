@@ -1,0 +1,69 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Status: On Saturday, March 4, Maria Lopez wakes up with a renewed sense of determination, aware of the balance she needs to strike between her academic commitments and personal time. After completing her morning routine by **9:00 AM**, she enjoys a nourishing breakfast at **9:30 AM**, preparing mentally for a full day ahead.
+
+By **10:00 AM**, Maria heads to **Hobbs Cafe** to dedicate the first segment of her study time to physics, focusing intensely on the material until **1:00 PM**. She finds this familiar setting conducive to her concentration, which helps alleviate some of the stress she's feeling about her upcoming exam.
+
+At **1:00 PM**, Maria takes a much-needed snack break until **1:30 PM**, using this time to refresh her mind and recharge for the second study session. She dives back into studying at **1:30 PM**, continuing until **3:30 PM**. After wrapping up her studies, Maria returns home for a light lunch around **3:30 PM**, taking a moment to relax before transitioning to her more leisurely afternoon activities.
+
+Starting at **4:00 PM**, Maria eagerly engages in her Twitch streaming and gaming, an aspect of her routine that she truly enjoys. She streams until **7:00 PM**, allowing herself to unwind and connect with her audience. Dinner is planned around **6:00 PM**, either at home or with a quick pick-up from Hobbs Cafe, ensuring she maintains her energy for the evening.
+
+As her day flows into the evening, Maria continues her streaming until **9:00 PM**, anticipating the arrival of her friends for an exciting online gaming session lasting until **12:00 AM**. The camaraderie with her friends serves as a comforting distraction from her academic stress and helps fortify her resolve.
+
+As she reflects on her day, Maria holds onto the mixed emotions she has been experiencing—an acknowledgment of her academic pressures intertwined with the joy her friendships bring. Despite the recent rejection of her research grant application, she feels grateful for the support from colleagues and friends, which bolsters her resilience. Maria is committed to her structured routine, ensuring she carves out time for both her studies and her social life, recognizing these connections as vital to her overall well-being. As Saturday comes to a close, Maria aims to wind down from **12:00 AM to 2:00 AM**, enjoying relaxation time through social media interactions or casual video watching, before retiring to bed by **2:00 AM**, ready to face whatever challenges lie ahead.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at **9:00 AM**.   2. Study physics at Hobbs Cafe from **10:00 AM to 1:00 PM**.   3. Take a snack break from **1:00 PM to 1:30 PM**.   4. Continue studying from **1:30 PM to 3:30 PM**.   5. Twitch stream from **4:00 PM to 7:00 PM**.   6. Online gaming with friends from **9:00 PM to 12:00 AM**.
+Current Date: Saturday March 04
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Maria Lopez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-03-03 15:00:00)
+2. Maria Lopez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-27 15:00:00)
+3. Maria Lopez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-25 15:00:00)
+4. Maria Lopez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-23 15:00:00)
+5. Maria Lopez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-20 12:00:00)
+6. Maria Lopez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-15 00:30:00)
+7. Maria Lopez is experiencing significant stress regarding her academic future due to the rejection of her research grant application. (from 2023-03-03 15:00:00)
+8. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-20 12:00:00)
+9. Maria Lopez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-03-01 15:00:00)
+10. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-03-01 15:00:00)
+11. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-27 15:00:00)
+12. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-23 15:00:00)
+13. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-15 00:30:00)
+14. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-03-03 15:00:00)
+15. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-25 15:00:00)
+16. Maria has a supportive network, as evidenced by her receiving support from colleagues after her grant rejection. (from 2023-03-03 15:00:00)
+17. Maria frequently engages in social activities with friends, such as game nights and online gaming, which suggest she values her social connections. (from 2023-03-03 15:00:00)
+18. Maria Lopez is Fill in (from 2023-02-13 08:30:00)
+19. Maria is preparing for her physics exam, indicating a focus on her academic responsibilities. (from 2023-03-03 15:00:00)
+20. Maria Lopez is preparing extensively for her physics exam, indicating a strong focus on academics. (from 2023-03-03 15:00:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 1: "Little interest or pleasure in doing things"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

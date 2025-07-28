@@ -1,0 +1,43 @@
+
+            Task: Rate a mental health questionnaire item for Isabella Rodriguez based on their characteristics and memories.
+            
+            Isabella Rodriguez's traits: Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Isabella Rodriguez is opening Hobbs Cafe and starting to serve customers (from 2023-02-13 08:30:00)
+2. This is Isabella Rodriguez's plan for Monday February 13: wake up and complete their morning routine at 6:00 am, prepare breakfast and enjoy coffee while reviewing party plans at 7:00 am, open Hobbs Cafe and start serving customers at 8:00 am, manage the cafe and interact with customers until 12:00 pm, take a break for lunch and plan for the Valentine's Day party from 12:00 pm to 1:00 pm, continue serving customers and oversee cafe operations until 4:00 pm, set aside time from 4:00 pm to 5:00 pm to finalize decorations and party material for the Valentine's Day party, host customers and enjoy the Valentine's Day party at Hobbs Cafe from 5:00 pm to 7:00 pm, clean up after the party and close the cafe at 8:00 pm, wind down at home, have dinner, and plan for the next day from 8:30 pm to 10:30 pm, get ready for bed and relax before sleeping at 11:00 pm. (from 2023-02-13 08:00:00)
+3. behind the cafe counter is organized chaos with ingredients and equipment (from 2023-02-13 13:30:00)
+4. Isabella Rodriguez is greeting customers as they enter the cafe (from 2023-02-13 09:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 2: "Feeling down, depressed, or hopeless"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

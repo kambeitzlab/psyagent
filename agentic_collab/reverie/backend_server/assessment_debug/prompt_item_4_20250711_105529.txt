@@ -1,0 +1,42 @@
+
+            Task: Rate a mental health questionnaire item for Isabella Rodriguez based on their characteristics and memories.
+            
+            Isabella Rodriguez's traits: Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Status: Isabella Rodriguez is welcoming the day with excitement as she prepares for Valentine's Day, reflecting on the successful party she hosted at Hobbs Cafe last night. She has started her usual morning routine, waking up at 6:00 AM and enjoying breakfast by 6:30 AM. Arriving at the cafe by 7:30 AM, she is focused on addressing any post-party tasks, including cleaning up and gathering feedback from her guests. Isabella plans to engage with her regular customers to express her gratitude for their support, fostering a warm and inviting atmosphere throughout the day. As part of the Valentine's Day celebrations, she is also considering implementing a special offer to attract more visitors to Hobbs Cafe. After a bustling day of operations, Isabella looks forward to unwinding in the evening with a book or some television. Overall, she is eager to connect with her community and share in the joy of the holiday at Hobbs Cafe today, February 14, 2023.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: 1. Wake up and complete the morning routine at 6:00 AM.   2. Arrive at Hobbs Cafe and start post-party tasks, including cleaning up and gathering feedback from guests at 7:30 AM.   3. Open Hobbs Cafe for customers at 8:00 AM, greeting regulars and introducing a special Valentine's Day offer.   4. Engage with customers and foster a warm atmosphere throughout the day, expressing gratitude for their support.   5. Wrap up operations and close the cafe at 8:00 PM.   6. Unwind with a book or some television from 8:30 PM to 10:30 PM before heading to bed.
+Current Date: Tuesday February 14
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Isabella Rodriguez is Fill in (from 2023-02-13 16:00:00)
+2. This is Isabella Rodriguez's plan for Tuesday February 14: Wake up and complete morning routine at 6:00am, Prepare breakfast and have a quick meal at 6:30am, Get ready for the day and arrive at Hobbs Cafe by 7:30am to set up for opening, Open Hobbs Cafe at 8:00am and start serving customers, Serve coffee and breakfast items, chatting with regulars until 11:30am, Take a short break and plan final details for the Valentine's Day party from 11:30am to 12:00pm, Serve lunch at 12:00pm and continue to engage with customers until 2:30pm, Spend some time organizing and decorating the cafe for the Valentine's Day party from 2:30pm to 4:00pm, Take a brief break and have a snack at 4:00pm, Finish any last-minute preparations for the party and get ready to welcome guests from 4:30pm to 5:00pm, Host the Valentine's Day party from 5:00pm to 7:00pm, ensuring everyone feels welcomed and enjoys the festivities, Wrap up the event, thanking guests for coming and cleaning up from 7:00pm to 8:00pm, Close Hobbs Cafe at 8:00pm and head home, Have dinner and unwind at home from 8:30pm to 10:00pm, Relax with a book or watch some TV from 10:00pm to 11:00pm, Head to bed around 11:00pm. (from 2023-02-14 00:00:00)
+3. This is Isabella Rodriguez's plan for Monday February 13: Wake up and complete morning routine at 6:00am, Prepare breakfast and have a quick meal at 6:30am, Get ready for the day and arrive at Hobbs Cafe by 7:30am to set up for opening, Open Hobbs Cafe at 8:00am and start serving customers, Serve coffee and breakfast items, chatting with regulars until 11:30am, Take a short break and plan final details for the Valentine's Day party from 11:30am to 12:00pm, Serve lunch at 12:00pm and continue to engage with customers until 2:30pm, Spend some time organizing and decorating the cafe for the Valentine's Day party from 2:30pm to 4:00pm, Take a brief break and have a snack at 4:00pm, Finish any last-minute preparations for the party and get ready to welcome guests from 4:30pm to 5:00pm, Host the Valentine's Day party from 5:00pm to 7:00pm, ensuring everyone feels welcomed and enjoys the festivities, Wrap up the event, thanking guests for coming and cleaning up from 7:00pm to 8:00pm, Close Hobbs Cafe at 8:00pm and head home, Have dinner and unwind at home from 8:30pm to 10:00pm, Relax with a book or watch some TV from 10:00pm to 11:00pm, Head to bed around 11:00pm. (from 2023-02-13 08:00:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 4: "Feeling tired or having little energy"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

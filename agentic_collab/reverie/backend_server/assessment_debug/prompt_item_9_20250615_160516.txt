@@ -1,0 +1,69 @@
+
+            Task: Rate a mental health questionnaire item for Isabella Rodriguez based on their characteristics and memories.
+            
+            Isabella Rodriguez's traits: Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Status: On Friday, March 03, 2023, Isabella Rodriguez awakens with a gentle resolve, grateful for the opportunity to pause and reflect after a tumultuous week. She acknowledges the significance of her ongoing journey through grief and understands that self-care is vital for her well-being. As she prepares for the day, she engages in her usual morning routine, making a conscious effort to breathe in the tranquility around her.
+
+At 9:00 am, Isabella takes a moment to review her plans for the day. Noting her intentions to connect with Dr. Sarah Thompson, she prepares to reflect on her recent therapy sessions. She realizes how important it is to check in on her emotional health, especially after the struggles she has faced. Mental well-being is paramount, and she knows that taking time for herself can aid her healing process.
+
+As the afternoon approaches, Isabella focuses on wrapping up any remaining tasks for the Valentine’s Day party, scheduled for the following week. She finds solace in decorating the cafe, which becomes a poignant reminder of her mother's love for such joyful celebrations. Her heart swells with bittersweet emotion as she meticulously arranges the decor, feeling her mother’s presence guiding her.
+
+Isabella reaches out to her friend Maria Lopez via text to follow up on their plans for game night. She suggests coping together over the weekend, reminding herself of the vital support their friendship provides amid her emotional turmoil. Their conversations have been a beacon of comfort, and she looks forward to sharing laughter and companionship.
+
+As the day winds down, Isabella decides to carve out some intentional downtime for herself, promising to honor her need for rest and reflection. She finds it therapeutic to indulge in a book that she has cherished, allowing her mind to wander into the stories that provide a temporary escape from her reality.
+
+Toward the evening, Isabella prepares a simple meal, reminding herself to nourish both her body and spirit. She takes time to write in her journal, capturing her thoughts and emotions as she processes yet another day filled with both joy and heartache. With her resilience guiding her, Isabella feels hopeful about the future, embracing the little moments that continue to shape her healing journey.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: 1. Wake up and complete the morning routine at **6:00 AM**.   2. Spend time reflecting and practicing self-care from **6:30 AM to 7:00 AM**.   3. Arrive at Hobbs Cafe by **7:30 AM** and prepare for the day.   4. Engage with customers and manage the café from **8:00 AM to 12:00 PM**.   5. Take a lunch break for reflection and solitude at **12:30 PM**.   6. Connect with friend Maria Lopez for emotional support at **4:30 PM**.
+Current Date: Friday March 03
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Isabella Rodriguez had a therapy session over the phone with Dr. Sarah Thompson, discussing recent emotional challenges and receiving professional support (from 2023-03-03 14:00:00)
+2. Isabella Rodriguez had a therapy session over the phone with Dr. Sarah Thompson, discussing recent emotional challenges and receiving professional support (from 2023-03-01 14:00:00)
+3. Isabella Rodriguez had a therapy session over the phone with Dr. Sarah Thompson, discussing recent emotional challenges and receiving professional support (from 2023-02-27 14:00:00)
+4. Isabella Rodriguez had a therapy session over the phone with Dr. Sarah Thompson, discussing recent emotional challenges and receiving professional support (from 2023-02-25 14:00:00)
+5. Isabella Rodriguez had a therapy session over the phone with Dr. Sarah Thompson, discussing recent emotional challenges and receiving professional support (from 2023-02-23 14:00:00)
+6. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-03-01 14:00:00)
+7. Isabella receives devastating news that her beloved mother has suddenly passed away from a heart attack. (from 2023-02-20 10:00:00)
+8. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-20 10:00:00)
+9. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-15 00:30:00)
+10. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-25 14:00:00)
+11. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-23 14:00:00)
+12. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-03-03 14:00:00)
+13. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-27 14:00:00)
+14. Maria Lopez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-20 10:30:00)
+15. Maria Lopez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-03-03 14:30:00)
+16. Maria Lopez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-27 14:30:00)
+17. Maria Lopez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-25 14:30:00)
+18. Maria Lopez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-23 14:30:00)
+19. Maria Lopez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-15 00:30:00)
+20. Isabella Rodriguez is arriving at Hobbs Cafe and preparing for the day (from 2023-02-13 08:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 9: "Thoughts that you would be better off dead, or of hurting yourself in some way"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

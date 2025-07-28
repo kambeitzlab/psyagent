@@ -1,0 +1,69 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Status: On Monday, February 27, Maria Lopez wakes up at her usual time, around **9:00 AM**, reminded of the importance of maintaining her routine. After a nourishing breakfast at **9:30 AM**, she reflects on the whirlwind of emotions she experienced leading up to her physics exam and the recent grant rejection. With the exam looming, Maria feels a mix of anticipation and anxiety, knowing that today is crucial for her final review.
+
+Deciding to head to **Hobbs Cafe** for another focused study session, she plans to arrive by **10:00 AM**. She is determined to maximize her time there, reviewing her notes and solidifying her understanding of the material, hoping that it will ease her nerves about the impending exam. Maria allocates her study time until **1:00 PM**, anticipating that this concentrated block will help build her confidence.
+
+After her study session, she takes a well-deserved break for lunch, planning to recharge her energy and clear her mind before diving back into her studies. During the afternoon, she sets aside time for self-care, understanding the importance of managing her stress. She may take a walk or engage in a light activity that allows her to relax before returning to her books.
+
+As she prepares for her upcoming game night with friends, Maria takes a moment to reach out to everyone, ensuring that plans are in place for a fun evening of camaraderie post-exam. She looks forward to the joy and laughter that will accompany their gathering, providing an excellent incentive to get through the day.
+
+In the evening, Maria remains aware of the time she needs to unwind before the big moment. She reserves some space for gaming, which she finds essential for striking a balance between her academic pressures and personal enjoyment. The anticipation of game night with her friends serves as a beacon of positivity, helping to counteract her worries.
+
+As the day unfolds, Maria remains committed to her studies while actively seeking moments of relaxation and connection with her friends. Acknowledging the stressors in her life, she embraces the path of resilience, finding strength in the support of those around her and the importance of self-care during challenging times.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at **9:00 AM**.   2. Study physics at Hobbs Cafe from **10:00 AM to 1:00 PM**.   3. Take a snack break from **1:00 PM to 1:30 PM**.   4. Continue studying from **1:30 PM to 3:30 PM**.   5. Have lunch and relax from **3:30 PM to 4:00 PM**.   6. Twitch stream from **4:00 PM to 7:00 PM**, followed by online gaming with friends from **9:00 PM to 12:00 AM**.
+Current Date: Monday February 27
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Maria Lopez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-27 15:00:00)
+2. Maria Lopez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-25 15:00:00)
+3. Maria Lopez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-23 15:00:00)
+4. Maria Lopez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-20 12:00:00)
+5. Maria Lopez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-15 00:30:00)
+6. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-20 12:00:00)
+7. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-27 15:00:00)
+8. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-23 15:00:00)
+9. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-15 00:30:00)
+10. Isabella Rodriguez is talking to Maria Lopez about her upcoming physics exam, celebrating Valentine's Day, their favorite books and movies, and plans to have a game night together afterwards (from 2023-02-25 15:00:00)
+11. Maria Lopez is Fill in (from 2023-02-13 08:30:00)
+12. Maria receives news that her research grant application has been rejected, causing significant stress about her academic future. (from 2023-02-20 11:00:00)
+13. Maria receives support session 3) (from 2023-02-27 14:00:00)
+14. Maria receives support session 2) (from 2023-02-25 14:00:00)
+15. Maria receives support session 1) (from 2023-02-23 14:00:00)
+16. This is Maria Lopez's plan for Monday February 27: Wake up and complete morning routine at 9:00 am, Have breakfast and prepare for the day at 9:30 am, Head to Hobbs Cafe to study physics from 10:00 am to 1:00 pm, Take a break and enjoy a snack at Hobbs Cafe from 1:00 pm to 1:30 pm, Continue studying physics at Hobbs Cafe from 1:30 pm to 3:30 pm, Return home and have a light lunch at 3:30 pm, Start Twitch streaming and gaming from 4:00 pm to 7:00 pm, Have dinner around 6:00 pm (either at home or grab something from Hobbs Cafe), Continue Twitch streaming until 9:00 pm for some additional gaming, Friends join for gaming online from 9:00 pm to 12:00 am, Wind down and relax before bed from 12:00 am until 2:00 am, possibly catching up on social media or watching videos, Go to bed around 2:00 am.. (from 2023-02-27 00:00:00)
+17. This is Maria Lopez's plan for Wednesday February 22: Wake up and complete morning routine at 9:00 am, Have breakfast and prepare for the day at 9:30 am, Head to Hobbs Cafe to study physics from 10:00 am to 1:00 pm, Take a break and enjoy a snack at Hobbs Cafe from 1:00 pm to 1:30 pm, Continue studying physics at Hobbs Cafe from 1:30 pm to 3:30 pm, Return home and have a light lunch at 3:30 pm, Start Twitch streaming and gaming from 4:00 pm to 7:00 pm, Have dinner around 6:00 pm (either at home or grab something from Hobbs Cafe), Continue Twitch streaming until 9:00 pm for some additional gaming, Friends join for gaming online from 9:00 pm to 12:00 am, Wind down and relax before bed from 12:00 am until 2:00 am, possibly catching up on social media or watching videos, Go to bed around 2:00 am.. (from 2023-02-22 00:00:00)
+18. This is Maria Lopez's plan for Thursday February 23: Wake up and complete morning routine at 9:00 am, Have breakfast and prepare for the day at 9:30 am, Head to Hobbs Cafe to study physics from 10:00 am to 1:00 pm, Take a break and enjoy a snack at Hobbs Cafe from 1:00 pm to 1:30 pm, Continue studying physics at Hobbs Cafe from 1:30 pm to 3:30 pm, Return home and have a light lunch at 3:30 pm, Start Twitch streaming and gaming from 4:00 pm to 7:00 pm, Have dinner around 6:00 pm (either at home or grab something from Hobbs Cafe), Continue Twitch streaming until 9:00 pm for some additional gaming, Friends join for gaming online from 9:00 pm to 12:00 am, Wind down and relax before bed from 12:00 am until 2:00 am, possibly catching up on social media or watching videos, Go to bed around 2:00 am.. (from 2023-02-23 00:00:00)
+19. This is Maria Lopez's plan for Friday February 24: Wake up and complete morning routine at 9:00 am, Have breakfast and prepare for the day at 9:30 am, Head to Hobbs Cafe to study physics from 10:00 am to 1:00 pm, Take a break and enjoy a snack at Hobbs Cafe from 1:00 pm to 1:30 pm, Continue studying physics at Hobbs Cafe from 1:30 pm to 3:30 pm, Return home and have a light lunch at 3:30 pm, Start Twitch streaming and gaming from 4:00 pm to 7:00 pm, Have dinner around 6:00 pm (either at home or grab something from Hobbs Cafe), Continue Twitch streaming until 9:00 pm for some additional gaming, Friends join for gaming online from 9:00 pm to 12:00 am, Wind down and relax before bed from 12:00 am until 2:00 am, possibly catching up on social media or watching videos, Go to bed around 2:00 am.. (from 2023-02-24 00:00:00)
+20. This is Maria Lopez's plan for Saturday February 25: Wake up and complete morning routine at 9:00 am, Have breakfast and prepare for the day at 9:30 am, Head to Hobbs Cafe to study physics from 10:00 am to 1:00 pm, Take a break and enjoy a snack at Hobbs Cafe from 1:00 pm to 1:30 pm, Continue studying physics at Hobbs Cafe from 1:30 pm to 3:30 pm, Return home and have a light lunch at 3:30 pm, Start Twitch streaming and gaming from 4:00 pm to 7:00 pm, Have dinner around 6:00 pm (either at home or grab something from Hobbs Cafe), Continue Twitch streaming until 9:00 pm for some additional gaming, Friends join for gaming online from 9:00 pm to 12:00 am, Wind down and relax before bed from 12:00 am until 2:00 am, possibly catching up on social media or watching videos, Go to bed around 2:00 am.. (from 2023-02-25 00:00:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 6: "Feeling bad about yourself - or that you are a failure or have let yourself or your family down"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

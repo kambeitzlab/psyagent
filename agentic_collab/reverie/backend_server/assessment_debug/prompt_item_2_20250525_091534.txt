@@ -1,0 +1,51 @@
+
+            Task: Rate a mental health questionnaire item for Klaus Mueller based on their characteristics and memories.
+            
+            Klaus Mueller's traits: Name: Klaus Mueller
+Age: 20
+Innate traits: kind, inquisitive, passionate
+Learned traits: Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.
+Currently: Status: Klaus Mueller is set for a productive Tuesday, February 14, building on the momentum from his successful day on Monday. His schedule starts with a **wake-up and morning routine at 7:00 AM**, followed by **breakfast at 7:30 AM**. He plans to head to the library at **8:00 AM**, where he will dive back into research for his sociology paper on gentrification at **8:30 AM**. After a focused morning, Klaus will take his usual short break at **10:30 AM** before continuing to write and organize his thoughts until **12:30 PM**. 
+
+He has lunch scheduled at **1:00 PM** at Hobbs Cafe, a favorite spot that rejuvenates him. Klaus aims to return to the library by **2:00 PM** for a group study session with classmates starting at **2:30 PM**, where he hopes to enhance his understanding through collaboration. He intends to review his notes and gather more resources until **4:30 PM** before wrapping up his library work and heading home at **5:00 PM**. 
+
+Dinner is set for **5:30 PM**, followed by a relaxing time to pursue his hobbies from **6:30 PM to 8:30 PM**. Klaus will then review his research paper notes from **8:30 PM to 10:00 PM**, concluding his day with a wind-down period and preparing for bed at **10:30 PM**. He is determined to stay organized and focused, looking to optimize his study sessions and ensure continued productivity in his research efforts.
+Lifestyle: Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 7:00 AM   2. Have breakfast at 7:30 AM   3. Head to the library at 8:00 AM for research   4. Take a short break at 10:30 AM   5. Have lunch at Hobbs Cafe at 1:00 PM   6. Participate in a group study session at the library starting at 2:30 PM
+Current Date: Tuesday February 14
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Klaus Mueller is heading to the library (from 2023-02-13 16:00:00)
+2. closet is idle (from 2023-02-13 08:00:00)
+3. desk is idle (from 2023-02-13 08:00:00)
+4. game console is idle (from 2023-02-13 08:00:00)
+5. Klaus Mueller is idle (from 2023-02-13 08:00:00)
+6. bed is idle (from 2023-02-13 08:00:00)
+7. This is Klaus Mueller's plan for Tuesday February 14: wake up and complete morning routine at 7:00 am, have breakfast at 7:30 am, head to the library at 8:00 am, start research for the sociology paper on gentrification at 8:30 am, take a short break at 10:30 am, continue writing and organizing thoughts until 12:30 pm, have lunch at Hobbs Cafe at 1:00 pm, return to the library by 2:00 pm, engage in a group study session with classmates at 2:30 pm, review notes and gather additional resources until 4:30 pm, wrap up work at the library and head home at 5:00 pm, eat dinner at 5:30 pm, spend the evening relaxing or pursuing hobbies from 6:30 pm to 8:30 pm, review the research paper notes from 8:30 pm to 10:00 pm, prepare for bed and wind down at 10:30 pm. (from 2023-02-14 00:00:00)
+8. This is Klaus Mueller's plan for Monday February 13: wake up and complete morning routine at 7:00 am, have breakfast at 7:30 am, head to the library at 8:00 am, start research for the sociology paper on gentrification at 8:30 am, take a short break at 10:30 am, continue writing and organizing thoughts until 12:30 pm, have lunch at Hobbs Cafe at 1:00 pm, return to the library by 2:00 pm, engage in a group study session with classmates at 2:30 pm, review notes and gather additional resources until 4:30 pm, wrap up work at the library and head home at 5:00 pm, eat dinner at 5:30 pm, spend the evening relaxing or pursuing hobbies from 6:30 pm to 8:30 pm, review the research paper notes from 8:30 pm to 10:00 pm, prepare for bed and wind down at 10:30 pm. (from 2023-02-13 08:00:00)
+
+            
+            Questionnaire: GAD-7
+            Instructions: Over the last two weeks, how often have you been bothered by the following problems?
+            
+            Item 2: "Not being able to stop or control worrying"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

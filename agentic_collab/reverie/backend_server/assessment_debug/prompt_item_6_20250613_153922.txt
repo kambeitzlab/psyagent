@@ -1,0 +1,48 @@
+
+            Task: Rate a mental health questionnaire item for Klaus Mueller based on their characteristics and memories.
+            
+            Klaus Mueller's traits: Name: Klaus Mueller
+Age: 20
+Innate traits: kind, inquisitive, passionate
+Learned traits: Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.
+Currently: Status: Klaus Mueller is focused and ready to tackle his research paper on the effects of gentrification in low-income communities today, Tuesday, February 14. He has completed his morning routine, waking up at 7:00 AM, and enjoyed a satisfying breakfast at 7:30 AM to fuel his productivity. By 8:00 AM, he aims to head to the library to maximize his writing time, planning to dive into his research starting at 8:30 AM. Maintaining his productivity, he has scheduled a short break at 10:30 AM to recharge, followed by a mid-morning snack at 11:30 AM. 
+
+Klaus will be having lunch at Hobbs Cafe at 1:00 PM, where he plans to confirm his meeting with a classmate to discuss his research paper at 1:30 PM. He intends to work diligently on his paper until 4:00 PM, wrapping up his writing and organizing notes by 4:30 PM. To unwind, Klaus will return to Hobbs Cafe for an early dinner at 5:00 PM and take some time to relax from 6:00 PM to 7:00 PM. 
+
+In the evening, from 7:00 PM to 9:00 PM, he plans to review his notes and finalize key points of his paper, a critical step in his preparation. Finally, he will wind down and prepare for the next day by 9:30 PM, with the goal of getting to bed by 11:00 PM. With a solid plan in place, Klaus feels organized and motivated for a successful day ahead, though he remains aware of the messy state of his closet as a reminder to tackle some cleaning soon.
+Lifestyle: Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.
+Daily plan requirement: 1. wake up and complete the morning routine at 7:00 AM,   2. have breakfast at 7:30 AM,   3. head to the library to start research at 8:00 AM,   4. take a short break at 10:30 AM,   5. have lunch at Hobbs Cafe at 1:00 PM,   6. review notes and finalize key points of his paper from 7:00 PM to 9:00 PM.
+Current Date: Tuesday February 14
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Klaus Mueller is having breakfast (from 2023-02-13 08:30:00)
+2. This is Klaus Mueller's plan for Tuesday February 14: wake up and complete morning routine at 7:00 am, have breakfast at 7:30 am, head to the library at 8:00 am, begin research and writing on gentrification at 8:30 am, take a short break at 10:30 am, resume writing at 10:45 am, have a mid-morning snack at 11:30 am, continue writing and researching until lunch at 12:30 pm, have lunch at Hobbs Cafe at 1:00 pm, meet with a classmate to discuss the research paper at 1:30 pm, continue working on the paper until 4:00 pm, wrap up writing and organize notes at 4:30 pm, head to Hobbs Cafe for early dinner at 5:00 pm, relax and unwind after dinner from 6:00 pm to 7:00 pm, review notes and finalize some points of the paper from 7:00 pm to 9:00 pm, prepare for the next day and wind down at 9:30 pm, go to bed by 11:00 pm. (from 2023-02-14 00:00:00)
+3. This is Klaus Mueller's plan for Monday February 13: wake up and complete morning routine at 7:00 am, have breakfast at 7:30 am, head to the library at 8:00 am, begin research and writing on gentrification at 8:30 am, take a short break at 10:30 am, resume writing at 10:45 am, have a mid-morning snack at 11:30 am, continue writing and researching until lunch at 12:30 pm, have lunch at Hobbs Cafe at 1:00 pm, meet with a classmate to discuss the research paper at 1:30 pm, continue working on the paper until 4:00 pm, wrap up writing and organize notes at 4:30 pm, head to Hobbs Cafe for early dinner at 5:00 pm, relax and unwind after dinner from 6:00 pm to 7:00 pm, review notes and finalize some points of the paper from 7:00 pm to 9:00 pm, prepare for the next day and wind down at 9:30 pm, go to bed by 11:00 pm. (from 2023-02-13 08:00:00)
+4. closet is partially open and filled with clothes (from 2023-02-13 11:00:00)
+5. Klaus Mueller is putting on shoes and jacket (from 2023-02-13 09:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 6: "Feeling bad about yourself - or that you are a failure or have let yourself or your family down"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

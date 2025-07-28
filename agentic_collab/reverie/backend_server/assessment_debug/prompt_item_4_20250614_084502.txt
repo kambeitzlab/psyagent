@@ -1,0 +1,43 @@
+
+            Task: Rate a mental health questionnaire item for Klaus Mueller based on their characteristics and memories.
+            
+            Klaus Mueller's traits: Name: Klaus Mueller
+Age: 20
+Innate traits: kind, inquisitive, passionate
+Learned traits: Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.
+Currently: Klaus Mueller is writing a research paper on the effects of gentrification in low-income communities.
+Lifestyle: Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.
+Daily plan requirement: Klaus Mueller goes to the library at Oak Hill College early in the morning, spends his days writing, and eats at Hobbs Cafe.
+Current Date: Monday February 13
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. This is Klaus Mueller's plan for Monday February 13: wake up and complete morning routine at 7:00, have breakfast and review notes for the day's writing at 7:30, head to the library at Oak Hill College by 8:30, begin writing the research paper on gentrification at 9:00, take a coffee break at 10:30, continue writing and researching until lunch at 12:00, have lunch at Hobbs Cafe and socialize with classmates at 12:15, return to the library at 1:00, spend the afternoon writing, analyzing data, and gathering more sources until 4:30, wrap up work for the day and head home at 4:45, have dinner at 5:00, dedicate time to reading articles and books related to the research paper from 6:00 to 7:30, take a break and relax by watching some TV or a documentary from 7:30 to 8:30, review notes and outline for the future sections of the paper from 8:30 to 10:00, prepare for bed and wind down from 10:00 to 11:00, go to bed at 11:00. (from 2023-02-13 08:00:00)
+2. Klaus Mueller is having breakfast and reviewing notes for the day's writing (from 2023-02-13 08:30:00)
+3. closet is partially open with books and materials scattered inside (from 2023-02-13 11:00:00)
+4. Klaus Mueller is gathering his backpack and materials (from 2023-02-13 09:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 4: "Feeling tired or having little energy"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

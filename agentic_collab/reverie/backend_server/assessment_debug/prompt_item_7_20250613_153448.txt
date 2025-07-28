@@ -1,0 +1,43 @@
+
+            Task: Rate a mental health questionnaire item for Isabella Rodriguez based on their characteristics and memories.
+            
+            Isabella Rodriguez's traits: Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Isabella Rodriguez is preparing and brewing special drinks for Valentine's Day (from 2023-02-13 08:30:00)
+2. This is Isabella Rodriguez's plan for Monday February 13: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and enjoy a quiet meal, 7:30 am - Gather party supplies and decorations for Valentine's Day party, 8:00 am - Open Hobbs Cafe and start serving customers, 9:00 am - Check and confirm RSVP for Valentine's Day party, 12:00 pm - Take a break for lunch and chat with regular customers, 1:00 pm - Continue working at the counter, serve coffee and pastries, 3:00 pm - Finalize set-up plans for the Valentine's Day party, 5:00 pm - Prepare and brew special drinks for Valentine's Day, 7:00 pm - Close Hobbs Cafe after a successful day, 8:00 pm - Head home and relax after the day, reflect on preparations for the party, 10:00 pm - Start winding down, possibly read or prepare decorations for tomorrow's event, 11:00 pm - Go to bed, ready for a big day ahead.. (from 2023-02-13 08:00:00)
+3. kitchen sink is clean and empty after washing dishes (from 2023-02-13 14:00:00)
+4. Isabella Rodriguez is cleaning the counter and tables (from 2023-02-13 09:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 7: "Trouble concentrating on things, such as reading the newspaper or watching television"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

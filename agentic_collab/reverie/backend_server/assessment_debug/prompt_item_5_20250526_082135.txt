@@ -1,0 +1,56 @@
+
+            Task: Rate a mental health questionnaire item for Isabella Rodriguez based on their characteristics and memories.
+            
+            Isabella Rodriguez's traits: Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Status: Isabella Rodriguez is fully immersed in last-minute preparations for her Valentine's Day party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm. She started her day early at 6:00 AM, following her morning routine to gather her energy for the busy day ahead. By 8:00 AM, she arrived at Hobbs Cafe to open the café, determined to create a festive, welcoming environment for her customers. Throughout the day, she is engaging with customers and promoting special Valentine's Day offerings, ensuring everyone feels included and appreciated. Isabella has set aside time at 3:00 PM to finalize decorations and party supplies, making sure everything is in place before the evening celebrations. As she anticipates a busier crowd, she plans to keep the café open until around 10:00 PM or later, depending on the festivities. Although she feels a mix of excitement and overwhelm as she manages the challenges of the preparations, Isabella remains focused on creating a joyful and memorable experience for all her guests.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: 1. Wake up and complete the morning routine at 6:00 AM   2. Arrive at Hobbs Cafe and open the café at 8:00 AM   3. Engage with customers and promote special Valentine's Day offerings throughout the day   4. Finalize decorations and party supplies at 3:00 PM   5. Host the Valentine's Day party from 5:00 PM to 7:00 PM   6. Close the café around 10:00 PM after the festivities wrap up
+Current Date: Tuesday February 14
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. piano is idle (from 2023-02-13 19:00:00)
+2. cafe customer seating is idle (from 2023-02-13 19:00:00)
+3. refrigerator is idle (from 2023-02-13 19:00:00)
+4. cooking area is idle (from 2023-02-13 19:00:00)
+5. behind the cafe counter is idle (from 2023-02-13 19:00:00)
+6. kitchen sink is idle (from 2023-02-13 19:00:00)
+7. behind the cafe counter is currently cluttered with decorations and supplies (from 2023-02-13 19:00:00)
+8. Isabella Rodriguez is gathering decorations from storage (from 2023-02-13 10:00:00)
+9. Isabella Rodriguez is checking inventory for party supplies and decorations (from 2023-02-13 09:00:00)
+10. shelf is idle (from 2023-02-13 08:00:00)
+11. closet is idle (from 2023-02-13 08:00:00)
+12. refrigerator is idle (from 2023-02-13 08:00:00)
+13. desk is idle (from 2023-02-13 08:00:00)
+14. Isabella Rodriguez is idle (from 2023-02-13 08:00:00)
+15. bed is idle (from 2023-02-13 08:00:00)
+16. This is Isabella Rodriguez's plan for Tuesday February 14: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and enjoy a quiet meal, 8:00 am - Open Hobbs Cafe for the day, 10:00 am - Engage with customers and promote Valentine's Day party, 12:00 pm - Have lunch at the cafe, 1:00 pm - Organize party materials for Valentine's Day party, 3:00 pm - Decorate the cafe for the upcoming party, 5:00 pm - Serve customers and ensure everything is in place for Valentine's Day, 7:00 pm - Close Hobbs Cafe for the day, 8:00 pm - Dinner at home and relax, 9:00 pm - Spend time planning final details for the party, 10:30 pm - Wind down with some light reading or a movie, 11:00 pm - Go to bed. (from 2023-02-14 00:00:00)
+17. This is Isabella Rodriguez's plan for Monday February 13: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and enjoy a quiet meal, 8:00 am - Open Hobbs Cafe for the day, 10:00 am - Engage with customers and promote Valentine's Day party, 12:00 pm - Have lunch at the cafe, 1:00 pm - Organize party materials for Valentine's Day party, 3:00 pm - Decorate the cafe for the upcoming party, 5:00 pm - Serve customers and ensure everything is in place for Valentine's Day, 7:00 pm - Close Hobbs Cafe for the day, 8:00 pm - Dinner at home and relax, 9:00 pm - Spend time planning final details for the party, 10:30 pm - Wind down with some light reading or a movie, 11:00 pm - Go to bed. (from 2023-02-13 08:00:00)
+
+            
+            Questionnaire: GAD-7
+            Instructions: Over the last two weeks, how often have you been bothered by the following problems?
+            
+            Item 5: "Being so restless that it's hard to sit still"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

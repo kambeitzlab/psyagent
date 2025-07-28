@@ -1,0 +1,48 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Maria Lopez is working on her physics degree and streaming games on Twitch to make some extra money. She visits Hobbs Cafe for studying and eating just about everyday.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: Maria Lopez spends at least 3 hours a day Twitch streaming or gaming.
+Current Date: Monday February 13
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. bed is occupied by a sleeping person (from 2023-02-13 16:00:00)
+2. Maria Lopez is Sleeping (from 2023-02-13 16:00:00)
+3. computer is idle (from 2023-02-13 08:00:00)
+4. blackboard is idle (from 2023-02-13 08:00:00)
+5. closet is idle (from 2023-02-13 08:00:00)
+6. desk is idle (from 2023-02-13 08:00:00)
+7. bed is idle (from 2023-02-13 08:00:00)
+8. Maria Lopez is idle (from 2023-02-13 08:00:00)
+9. This is Maria Lopez's plan for Monday February 13: Wake up and complete morning routine at 9:00 am, Have breakfast and coffee at 9:30 am, Study physics at Hobbs Cafe from 10:00 am to 12:00 pm, Continue studying physics from 12:00 pm to 1:30 pm, Have lunch at Hobbs Cafe at 1:30 pm, Stream games on Twitch from 2:00 pm to 5:00 pm, Have an early dinner at 5:30 pm, Engage with fans and chat on Twitch from 6:30 pm to 8:30 pm, Relax and unwind by watching a movie or series from 8:30 pm to 11:00 pm, Prepare for bed, complete nightly routine, and go to sleep around 2:00 am.. (from 2023-02-13 08:00:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 1: "Little interest or pleasure in doing things"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

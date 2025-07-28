@@ -1,0 +1,53 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Status: Maria Lopez is set for another productive day on Thursday, February 16. She began her morning routine promptly at 9:00 AM, feeling encouraged by her structured approach to the day. After savoring breakfast, she reviewed her physics notes at 10:00 AM, continuing the practice that has proven beneficial for her academic progress.
+
+At 11:00 AM, Maria made her way to Hobbs Cafe for her focused study session, which she plans to continue until 1:00 PM. She appreciates the lively environment of the cafe, which enhances her concentration during study time. Following this productive period, she has scheduled a refreshing social break from 1:00 PM to 2:00 PM, where she will catch up with friends and enjoy the camaraderie of fellow students.
+
+In the afternoon, Maria will head back home to unwind with a gaming session from 2:00 PM to 5:00 PM, allowing herself some leisure time after her studies. Dinner is planned for 6:00 PM, giving her a chance to recharge before her much-anticipated Twitch streaming session that begins at 7:00 PM and extends until 10:00 PM. Maria enjoys the interaction with her audience during these streaming sessions, which bring a unique excitement to her day.
+
+After streaming, she intends to wind down by watching videos or reading from 10:00 PM to 12:00 AM, ensuring she engages in calming activities before bedtime. Finally, Maria has earmarked time for a final gaming session or additional physics study until 2:00 AM.
+
+Overall, Maria feels optimistic and balanced about her day, grateful for the effective routine she has developed that allows her to manage her commitments while enjoying her passions. With her plans in place, Maria looks forward to making the most of Thursday, February 16.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 9:00 AM.   2. Review physics notes and have breakfast at 10:00 AM.   3. Study at Hobbs Cafe from 11:00 AM to 1:00 PM.   4. Social break with friends at Hobbs Cafe from 1:00 PM to 2:00 PM.   5. Prepare for gaming session at home from 2:00 PM to 5:00 PM.   6. Twitch streaming session from 7:00 PM to 10:00 PM.
+Current Date: Thursday February 16
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. This is Maria Lopez's plan for Thursday February 16: Wake up and complete morning routine at 9:00 am, Have breakfast and review physics notes at 10:00 am, Head to Hobbs Cafe to study for classes from 11:00 am to 1:00 pm, Take a break and chat with friends or fellow students at Hobbs Cafe from 1:00 pm to 2:00 pm, Return home and prepare for afternoon gaming session from 2:00 pm to 5:00 pm, Have dinner at 6:00 pm and relax for a bit, Start Twitch streaming session from 7:00 pm to 10:00 pm, Wind down and relax by watching videos or reading from 10:00 pm to 12:00 am, Do a final gaming session or study additional physics topics until 2:00 am. (from 2023-02-16 00:00:00)
+2. This is Maria Lopez's plan for Wednesday February 15: Wake up and complete morning routine at 9:00 am, Have breakfast and review physics notes at 10:00 am, Head to Hobbs Cafe to study for classes from 11:00 am to 1:00 pm, Take a break and chat with friends or fellow students at Hobbs Cafe from 1:00 pm to 2:00 pm, Return home and prepare for afternoon gaming session from 2:00 pm to 5:00 pm, Have dinner at 6:00 pm and relax for a bit, Start Twitch streaming session from 7:00 pm to 10:00 pm, Wind down and relax by watching videos or reading from 10:00 pm to 12:00 am, Do a final gaming session or study additional physics topics until 2:00 am. (from 2023-02-15 00:00:00)
+3. This is Maria Lopez's plan for Tuesday February 14: Wake up and complete morning routine at 9:00 am, Have breakfast and review physics notes at 10:00 am, Head to Hobbs Cafe to study for classes from 11:00 am to 1:00 pm, Take a break and chat with friends or fellow students at Hobbs Cafe from 1:00 pm to 2:00 pm, Return home and prepare for afternoon gaming session from 2:00 pm to 5:00 pm, Have dinner at 6:00 pm and relax for a bit, Start Twitch streaming session from 7:00 pm to 10:00 pm, Wind down and relax by watching videos or reading from 10:00 pm to 12:00 am, Do a final gaming session or study additional physics topics until 2:00 am. (from 2023-02-14 00:00:00)
+4. This is Maria Lopez's plan for Monday February 13: Wake up and complete morning routine at 9:00 am, Have breakfast and review physics notes at 10:00 am, Head to Hobbs Cafe to study for classes from 11:00 am to 1:00 pm, Take a break and chat with friends or fellow students at Hobbs Cafe from 1:00 pm to 2:00 pm, Return home and prepare for afternoon gaming session from 2:00 pm to 5:00 pm, Have dinner at 6:00 pm and relax for a bit, Start Twitch streaming session from 7:00 pm to 10:00 pm, Wind down and relax by watching videos or reading from 10:00 pm to 12:00 am, Do a final gaming session or study additional physics topics until 2:00 am. (from 2023-02-13 08:00:00)
+5. Maria Lopez is playing games (from 2023-02-13 08:30:00)
+6. common room sofa is occupied with cushions and snacks scattered (from 2023-02-13 16:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 7: "Trouble concentrating on things, such as reading the newspaper or watching television"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

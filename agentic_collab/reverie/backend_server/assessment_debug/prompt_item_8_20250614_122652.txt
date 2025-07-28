@@ -1,0 +1,43 @@
+
+            Task: Rate a mental health questionnaire item for Klaus Mueller based on their characteristics and memories.
+            
+            Klaus Mueller's traits: Name: Klaus Mueller
+Age: 20
+Innate traits: kind, inquisitive, passionate
+Learned traits: Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.
+Currently: Klaus Mueller is writing a research paper on the effects of gentrification in low-income communities.
+Lifestyle: Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.
+Daily plan requirement: Klaus Mueller goes to the library at Oak Hill College early in the morning, spends his days writing, and eats at Hobbs Cafe.
+Current Date: Monday February 13
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Klaus Mueller is Having breakfast at home, preparing for a productive day. (from 2023-02-13 08:30:00)
+2. This is Klaus Mueller's plan for Monday February 13: 7:00 am - Wake up and complete morning routine., 7:30 am - Have breakfast at home, preparing for a productive day., 8:30 am - Head to the library at Oak Hill College., 9:00 am - Start researching and writing the research paper on gentrification., 12:00 pm - Take a break and have lunch at Hobbs Cafe, discussing ideas with peers if possible., 1:00 pm - Return to the library for more focused writing., 4:00 pm - Wrap up writing for the day and review notes., 5:00 pm - Go home and prepare dinner., 6:00 pm - Eat dinner and relax, reflecting on the day., 7:00 pm - Spend time reading related materials or engaging with peers on social justice topics., 9:00 pm - Work on final touches for the research paper., 10:30 pm - Wind down for the night, maybe watch a show or read., 11:00 pm - Go to bed.. (from 2023-02-13 08:00:00)
+3. closet is partially open with jackets and shoes inside (from 2023-02-13 11:00:00)
+4. Klaus Mueller is putting on shoes and jacket (from 2023-02-13 09:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 8: "Moving or speaking so slowly that other people could have noticed. Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

@@ -1,0 +1,49 @@
+
+            Task: Rate a mental health questionnaire item for Isabella Rodriguez based on their characteristics and memories.
+            
+            Isabella Rodriguez's traits: Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Status: On Wednesday, February 15, 2023, Isabella Rodriguez is embracing a well-deserved recovery day after the hustle and bustle of the Valentine’s Day party at Hobbs Cafe. A bit tired but fulfilled, she plans to take the morning to rest and rejuvenate before diving into her to-do list. By 9:00 AM, Isabella has scheduled time to sit down with a cup of coffee and journal about her reflections on the previous day’s events, capturing both the excitement and any lessons learned from the party.
+
+Afterwards, she intends to conduct a quick inventory check to assess the supplies used during the festivities and identify what will be needed for future events. She is also committed to gathering customer feedback to enhance upcoming gatherings and foster a stronger connection with her guests.
+
+As the day progresses, Isabella will focus on tidying up the cafe, ensuring that it returns to its cozy state after the Valentine’s celebration. She aims to finish her cleaning tasks in the afternoon, allowing her some quiet time to enjoy the atmosphere of Hobbs Cafe before the routine of regular business resumes. Overall, Isabella is ready to blend relaxation with productivity, ensuring that February 15 proves equally rewarding in a different way.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: 1. Wake up and complete the morning routine at 6:00 AM   2. Enjoy a cup of coffee and journal reflections on the Valentine’s Day party by 9:00 AM   3. Conduct a quick inventory check of supplies used during the festivities by 10:30 AM   4. Gather customer feedback and suggestions from attendees around 11:30 AM   5. Focus on tidying up the cafe and returning it to its cozy state by 2:00 PM   6. Spend some quiet time relaxing in the atmosphere of Hobbs Cafe until closing time at 5:00 PM
+Current Date: Wednesday February 15
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Isabella Rodriguez is decorating the cafe for the Valentine's Day party (from 2023-02-13 09:00:00)
+2. This is Isabella Rodriguez's plan for Wednesday February 15: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and enjoy a quiet meal, 8:00 am - Open Hobbs Cafe for the day, 9:00 am - Serve customers and chat with regulars, 12:00 pm - Have lunch at the cafe and brainstorm ideas for the Valentine's Day party, 2:00 pm - Decorate the cafe for the Valentine's Day party, 4:00 pm - Finalize party details and set up food and drink stations, 5:00 pm - Welcome guests to the Valentine's Day party, 7:00 pm - Begin winding down the party and thanking everyone for coming, 8:00 pm - Close Hobbs Cafe for the night, 9:00 pm - Relax at home and reflect on the day's events, 11:00 pm - Go to bed. (from 2023-02-15 00:00:00)
+3. This is Isabella Rodriguez's plan for Tuesday February 14: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and enjoy a quiet meal, 8:00 am - Open Hobbs Cafe for the day, 9:00 am - Serve customers and chat with regulars, 12:00 pm - Have lunch at the cafe and brainstorm ideas for the Valentine's Day party, 2:00 pm - Decorate the cafe for the Valentine's Day party, 4:00 pm - Finalize party details and set up food and drink stations, 5:00 pm - Welcome guests to the Valentine's Day party, 7:00 pm - Begin winding down the party and thanking everyone for coming, 8:00 pm - Close Hobbs Cafe for the night, 9:00 pm - Relax at home and reflect on the day's events, 11:00 pm - Go to bed. (from 2023-02-14 00:00:00)
+4. This is Isabella Rodriguez's plan for Monday February 13: 6:00 am - Wake up and complete morning routine, 7:00 am - Prepare breakfast and enjoy a quiet meal, 8:00 am - Open Hobbs Cafe for the day, 9:00 am - Serve customers and chat with regulars, 12:00 pm - Have lunch at the cafe and brainstorm ideas for the Valentine's Day party, 2:00 pm - Decorate the cafe for the Valentine's Day party, 4:00 pm - Finalize party details and set up food and drink stations, 5:00 pm - Welcome guests to the Valentine's Day party, 7:00 pm - Begin winding down the party and thanking everyone for coming, 8:00 pm - Close Hobbs Cafe for the night, 9:00 pm - Relax at home and reflect on the day's events, 11:00 pm - Go to bed. (from 2023-02-13 08:00:00)
+5. behind the cafe counter is neatly organized with supplies and decorations scattered around (from 2023-02-13 19:00:00)
+6. Isabella Rodriguez is gathering decorations from storage (from 2023-02-13 10:00:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 9: "Thoughts that you would be better off dead, or of hurting yourself in some way"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

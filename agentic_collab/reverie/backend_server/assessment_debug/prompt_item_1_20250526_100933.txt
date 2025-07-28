@@ -1,0 +1,55 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Status: Maria Lopez is continuing her journey towards her physics degree while balancing her gaming passion on Twitch. Today, February 14, she has planned a productive day that includes a study session at Hobbs Cafe from 10 AM to 12 PM. After a light lunch, she'll finalize her plans for streaming this evening, dedicating time to continue her "Hollow Knight" series. Maria is also preparing for her coffee meeting with Klaus on February 15 to discuss his research paper on gentrification. Alongside her studies and streaming, she is committed to incorporating self-care and relaxation into her day, keeping flexible to adapt to any changes that may arise. Maria thrives on the creativity and interaction her busy schedule provides and looks forward to making the most of today.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 9:00 AM.   2. Study session at Hobbs Cafe from 10:00 AM to 12:00 PM.   3. Have a light lunch at 12:00 PM.   4. Finalize streaming plans for "Hollow Knight" from 1:00 PM to 2:00 PM.   5. Twitch stream from 3:00 PM to 6:00 PM.   6. Relax and prepare for coffee meeting with Klaus from 6:00 PM onward.
+Current Date: Tuesday February 14
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Klaus Mueller is talking to Klaus about his research paper on gentrification, her Twitch streaming of "Hollow Knight," study tips, and plans to meet for coffee after class on Wednesday (from 2023-02-13 18:00:00)
+2. pool table is idle (from 2023-02-13 17:00:00)
+3. common room table is idle (from 2023-02-13 17:00:00)
+4. Maria Lopez is talking to Klaus about his research paper on gentrification, her Twitch streaming of "Hollow Knight," study tips, and plans to meet for coffee after class on Wednesday (from 2023-02-13 17:00:00)
+5. Klaus Mueller is walking to the library from Hobbs Cafe (from 2023-02-13 16:00:00)
+6. Maria Lopez is walking home from Hobbs Cafe (from 2023-02-13 16:00:00)
+7. Maria Lopez is continuing to study at Hobbs Cafe (from 2023-02-13 15:00:00)
+8. Maria Lopez is Fill in (from 2023-02-13 09:00:00)
+9. computer is idle (from 2023-02-13 08:00:00)
+10. blackboard is idle (from 2023-02-13 08:00:00)
+11. closet is idle (from 2023-02-13 08:00:00)
+12. desk is idle (from 2023-02-13 08:00:00)
+13. bed is idle (from 2023-02-13 08:00:00)
+14. Maria Lopez is idle (from 2023-02-13 08:00:00)
+15. This is Maria Lopez's plan for Tuesday February 14: Wake up and complete their morning routine at 9:00 AM, Have breakfast while catching up on social media at 9:30 AM, Head to Hobbs Cafe for studying from 10:00 AM to 12:30 PM, Enjoy a light lunch at Hobbs Cafe at 12:30 PM, Continue studying at Hobbs Cafe until 3:00 PM, Return home and take a short break to relax and recharge from 3:00 PM to 4:00 PM, Set up the streaming equipment and prepare for gaming from 4:00 PM to 7:00 PM, Have dinner at 6:00 PM, Resume Twitch streaming until 9:00 PM, Spend some time relaxing and unwinding while chatting with friends from 9:00 PM to 11:00 PM, Research new game strategies or physics concepts until midnight, Wind down and get ready for bed around 1:30 AM. (from 2023-02-14 00:00:00)
+16. This is Maria Lopez's plan for Monday February 13: Wake up and complete their morning routine at 9:00 AM, Have breakfast while catching up on social media at 9:30 AM, Head to Hobbs Cafe for studying from 10:00 AM to 12:30 PM, Enjoy a light lunch at Hobbs Cafe at 12:30 PM, Continue studying at Hobbs Cafe until 3:00 PM, Return home and take a short break to relax and recharge from 3:00 PM to 4:00 PM, Set up the streaming equipment and prepare for gaming from 4:00 PM to 7:00 PM, Have dinner at 6:00 PM, Resume Twitch streaming until 9:00 PM, Spend some time relaxing and unwinding while chatting with friends from 9:00 PM to 11:00 PM, Research new game strategies or physics concepts until midnight, Wind down and get ready for bed around 1:30 AM. (from 2023-02-13 08:00:00)
+
+            
+            Questionnaire: GAD-7
+            Instructions: Over the last two weeks, how often have you been bothered by the following problems?
+            
+            Item 1: "Feeling nervous, anxious, or on edge"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

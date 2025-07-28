@@ -1,0 +1,59 @@
+
+            Task: Rate a mental health questionnaire item for Klaus Mueller based on their characteristics and memories.
+            
+            Klaus Mueller's traits: Name: Klaus Mueller
+Age: 20
+Innate traits: kind, inquisitive, passionate
+Learned traits: Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.
+Currently: Status: On Friday, February 17, Klaus Mueller is determined to maintain the productive rhythm he has cultivated over the past week in his research for the paper on gentrification in low-income communities. He starts his day bright and early at 7:00 AM, sticking to his established morning routine, which sets a positive tone for the busy day ahead. By 8:00 AM, he arrives at the Oak Hill College library, ready to dive back into his research.
+
+Klaus has set aside the hours from 9:00 AM to 12:00 PM for an intensive research session. He aims to build upon the findings he has already consolidated, ensuring that his paper remains comprehensive and insightful. At 12:00 PM, he plans to take a lunch break at Hobbs Cafe, where he appreciates the chance to recharge and connect with his surroundings.
+
+After lunch, from 1:00 PM onward, Klaus will transition into writing mode, synthesizing his research findings into a structured narrative. He is also preparing for a study group meeting scheduled for 3:00 PM, which he intends to engage in with his peers to share and discuss insights on gentrification.
+
+As the afternoon unfolds, Klaus aims to conclude his writing and research efforts by 4:30 PM. He looks forward to enjoying dinner at Hobbs Cafe at 5:00 PM, which serves as a nice segue from work to relaxation. Following dinner, from 6:00 PM to 8:00 PM, he has set aside time to review and refine his notes and outlines for his paper, ensuring he addresses all critical aspects.
+
+To maintain balance amidst his rigorous academic schedule, Klaus has included time for unwinding from 8:00 PM onward. He plans to relax with some reading or music, a ritual that has helped him reflect on his day and manage fatigue over the week. He will prepare for bed at 10:30 PM, allowing time to contemplate the day's accomplishments before lights out by 11:00 PM. Klaus feels a strong sense of productivity and focus as he navigates his academic journey, grateful for the opportunity to engage deeply with his research each day.
+Lifestyle: Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 7:00 AM.   2. Arrive at Oak Hill College library and start researching gentrification at 8:00 AM.   3. Meet with the study group at Oak Hill College library at 10:00 AM.   4. Have lunch at Hobbs Cafe at 12:30 PM.   5. Review physics notes in the afternoon at 2:00 PM.   6. Take a break and relax, perhaps by reading or listening to music, from 5:00 PM to 6:00 PM.
+Current Date: Friday February 17
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. This is Klaus Mueller's plan for Friday February 17: 7:00 - Wake up and complete morning routine, 8:00 - Head to the library at Oak Hill College, 9:00 - Begin research for paper on gentrification, 12:00 - Take a break and have lunch at Hobbs Cafe, 1:00 - Continue writing and consolidating findings, 3:00 - Meet with a study group to discuss insights on gentrification, 4:30 - Wrapping up the day's writing and research, 5:00 - Dinner at Hobbs Cafe, 6:00 - Review notes and outline for paper, 8:00 - Relax and unwind with some reading or music, 10:30 - Prepare for bed and reflect on the day, 11:00 - Go to sleep. (from 2023-02-17 00:00:00)
+2. This is Klaus Mueller's plan for Thursday February 16: 7:00 - Wake up and complete morning routine, 8:00 - Head to the library at Oak Hill College, 9:00 - Begin research for paper on gentrification, 12:00 - Take a break and have lunch at Hobbs Cafe, 1:00 - Continue writing and consolidating findings, 3:00 - Meet with a study group to discuss insights on gentrification, 4:30 - Wrapping up the day's writing and research, 5:00 - Dinner at Hobbs Cafe, 6:00 - Review notes and outline for paper, 8:00 - Relax and unwind with some reading or music, 10:30 - Prepare for bed and reflect on the day, 11:00 - Go to sleep. (from 2023-02-16 00:00:00)
+3. This is Klaus Mueller's plan for Wednesday February 15: 7:00 - Wake up and complete morning routine, 8:00 - Head to the library at Oak Hill College, 9:00 - Begin research for paper on gentrification, 12:00 - Take a break and have lunch at Hobbs Cafe, 1:00 - Continue writing and consolidating findings, 3:00 - Meet with a study group to discuss insights on gentrification, 4:30 - Wrapping up the day's writing and research, 5:00 - Dinner at Hobbs Cafe, 6:00 - Review notes and outline for paper, 8:00 - Relax and unwind with some reading or music, 10:30 - Prepare for bed and reflect on the day, 11:00 - Go to sleep. (from 2023-02-15 00:00:00)
+4. This is Klaus Mueller's plan for Monday February 13: 7:00 - Wake up and complete morning routine, 8:00 - Head to the library at Oak Hill College, 9:00 - Begin research for paper on gentrification, 12:00 - Take a break and have lunch at Hobbs Cafe, 1:00 - Continue writing and consolidating findings, 3:00 - Meet with a study group to discuss insights on gentrification, 4:30 - Wrapping up the day's writing and research, 5:00 - Dinner at Hobbs Cafe, 6:00 - Review notes and outline for paper, 8:00 - Relax and unwind with some reading or music, 10:30 - Prepare for bed and reflect on the day, 11:00 - Go to sleep. (from 2023-02-13 08:00:00)
+5. This is Klaus Mueller's plan for Tuesday February 14: 7:00 - Wake up and complete morning routine, 8:00 - Head to the library at Oak Hill College, 9:00 - Begin research for paper on gentrification, 12:00 - Take a break and have lunch at Hobbs Cafe, 1:00 - Continue writing and consolidating findings, 3:00 - Meet with a study group to discuss insights on gentrification, 4:30 - Wrapping up the day's writing and research, 5:00 - Dinner at Hobbs Cafe, 6:00 - Review notes and outline for paper, 8:00 - Relax and unwind with some reading or music, 10:30 - Prepare for bed and reflect on the day, 11:00 - Go to sleep. (from 2023-02-14 00:00:00)
+6. Klaus Mueller is Heading to the library at Oak Hill College (from 2023-02-13 08:30:00)
+7. library table is covered with books and papers on gentrification (from 2023-02-14 18:30:00)
+8. Klaus Mueller is searching for articles on gentrification (from 2023-02-13 09:30:00)
+9. Maria Lopez is attending classes at Oak Hill College (from 2023-02-13 16:00:00)
+10. Klaus Mueller is searching for articles on gentrification (from 2023-02-14 16:30:00)
+11. Maria Lopez is studying and reviewing physics notes at Hobbs Cafe (from 2023-02-13 18:30:00)
+12. Maria Lopez is setting up the streaming software (from 2023-02-13 20:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 8: "Moving or speaking so slowly that other people could have noticed. Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

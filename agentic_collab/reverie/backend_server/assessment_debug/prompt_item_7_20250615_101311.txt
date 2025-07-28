@@ -1,0 +1,51 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Status: Maria Lopez is making the most of her Tuesday, February 14. She woke up at around 9:00 AM and completed her morning routine, ensuring a solid start to her day. Following this, she is dedicating her morning to studying, reviewing her physics notes at Hobbs Cafe from 10:00 AM to 12:00 PM. After a productive study session, she is planning to enjoy a lunch break at Hobbs Cafe around noon to refuel.
+
+In the afternoon, Maria has scheduled time for her Twitch streaming, continuing her successful routine from Monday. She'll be playing video games from 1:00 PM to 4:00 PM, creating engaging content for her viewers. Later in the evening, she aims to stream again from 10:00 PM to 12:00 AM.
+
+Additionally, Maria has a brainstorming session planned with Klaus Mueller regarding their research on gentrification, as she values connecting with others who share her passion. After her second streaming session, she plans to interact with her viewers until around 1:30 AM, ensuring she maintains her engagement with her audience.
+
+With her busy schedule, Maria is also mindful of maintaining a good sleep routine, seeking to be in bed by approximately 2:00 AM. So far, she feels productive and excited about the mix of studying, streaming, and collaboration with Klaus that her day has in store.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 9:00 AM.   2. Study physics notes at Hobbs Cafe from 10:00 AM to 12:00 PM.   3. Enjoy lunch at Hobbs Cafe around 12:00 PM.   4. Twitch stream video games from 1:00 PM to 4:00 PM.   5. Brainstorming session with Klaus Mueller about gentrification in the late afternoon.   6. Second Twitch stream from 10:00 PM to 12:00 AM, followed by interacting with viewers until around 1:30 AM.
+Current Date: Tuesday February 14
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Maria Lopez is talking to Maria Lopez about his research on gentrification, seeking advice on organizing his thoughts, and they plan to brainstorm together at Hobbs Cafe later (from 2023-02-13 10:15:00)
+2. Klaus Mueller is talking to Maria Lopez about his research on gentrification, seeking advice on organizing his thoughts, and they plan to brainstorm together at Hobbs Cafe later (from 2023-02-13 11:00:00)
+3. Maria Lopez is Fill in (from 2023-02-13 08:15:00)
+4. This is Maria Lopez's plan for Tuesday February 14: wake up and complete their morning routine at 9:00 am, have a light breakfast while reviewing physics notes from 9:30 am to 10:00 am, head to Hobbs Cafe to study for physics classes from 10:00 am to 12:00 pm, have a lunch break at Hobbs Cafe at 12:00 pm, play video games and interact with fans on Twitch from 1:00 pm to 4:00 pm, take a short break to rest from 4:00 pm to 4:30 pm, continue streaming games on Twitch from 4:30 pm to 6:00 pm, eat dinner around 6:00 pm, relax and unwind, possibly catch up on some YouTube videos or a Netflix show from 7:00 pm to 8:00 pm, review class materials or work on homework from 8:00 pm to 10:00 pm, stream games again on Twitch from 10:00 pm to 12:00 am, engage with viewers and socialize on Twitch until 1:30 am, prepare for bed and go to sleep around 2:00 am. (from 2023-02-14 00:00:00)
+5. This is Maria Lopez's plan for Monday February 13: wake up and complete their morning routine at 9:00 am, have a light breakfast while reviewing physics notes from 9:30 am to 10:00 am, head to Hobbs Cafe to study for physics classes from 10:00 am to 12:00 pm, have a lunch break at Hobbs Cafe at 12:00 pm, play video games and interact with fans on Twitch from 1:00 pm to 4:00 pm, take a short break to rest from 4:00 pm to 4:30 pm, continue streaming games on Twitch from 4:30 pm to 6:00 pm, eat dinner around 6:00 pm, relax and unwind, possibly catch up on some YouTube videos or a Netflix show from 7:00 pm to 8:00 pm, review class materials or work on homework from 8:00 pm to 10:00 pm, stream games again on Twitch from 10:00 pm to 12:00 am, engage with viewers and socialize on Twitch until 1:30 am, prepare for bed and go to sleep around 2:00 am. (from 2023-02-13 08:00:00)
+6. Klaus Mueller is walking to the library from his dorm (from 2023-02-13 10:00:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 7: "Trouble concentrating on things, such as reading the newspaper or watching television"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

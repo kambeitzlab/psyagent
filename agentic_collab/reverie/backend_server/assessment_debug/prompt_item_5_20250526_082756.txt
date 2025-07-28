@@ -1,0 +1,66 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Status: On Thursday, February 16, Maria Lopez is committed to maintaining the productive routine she has established over the past few days. She rises at 9:00 AM, ready to embrace the day ahead, and completes her morning routine by 9:30 AM. By 10:00 AM, she enjoys a nutritious breakfast that fuels her energy for the tasks ahead.
+
+Maria heads to Hobbs Cafe by 10:30 AM for her first dedicated physics study session, where she plans to focus intently until 1:30 PM. Following a productive morning of studying, she takes a well-earned lunch break at the cafe around 1:30 PM, allowing herself some time to relax and recharge before returning to her studies. After lunch, she resumes her physics studies from 2:00 PM to 4:00 PM, making the most out of the conducive environment at Hobbs Cafe.
+
+After her second study session, Maria enjoys some downtime in the cafe until 5:30 PM, taking this opportunity to unwind before transitioning back home. There, she begins her preparations for her Twitch stream at 5:30 PM, feeling a sense of excitement as she gets everything set up for her gaming session. Her Twitch stream goes live at 6:00 PM and continues engagingly until 9:00 PM, creating a fulfilling connection with her audience.
+
+Following her streaming session, Maria plans to have dinner around 9:30 PM. She then unwinds and connects with friends online from 10:00 PM to midnight, cherishing the camaraderie and support of her online community. As the clock strikes midnight, she dedicates time from 12:00 AM to 1:30 AM for light reading and reviewing her physics material, ensuring she stays on track with her academic goals.
+
+Before wrapping up her day, Maria winds down and prepares for bed by 1:45 AM, aiming to sleep around 2:00 AM. Reflecting on her routine, she is pleased with her balanced mix of study, gaming, and socializing, as she strives to manage her time effectively while enjoying the moments of each day. Maria looks forward to a Thursday filled with productivity and the rewards of her hard work.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 9:30 AM   2. Have a nutritious breakfast by 10:00 AM   3. Study at Hobbs Cafe from 10:30 AM to 1:30 PM   4. Enjoy lunch at Hobbs Cafe around 1:30 PM   5. Study again at Hobbs Cafe from 2:00 PM to 4:00 PM   6. Prepare for her Twitch stream at 5:30 PM and start streaming at 6:00 PM
+Current Date: Thursday February 16
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. blackboard is idle (from 2023-02-13 20:00:00)
+2. closet is idle (from 2023-02-13 20:00:00)
+3. Maria Lopez is preparing for her Twitch stream (from 2023-02-13 20:00:00)
+4. desk is idle (from 2023-02-13 19:00:00)
+5. bed is idle (from 2023-02-13 18:00:00)
+6. Maria Lopez is continuing to study physics at Hobbs Cafe (from 2023-02-13 18:00:00)
+7. Maria Lopez is studying physics at Hobbs Cafe (from 2023-02-13 15:00:00)
+8. bed is occupied and slightly rumpled with blankets (from 2023-02-13 09:00:00)
+9. Maria Lopez is sleeping (from 2023-02-13 09:00:00)
+10. computer is idle (from 2023-02-13 08:00:00)
+11. blackboard is idle (from 2023-02-13 08:00:00)
+12. closet is idle (from 2023-02-13 08:00:00)
+13. desk is idle (from 2023-02-13 08:00:00)
+14. bed is idle (from 2023-02-13 08:00:00)
+15. Maria Lopez is idle (from 2023-02-13 08:00:00)
+16. This is Maria Lopez's plan for Thursday February 16: Wake up and complete her morning routine at 9:00 am, Have breakfast and get ready for the day by 10:00 am, Head to Hobbs Cafe to study physics from 10:30 am to 1:30 pm, Take a break and have lunch at Hobbs Cafe at 1:30 pm, Continue studying physics at Hobbs Cafe from 2:00 pm to 4:00 pm, Hang out and relax at Hobbs Cafe until 5:30 pm, Head back home and prepare for her Twitch stream, Start her Twitch game streaming session from 6:00 pm to 9:00 pm, Have dinner around 9:30 pm, Spend some time unwinding and connecting with friends online from 10:00 pm to 12:00 am, Do some light reading or study review for physics from 12:00 am to 1:30 am, Wind down and get ready for bed by 1:45 am and sleep around 2:00 am. (from 2023-02-16 00:00:00)
+17. This is Maria Lopez's plan for Wednesday February 15: Wake up and complete her morning routine at 9:00 am, Have breakfast and get ready for the day by 10:00 am, Head to Hobbs Cafe to study physics from 10:30 am to 1:30 pm, Take a break and have lunch at Hobbs Cafe at 1:30 pm, Continue studying physics at Hobbs Cafe from 2:00 pm to 4:00 pm, Hang out and relax at Hobbs Cafe until 5:30 pm, Head back home and prepare for her Twitch stream, Start her Twitch game streaming session from 6:00 pm to 9:00 pm, Have dinner around 9:30 pm, Spend some time unwinding and connecting with friends online from 10:00 pm to 12:00 am, Do some light reading or study review for physics from 12:00 am to 1:30 am, Wind down and get ready for bed by 1:45 am and sleep around 2:00 am. (from 2023-02-15 00:00:00)
+18. This is Maria Lopez's plan for Tuesday February 14: Wake up and complete her morning routine at 9:00 am, Have breakfast and get ready for the day by 10:00 am, Head to Hobbs Cafe to study physics from 10:30 am to 1:30 pm, Take a break and have lunch at Hobbs Cafe at 1:30 pm, Continue studying physics at Hobbs Cafe from 2:00 pm to 4:00 pm, Hang out and relax at Hobbs Cafe until 5:30 pm, Head back home and prepare for her Twitch stream, Start her Twitch game streaming session from 6:00 pm to 9:00 pm, Have dinner around 9:30 pm, Spend some time unwinding and connecting with friends online from 10:00 pm to 12:00 am, Do some light reading or study review for physics from 12:00 am to 1:30 am, Wind down and get ready for bed by 1:45 am and sleep around 2:00 am. (from 2023-02-14 00:00:00)
+19. This is Maria Lopez's plan for Monday February 13: Wake up and complete her morning routine at 9:00 am, Have breakfast and get ready for the day by 10:00 am, Head to Hobbs Cafe to study physics from 10:30 am to 1:30 pm, Take a break and have lunch at Hobbs Cafe at 1:30 pm, Continue studying physics at Hobbs Cafe from 2:00 pm to 4:00 pm, Hang out and relax at Hobbs Cafe until 5:30 pm, Head back home and prepare for her Twitch stream, Start her Twitch game streaming session from 6:00 pm to 9:00 pm, Have dinner around 9:30 pm, Spend some time unwinding and connecting with friends online from 10:00 pm to 12:00 am, Do some light reading or study review for physics from 12:00 am to 1:30 am, Wind down and get ready for bed by 1:45 am and sleep around 2:00 am. (from 2023-02-13 08:00:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 5: "Poor appetite or overeating"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

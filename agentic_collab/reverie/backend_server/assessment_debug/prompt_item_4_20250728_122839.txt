@@ -1,0 +1,47 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Status: Maria Lopez is continuing her journey towards earning her physics degree and is set to stream more games on Twitch today, February 14. She plans to return to Hobbs Cafe for another focused study session, taking advantage of the cozy atmosphere to dive into her assignments. Maria aims to stick to her established study routine, incorporating some time for subjects she needs to catch up on or get ahead in. 
+
+She's also allowing for flexibility in her schedule to accommodate any unexpected delays or extra relaxation time that may arise. Maria noticed that the cushions in the common room were inviting on Monday, so she resolved to tidy them up before settling down again. In the evening, she’s considering what to watch next on Netflix, keeping in mind the fun of gaming and streaming that she enjoyed the previous day. 
+
+After reflecting on her late bedtime of 2:00 am on Monday, Maria is committed to an earlier sleep schedule tonight to wake up feeling refreshed for Wednesday. By striking a balance between productivity and leisure, Maria is optimistic about making the most of her day ahead.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 9:00 am.   2. Head to Hobbs Cafe for focused study session from 10:00 am to 1:00 pm.   3. Enjoy lunch and take a break from 1:00 pm to 2:00 pm.   4. Stream games on Twitch from 2:00 pm to 5:00 pm.   5. Have dinner around 6:00 pm.   6. Relax and watch Netflix from 7:30 pm until preparing for bed around 11:30 pm, aiming for an earlier sleep.
+Current Date: Tuesday February 14
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. This is Maria Lopez's plan for Tuesday February 14: Wake up and complete morning routine at 9:00 am, Have breakfast and check social media at 9:30 am, Head to Hobbs Cafe to study physics from 10:00 am to 1:00 pm, Have lunch at Hobbs Cafe at 1:00 pm, Continue studying at Hobbs Cafe until 3:00 pm, Go home and relax for a bit at 3:30 pm, Twitch stream or game from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Catch up on any remaining homework or review material from 7:30 pm to 10:00 pm, Twitch stream or game from 10:00 pm to 12:00 am, Relax and unwind, possibly watch a show or chat with friends from 12:00 am to 1:30 am, Prepare for bed and go to sleep around 2:00 am. (from 2023-02-14 00:00:00)
+2. This is Maria Lopez's plan for Monday February 13: Wake up and complete morning routine at 9:00 am, Have breakfast and check social media at 9:30 am, Head to Hobbs Cafe to study physics from 10:00 am to 1:00 pm, Have lunch at Hobbs Cafe at 1:00 pm, Continue studying at Hobbs Cafe until 3:00 pm, Go home and relax for a bit at 3:30 pm, Twitch stream or game from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Catch up on any remaining homework or review material from 7:30 pm to 10:00 pm, Twitch stream or game from 10:00 pm to 12:00 am, Relax and unwind, possibly watch a show or chat with friends from 12:00 am to 1:30 am, Prepare for bed and go to sleep around 2:00 am. (from 2023-02-13 00:00:00)
+3. common room sofa is occupied and cozy with cushions slightly displaced (from 2023-02-13 04:15:00)
+4. Maria Lopez is watching a show on Netflix (from 2023-02-13 00:15:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 4: "Feeling tired or having little energy"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

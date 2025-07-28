@@ -1,0 +1,72 @@
+1. Setup
+
+Remove environment
+conda remove -n ENV_NAME --all
+
+Clean up:
+rm -rf ~/Desktop/Research/simulacra/agentic_collab
+
+Clone the github rep:
+cd ~/Desktop/Research/simulacra
+git clone https://github.com/kambeitzlab/agentic_collab.git
+cd agentic_collab
+
+Create new conda environment:
+conda create -n simulacra python=3.9 -y
+conda activate simulacra
+
+Install backend dependencies:
+pip install -r requirements.txt
+
+Install frontend dependencies:
+cd environment/frontend_server
+pip install -r requirements.txt
+cd ../../
+
+Run frontend server (from the root “agentic_collab”, need to update Anaconda path and python path):
+./run_frontend.sh
+
+
+Check if frontend server is running via:
+http://127.0.0.1:8000/
+
+Create a utils.py file with openai keys:
+
+Create file openai_config.json
+
+Run the backend (In a new terminal tab or window):
+conda activate simulacra
+cd ~/Desktop/Research/simulacra/agentic_collab
+./run_backend.sh base_the_ville_isabella_maria_klaus simulation-test
+
+
+2. Save to git
+
+cd /Users/josephkambeitz/Desktop/Research/simulacra/agentic_collab
+
+You should be on your custom branch (e.g., my_experiments). Check with:
+git branch
+
+If not on your desired branch, switch (or create one):
+git checkout -b my_experiments
+
+Stage all your changes
+git add .
+
+Commit your changes, give your commit a clear message:
+git commit -m "Stable running version with frontend/backend setup complete"
+
+Push to your GitHub fork:
+git push -u origin my_experiments
+
+Verify online
+Go to your GitHub fork (https://github.com/kambeitzlab/agentic_collab or similar)
+→ Click on the my_experiments branch
+→ Confirm all your latest files are there.
+
+
+Create back-up script in root:
+cd /Users/josephkambeitz/Desktop/Research/simulacra/agentic_collab
+nano git_backup.sh
+
+Setup automatic daily backup

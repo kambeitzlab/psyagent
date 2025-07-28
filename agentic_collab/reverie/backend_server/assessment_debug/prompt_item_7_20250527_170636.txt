@@ -1,0 +1,42 @@
+
+            Task: Rate a mental health questionnaire item for Isabella Rodriguez based on their characteristics and memories.
+            
+            Isabella Rodriguez's traits: Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. This is Isabella Rodriguez's plan for Monday February 13: wake up and complete her morning routine at 6:00 am, prepare and enjoy breakfast at 6:30 am, get ready and head to Hobbs Cafe by 7:30 am, open Hobbs Cafe at 8:00 am and start serving customers, work at the counter and interact with customers until 12:00 pm, have lunch break and quick planning for Valentine's Day party at 12:00 pm, continue serving customers and ensuring the cafe's atmosphere is welcoming until 8:00 pm, close the cafe at 8:00 pm and tidy up the space, return home and have dinner while relaxing at 8:30 pm, finalize party preparations for Valentine's Day at 9:00 pm, relax and wind down by reading or watching TV from 9:30 pm to 11:00 pm, go to bed by 11:00 pm. (from 2023-02-13 08:00:00)
+2. Isabella Rodriguez is getting ready and heading to Hobbs Cafe (from 2023-02-13 09:00:00)
+3. Isabella Rodriguez is unlocking the cafe door (from 2023-02-13 10:00:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 7: "Trouble concentrating on things, such as reading the newspaper or watching television"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

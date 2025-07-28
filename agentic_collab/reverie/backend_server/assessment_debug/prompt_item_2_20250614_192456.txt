@@ -1,0 +1,44 @@
+
+            Task: Rate a mental health questionnaire item for Isabella Rodriguez based on their characteristics and memories.
+            
+            Isabella Rodriguez's traits: Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Status: Isabella Rodriguez is excited and ready for the Valentine's Day party at Hobbs Cafe, scheduled for today, February 14, 2023, from 5 PM to 7 PM. She has finalized all party preparations, including decorations and materials, ensuring everything is in place for her customers. Isabella plans to arrive at Hobbs Cafe early to handle daily operations, maintaining excellent customer service throughout the day. After closing the cafe at her usual time of 8 PM, she will enjoy dinner at 8:30 PM, followed by finalizing the party details from 9 PM to 10 PM. After a productive day, she looks forward to unwinding with a good book or some TV before bed at 11 PM. Today promises to be filled with hard work and the joy of celebrating love and friendship with her customers!
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: 1. Wake up and complete the morning routine at 6:00 AM.   2. Arrive at Hobbs Cafe and prepare for daily operations by 7:30 AM.   3. Open Hobbs Cafe for customers at 8:00 AM.   4. Handle customer service and cafe operations until closing time at 8:00 PM.   5. Enjoy dinner at 8:30 PM.   6. Finalize party details from 9:00 PM to 10:00 PM and unwind with a good book or some TV before bed at 11:00 PM.
+Current Date: Tuesday February 14
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Isabella Rodriguez is reviewing and finalizing Valentine's Day party plans (from 2023-02-13 08:30:00)
+2. This is Isabella Rodriguez's plan for Tuesday February 14: Wake up and complete morning routine at 6:00 am, Prepare breakfast and have a light meal at 6:30 am, Review and finalize Valentine's Day party plans at 7:00 am, Arrive at Hobbs Cafe and open the cafe at 8:00 am, Work at the counter, serve customers and manage the cafe from 8:00 am to 12:00 pm, Take a short break and have a snack around 12:00 pm, Continue serving customers and managing the cafe from 12:30 pm to 3:00 pm, Plan decorations and party material for Valentine's Day during quiet hours from 3:00 pm to 4:00 pm, Prepare and serve afternoon coffee and treats from 4:00 pm to 6:00 pm, Start cleaning up and closing procedures at 6:00 pm, Close Hobbs Cafe for the day at 8:00 pm, Have dinner and relax at home at 8:30 pm, Prepare for tomorrow's party: set reminders and finalize details from 9:00 pm to 10:00 pm, Wind down and read a book or watch TV until 11:00 pm, Go to bed at 11:00 pm. (from 2023-02-14 00:00:00)
+3. This is Isabella Rodriguez's plan for Monday February 13: Wake up and complete morning routine at 6:00 am, Prepare breakfast and have a light meal at 6:30 am, Review and finalize Valentine's Day party plans at 7:00 am, Arrive at Hobbs Cafe and open the cafe at 8:00 am, Work at the counter, serve customers and manage the cafe from 8:00 am to 12:00 pm, Take a short break and have a snack around 12:00 pm, Continue serving customers and managing the cafe from 12:30 pm to 3:00 pm, Plan decorations and party material for Valentine's Day during quiet hours from 3:00 pm to 4:00 pm, Prepare and serve afternoon coffee and treats from 4:00 pm to 6:00 pm, Start cleaning up and closing procedures at 6:00 pm, Close Hobbs Cafe for the day at 8:00 pm, Have dinner and relax at home at 8:30 pm, Prepare for tomorrow's party: set reminders and finalize details from 9:00 pm to 10:00 pm, Wind down and read a book or watch TV until 11:00 pm, Go to bed at 11:00 pm. (from 2023-02-13 08:00:00)
+4. Isabella Rodriguez is unlocking the cafe door (from 2023-02-13 09:30:00)
+5. cafe customer seating is clean and ready for new customers (from 2023-02-13 17:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 2: "Feeling down, depressed, or hopeless"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

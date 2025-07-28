@@ -1,0 +1,43 @@
+
+            Task: Rate a mental health questionnaire item for Klaus Mueller based on their characteristics and memories.
+            
+            Klaus Mueller's traits: Name: Klaus Mueller
+Age: 20
+Innate traits: kind, inquisitive, passionate
+Learned traits: Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.
+Currently: Klaus Mueller is writing a research paper on the effects of gentrification in low-income communities.
+Lifestyle: Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.
+Daily plan requirement: Klaus Mueller goes to the library at Oak Hill College early in the morning, spends his days writing, and eats at Hobbs Cafe.
+Current Date: Monday February 13
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. This is Klaus Mueller's plan for Monday February 13: wake up and complete morning routine at 7:00 am, have breakfast at 7:30 am, head to the library at Oak Hill College by 8:30 am, begin working on research paper in the library at 9:00 am, take a coffee break at 11:00 am, continue writing and researching until 12:30 pm, enjoy lunch at Hobbs Cafe at 1:00 pm, return to the library at 2:00 pm and resume work on the paper, take a short break at 4:00 pm, finish up writing by 5:00 pm, have dinner at Hobbs Cafe at 5:30 pm, tools review and reflection on the day's work at 6:30 pm, head back to the library for any final notes or readings at 7:30 pm, return home at 9:00 pm to relax, review notes and plan for the next day from 9:30 pm to 10:30 pm, wind down and prepare for bed at 10:30 pm, go to sleep by 11:00 pm. (from 2023-02-13 08:00:00)
+2. Klaus Mueller is having breakfast (from 2023-02-13 08:30:00)
+3. closet is neatly organized with clothes hung up (from 2023-02-13 11:00:00)
+4. Klaus Mueller is getting dressed for the day (from 2023-02-13 09:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 4: "Feeling tired or having little energy"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

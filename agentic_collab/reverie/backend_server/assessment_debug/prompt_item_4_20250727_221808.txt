@@ -1,0 +1,66 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Status: On Thursday, February 16, Maria Lopez is committed to continuing her healing journey while adhering to the structured routine that has been grounding for her. She wakes up around 9:00 AM and engages in her morning routine, which sets a positive tone for the day ahead. 
+
+From 10:00 AM to 1:00 PM, Maria intends to study physics at Hobbs Cafe, a place where she feels comfortable and focused. The familiarity of this environment supports her as she navigates the lingering emotions from the traumatic event she witnessed on February 13. She acknowledges the importance of her studies but remains mindful of the impact her emotions have on her engagement.
+
+At 1:00 PM, she will take a break for lunch, allowing herself time to recharge before her afternoon activities. Following lunch, from 2:00 PM to 5:00 PM, Maria plans to stream games on Twitch, where she can connect with friends and share lighter moments, despite the heaviness she feels inside. This time serves as a reminder of the joy that can still be found, even amid her struggles.
+
+Maria has a dinner break scheduled for 6:00 PM, after which she will either continue her Twitch streaming or gaming session from 7:00 PM to 10:00 PM. This evening block is important for her relaxation and enjoyment after what she anticipates might be a challenging day.
+
+Later, from 10:00 PM to 11:00 PM, she will set aside time for winding down and reflecting on her experiences, focusing on the insights gained from her therapy sessions with Dr. Sarah Thompson over the last few days. Though she does not have a therapy session scheduled for today, she recognizes the value of self-reflection in processing her trauma.
+
+Maria hopes to spend time connecting with friends online from 11:00 PM to 1:00 AM, fostering the social connections that are crucial to her healing process. She aims to prepare for bed and targets a sleep time of around 2:00 AM. Throughout the day, she reminds herself to prioritize self-care, take frequent breaks, and maintain awareness of her emotional landscape as she works to balance her studies, social connections, and personal well-being. Each step she takes is part of her ongoing journey toward healing.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 9:00 AM.   2. Study physics at Hobbs Cafe from 10:00 AM to 1:00 PM.   3. Take a break for lunch and light hobbies from 1:00 PM to 2:30 PM.   4. Connect with friends online to share experiences and support each other from 2:30 PM to 3:00 PM.   5. Attend therapy session with Dr. Sarah Thompson at 3:00 PM.   6. Wind down in the evening, reflecting on experiences and checking in with herself emotionally from 6:00 PM onwards.
+Current Date: Thursday February 16
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Maria Lopez had a meaningful therapy session with Dr. Sarah Thompson (from 2023-02-15 18:00:00)
+2. Maria Lopez had a meaningful therapy session with Dr. Sarah Thompson (from 2023-02-14 18:00:00)
+3. Maria Lopez had a meaningful therapy session with Dr. Sarah Thompson (from 2023-02-13 18:00:00)
+4. While walking to the college library early in the morning, Maria witnesses a brutal assault where a young student is violently attacked by multiple assailants. Maria watches in horror as the victim is severely beaten and left unconscious. Despite wanting to help, Maria freezes in terror and feels overwhelming helplessness. The incident leaves Maria deeply traumatized with persistent intrusive thoughts, guilt about not intervening, and fear of similar situations. (from 2023-02-13 08:00:00)
+5. This is Maria Lopez's plan for Thursday February 16: wake up and complete their morning routine at 9:00 am, have breakfast and check social media at 9:30 am, study physics at Hobbs Cafe from 10:00 am to 1:00 pm, have lunch at Hobbs Cafe at 1:00 pm, stream games on Twitch from 2:00 pm to 5:00 pm, take a break and eat dinner at 6:00 pm, continue Twitch streaming or gaming from 7:00 pm to 10:00 pm, wind down and reflect on the day from 10:00 pm to 11:00 pm, connect with friends online or play casual games from 11:00 pm to 1:00 am, prepare for bed and sleep around 2:00 am. (from 2023-02-16 00:00:00)
+6. This is Maria Lopez's plan for Wednesday February 15: wake up and complete their morning routine at 9:00 am, have breakfast and check social media at 9:30 am, study physics at Hobbs Cafe from 10:00 am to 1:00 pm, have lunch at Hobbs Cafe at 1:00 pm, stream games on Twitch from 2:00 pm to 5:00 pm, take a break and eat dinner at 6:00 pm, continue Twitch streaming or gaming from 7:00 pm to 10:00 pm, wind down and reflect on the day from 10:00 pm to 11:00 pm, connect with friends online or play casual games from 11:00 pm to 1:00 am, prepare for bed and sleep around 2:00 am. (from 2023-02-15 00:00:00)
+7. This is Maria Lopez's plan for Monday February 13: wake up and complete their morning routine at 9:00 am, have breakfast and check social media at 9:30 am, study physics at Hobbs Cafe from 10:00 am to 1:00 pm, have lunch at Hobbs Cafe at 1:00 pm, stream games on Twitch from 2:00 pm to 5:00 pm, take a break and eat dinner at 6:00 pm, continue Twitch streaming or gaming from 7:00 pm to 10:00 pm, wind down and reflect on the day from 10:00 pm to 11:00 pm, connect with friends online or play casual games from 11:00 pm to 1:00 am, prepare for bed and sleep around 2:00 am. (from 2023-02-13 00:00:00)
+8. This is Maria Lopez's plan for Tuesday February 14: wake up and complete their morning routine at 9:00 am, have breakfast and check social media at 9:30 am, study physics at Hobbs Cafe from 10:00 am to 1:00 pm, have lunch at Hobbs Cafe at 1:00 pm, stream games on Twitch from 2:00 pm to 5:00 pm, take a break and eat dinner at 6:00 pm, continue Twitch streaming or gaming from 7:00 pm to 10:00 pm, wind down and reflect on the day from 10:00 pm to 11:00 pm, connect with friends online or play casual games from 11:00 pm to 1:00 am, prepare for bed and sleep around 2:00 am. (from 2023-02-14 00:00:00)
+9. Maria Lopez is connecting with friends online (from 2023-02-13 00:15:00)
+10. common room sofa is occupied but slightly disheveled from use (from 2023-02-15 18:30:00)
+11. Maria Lopez is chatting with friends while gaming (from 2023-02-13 00:45:00)
+12. common room sofa is occupied but slightly disheveled from use (from 2023-02-13 04:15:00)
+13. Maria Lopez is playing another casual game (from 2023-02-13 01:00:00)
+14. Maria Lopez is taking a short break to stretch (from 2023-02-13 04:30:00)
+15. Maria Lopez is taking a short break to stretch (from 2023-02-15 18:30:00)
+16. Maria Lopez is taking a short break to stretch (from 2023-02-13 01:15:00)
+17. Maria Lopez is playing casual games (from 2023-02-13 00:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 4: "Feeling tired or having little energy"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

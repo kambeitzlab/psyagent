@@ -1,0 +1,58 @@
+
+            Task: Rate a mental health questionnaire item for Maria Lopez based on their characteristics and memories.
+            
+            Maria Lopez's traits: Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Status: On Sunday, February 19, Maria Lopez is focusing on maintaining an ideal balance of productivity and relaxation as she prepares for the week ahead. She starts her day with her familiar routine, ensuring she sets a positive tone for the day. At 9:00 AM, she dedicates some time to reflect on her studies from the weekend, particularly the physics material she went over at Hobbs Cafe. Following this, she engages with her social media accounts at around 9:30 AM, cherishing the opportunity to connect with friends and catch up on important updates.
+
+Maria plans to carve out some downtime for herself after her morning reflections, allowing her to enjoy the afternoon with leisure activities. She might indulge in watching a show or playing casual games, ensuring she recharges after her busy Saturday. Around 3:00 PM, she plans to switch gears and prepare necessary materials for the upcoming week, dedicating about an hour to organizing her study notes and Twitch streaming content.
+
+At 4:00 PM, Maria is signaling a gentle reminder to reach out to friends for a voice chat or perhaps plan a fun activity together later in the day. As the evening rolls in, she aims to have dinner around 6:00 PM and reflects on her fulfilling week. Overall, Maria is approaching Sunday with an emphasis on balance—studying, social connections, and relaxation—as she gears up for a productive week ahead.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 9:00 AM   2. Have breakfast and check social media from 9:00 AM to 9:30 AM   3. Research gentrification from 9:30 AM to 12:00 PM   4. Organize the common room from 12:00 PM to 1:00 PM   5. Brainstorm Twitch content ideas and prepare for streaming from 1:00 PM to 3:00 PM   6. Twitch stream from 4:00 PM to 7:00 PM
+Current Date: Sunday February 19
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Maria Lopez is talking to Maria Lopez about her physics studying while offering to help and share stories from the Valentine's Day event at the café (from 2023-02-15 00:30:00)
+2. Isabella Rodriguez is talking to Maria Lopez about her physics studying while offering to help and share stories from the Valentine's Day event at the café (from 2023-02-15 00:30:00)
+3. Maria Lopez is Fill in (from 2023-02-13 08:30:00)
+4. This is Maria Lopez's plan for Thursday February 16: Wake up and complete morning routine at 9:00 am, Have breakfast and catch up on social media at 9:30 am, Head to Hobbs Cafe to study physics from 10:30 am to 1:00 pm, Have lunch at Hobbs Cafe at 1:00 pm, Resume studying physics at Hobbs Cafe from 1:30 pm to 3:30 pm, Return home to prepare for Twitch streaming from 3:30 pm to 4:00 pm, Twitch stream or game from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Engage with followers and unwind after the stream from 7:00 pm to 8:00 pm, Play games casually or watch gaming content from 8:00 pm to 10:00 pm, Spend time with friends over voice chat or social media from 10:00 pm to 12:00 am, Prepare for bed and relax, maybe reading or watching a show from 12:00 am to 2:00 am. (from 2023-02-16 00:00:00)
+5. This is Maria Lopez's plan for Friday February 17: Wake up and complete morning routine at 9:00 am, Have breakfast and catch up on social media at 9:30 am, Head to Hobbs Cafe to study physics from 10:30 am to 1:00 pm, Have lunch at Hobbs Cafe at 1:00 pm, Resume studying physics at Hobbs Cafe from 1:30 pm to 3:30 pm, Return home to prepare for Twitch streaming from 3:30 pm to 4:00 pm, Twitch stream or game from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Engage with followers and unwind after the stream from 7:00 pm to 8:00 pm, Play games casually or watch gaming content from 8:00 pm to 10:00 pm, Spend time with friends over voice chat or social media from 10:00 pm to 12:00 am, Prepare for bed and relax, maybe reading or watching a show from 12:00 am to 2:00 am. (from 2023-02-17 00:00:00)
+6. This is Maria Lopez's plan for Saturday February 18: Wake up and complete morning routine at 9:00 am, Have breakfast and catch up on social media at 9:30 am, Head to Hobbs Cafe to study physics from 10:30 am to 1:00 pm, Have lunch at Hobbs Cafe at 1:00 pm, Resume studying physics at Hobbs Cafe from 1:30 pm to 3:30 pm, Return home to prepare for Twitch streaming from 3:30 pm to 4:00 pm, Twitch stream or game from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Engage with followers and unwind after the stream from 7:00 pm to 8:00 pm, Play games casually or watch gaming content from 8:00 pm to 10:00 pm, Spend time with friends over voice chat or social media from 10:00 pm to 12:00 am, Prepare for bed and relax, maybe reading or watching a show from 12:00 am to 2:00 am. (from 2023-02-18 00:00:00)
+7. This is Maria Lopez's plan for Sunday February 19: Wake up and complete morning routine at 9:00 am, Have breakfast and catch up on social media at 9:30 am, Head to Hobbs Cafe to study physics from 10:30 am to 1:00 pm, Have lunch at Hobbs Cafe at 1:00 pm, Resume studying physics at Hobbs Cafe from 1:30 pm to 3:30 pm, Return home to prepare for Twitch streaming from 3:30 pm to 4:00 pm, Twitch stream or game from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Engage with followers and unwind after the stream from 7:00 pm to 8:00 pm, Play games casually or watch gaming content from 8:00 pm to 10:00 pm, Spend time with friends over voice chat or social media from 10:00 pm to 12:00 am, Prepare for bed and relax, maybe reading or watching a show from 12:00 am to 2:00 am. (from 2023-02-19 00:00:00)
+8. This is Maria Lopez's plan for Wednesday February 15: Wake up and complete morning routine at 9:00 am, Have breakfast and catch up on social media at 9:30 am, Head to Hobbs Cafe to study physics from 10:30 am to 1:00 pm, Have lunch at Hobbs Cafe at 1:00 pm, Resume studying physics at Hobbs Cafe from 1:30 pm to 3:30 pm, Return home to prepare for Twitch streaming from 3:30 pm to 4:00 pm, Twitch stream or game from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Engage with followers and unwind after the stream from 7:00 pm to 8:00 pm, Play games casually or watch gaming content from 8:00 pm to 10:00 pm, Spend time with friends over voice chat or social media from 10:00 pm to 12:00 am, Prepare for bed and relax, maybe reading or watching a show from 12:00 am to 2:00 am. (from 2023-02-15 00:00:00)
+9. This is Maria Lopez's plan for Tuesday February 14: Wake up and complete morning routine at 9:00 am, Have breakfast and catch up on social media at 9:30 am, Head to Hobbs Cafe to study physics from 10:30 am to 1:00 pm, Have lunch at Hobbs Cafe at 1:00 pm, Resume studying physics at Hobbs Cafe from 1:30 pm to 3:30 pm, Return home to prepare for Twitch streaming from 3:30 pm to 4:00 pm, Twitch stream or game from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Engage with followers and unwind after the stream from 7:00 pm to 8:00 pm, Play games casually or watch gaming content from 8:00 pm to 10:00 pm, Spend time with friends over voice chat or social media from 10:00 pm to 12:00 am, Prepare for bed and relax, maybe reading or watching a show from 12:00 am to 2:00 am. (from 2023-02-14 00:00:00)
+10. This is Maria Lopez's plan for Monday February 13: Wake up and complete morning routine at 9:00 am, Have breakfast and catch up on social media at 9:30 am, Head to Hobbs Cafe to study physics from 10:30 am to 1:00 pm, Have lunch at Hobbs Cafe at 1:00 pm, Resume studying physics at Hobbs Cafe from 1:30 pm to 3:30 pm, Return home to prepare for Twitch streaming from 3:30 pm to 4:00 pm, Twitch stream or game from 4:00 pm to 7:00 pm, Have dinner at 6:00 pm, Engage with followers and unwind after the stream from 7:00 pm to 8:00 pm, Play games casually or watch gaming content from 8:00 pm to 10:00 pm, Spend time with friends over voice chat or social media from 10:00 pm to 12:00 am, Prepare for bed and relax, maybe reading or watching a show from 12:00 am to 2:00 am. (from 2023-02-13 08:00:00)
+11. Klaus Mueller is gathering research materials on gentrification (from 2023-02-13 12:00:00)
+12. Maria Lopez is reviewing physics notes from previous classes (from 2023-02-13 14:30:00)
+13. cafe customer seating is unoccupied and ready for customers (from 2023-02-15 00:00:00)
+14. Isabella Rodriguez is unlocking the cafe door (from 2023-02-15 00:00:00)
+15. common room table is cluttered with books and snacks (from 2023-02-13 13:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 4: "Feeling tired or having little energy"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

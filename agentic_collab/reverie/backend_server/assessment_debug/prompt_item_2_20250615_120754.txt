@@ -1,0 +1,63 @@
+
+            Task: Rate a mental health questionnaire item for Klaus Mueller based on their characteristics and memories.
+            
+            Klaus Mueller's traits: Name: Klaus Mueller
+Age: 20
+Innate traits: kind, inquisitive, passionate
+Learned traits: Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.
+Currently: Status: On Sunday, February 19, Klaus Mueller wakes up with a renewed sense of purpose, eager to continue his work on the research paper concerning the effects of gentrification in low-income communities. He rises at 7:30 AM, allowing himself a slightly later start to the day while remaining committed to maintaining a structured routine. After a quick breakfast, Klaus begins his morning with a focused reflection session, reviewing the insights gathered from the previous day's research and discussions. 
+
+Around 10:00 AM, Klaus dedicates time to revisiting the literature that he plans to incorporate into his paper, making notes on key points that support his arguments. He acknowledges the importance of meal preparation, so he sets aside an hour to prepare healthy snacks and lunches for the week ahead by 11:00 AM.
+
+As the afternoon approaches, Klaus plans to schedule time for relaxation and self-care. He has set aside 2:00 PM to 3:00 PM for quiet reflection, allowing himself to unwind after the productive morning and recharge his mind. This desire for balance is important to him, especially after a busy week.
+
+Klaus also recognizes the value of connections with friends and classmates, so he sends a few messages around 3:30 PM to see if anyone is available for an informal study session later in the day. This interaction aligns with his goal of exploring new findings and sharing insights about their academic pursuits.
+
+By 5:00 PM, Klaus sits down to review his tasks and goals for the upcoming week, ensuring he stays organized and on track. This planning gives him a sense of clarity and readiness for the days ahead.
+
+As evening falls, Klaus embraces some leisure time around 6:30 PM, either indulging in a captivating book or listening to music that helps him unwind. He cherishes these moments of relaxation and the comfort they bring after a day filled with work and reflection.
+
+Klaus prepares for bed by 10:00 PM, feeling accomplished from the day’s productivity while simultaneously acknowledging the importance of self-care. He feels motivated and optimistic about the progress he is making on his research, knowing that he is not only dedicated to his academic work but also to maintaining a balanced lifestyle.
+Lifestyle: Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.
+Daily plan requirement: 1. Wake up and complete the morning routine at 7:30 AM.   2. Begin focused reflection session on research insights at 8:00 AM.   3. Visit the library for research on gentrification at 10:00 AM.   4. Prepare healthy snacks and lunches for the week from 11:00 AM to 12:00 PM.   5. Engage in quiet reflection for self-care from 2:00 PM to 3:00 PM.   6. Review tasks and goals for the upcoming week at 5:00 PM.
+Current Date: Sunday February 19
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Klaus Mueller is heading to the library at Oak Hill College. (from 2023-02-13 08:30:00)
+2. This is Klaus Mueller's plan for Sunday February 19: 7:00 am - Wake up and complete morning routine., 8:00 am - Head to the library at Oak Hill College., 8:30 am - Begin research on effects of gentrification in low-income communities., 11:30 am - Take a break to reflect on research findings., 12:00 pm - Have lunch at Hobbs Cafe with friends to discuss social justice topics., 1:00 pm - Continue writing the research paper back at the library., 3:30 pm - Take a short break and make notes for future sections of the paper., 4:30 pm - Wrap up the day's writing and organize notes for tomorrow's work., 5:00 pm - Have dinner at Hobbs Cafe., 6:00 pm - Attend a study group with classmates to brainstorm ideas for the paper., 8:00 pm - Head back home and take some time to relax by reading a book or listening to music., 10:00 pm - Prepare for bed, review tomorrow's tasks, and unwind before sleep., 11:00 pm - Go to bed.. (from 2023-02-19 00:00:00)
+3. This is Klaus Mueller's plan for Thursday February 16: 7:00 am - Wake up and complete morning routine., 8:00 am - Head to the library at Oak Hill College., 8:30 am - Begin research on effects of gentrification in low-income communities., 11:30 am - Take a break to reflect on research findings., 12:00 pm - Have lunch at Hobbs Cafe with friends to discuss social justice topics., 1:00 pm - Continue writing the research paper back at the library., 3:30 pm - Take a short break and make notes for future sections of the paper., 4:30 pm - Wrap up the day's writing and organize notes for tomorrow's work., 5:00 pm - Have dinner at Hobbs Cafe., 6:00 pm - Attend a study group with classmates to brainstorm ideas for the paper., 8:00 pm - Head back home and take some time to relax by reading a book or listening to music., 10:00 pm - Prepare for bed, review tomorrow's tasks, and unwind before sleep., 11:00 pm - Go to bed.. (from 2023-02-16 00:00:00)
+4. This is Klaus Mueller's plan for Friday February 17: 7:00 am - Wake up and complete morning routine., 8:00 am - Head to the library at Oak Hill College., 8:30 am - Begin research on effects of gentrification in low-income communities., 11:30 am - Take a break to reflect on research findings., 12:00 pm - Have lunch at Hobbs Cafe with friends to discuss social justice topics., 1:00 pm - Continue writing the research paper back at the library., 3:30 pm - Take a short break and make notes for future sections of the paper., 4:30 pm - Wrap up the day's writing and organize notes for tomorrow's work., 5:00 pm - Have dinner at Hobbs Cafe., 6:00 pm - Attend a study group with classmates to brainstorm ideas for the paper., 8:00 pm - Head back home and take some time to relax by reading a book or listening to music., 10:00 pm - Prepare for bed, review tomorrow's tasks, and unwind before sleep., 11:00 pm - Go to bed.. (from 2023-02-17 00:00:00)
+5. This is Klaus Mueller's plan for Saturday February 18: 7:00 am - Wake up and complete morning routine., 8:00 am - Head to the library at Oak Hill College., 8:30 am - Begin research on effects of gentrification in low-income communities., 11:30 am - Take a break to reflect on research findings., 12:00 pm - Have lunch at Hobbs Cafe with friends to discuss social justice topics., 1:00 pm - Continue writing the research paper back at the library., 3:30 pm - Take a short break and make notes for future sections of the paper., 4:30 pm - Wrap up the day's writing and organize notes for tomorrow's work., 5:00 pm - Have dinner at Hobbs Cafe., 6:00 pm - Attend a study group with classmates to brainstorm ideas for the paper., 8:00 pm - Head back home and take some time to relax by reading a book or listening to music., 10:00 pm - Prepare for bed, review tomorrow's tasks, and unwind before sleep., 11:00 pm - Go to bed.. (from 2023-02-18 00:00:00)
+6. This is Klaus Mueller's plan for Wednesday February 15: 7:00 am - Wake up and complete morning routine., 8:00 am - Head to the library at Oak Hill College., 8:30 am - Begin research on effects of gentrification in low-income communities., 11:30 am - Take a break to reflect on research findings., 12:00 pm - Have lunch at Hobbs Cafe with friends to discuss social justice topics., 1:00 pm - Continue writing the research paper back at the library., 3:30 pm - Take a short break and make notes for future sections of the paper., 4:30 pm - Wrap up the day's writing and organize notes for tomorrow's work., 5:00 pm - Have dinner at Hobbs Cafe., 6:00 pm - Attend a study group with classmates to brainstorm ideas for the paper., 8:00 pm - Head back home and take some time to relax by reading a book or listening to music., 10:00 pm - Prepare for bed, review tomorrow's tasks, and unwind before sleep., 11:00 pm - Go to bed.. (from 2023-02-15 00:00:00)
+7. Maria Lopez is Fill in (from 2023-02-13 12:00:00)
+8. This is Klaus Mueller's plan for Monday February 13: 7:00 am - Wake up and complete morning routine., 8:00 am - Head to the library at Oak Hill College., 8:30 am - Begin research on effects of gentrification in low-income communities., 11:30 am - Take a break to reflect on research findings., 12:00 pm - Have lunch at Hobbs Cafe with friends to discuss social justice topics., 1:00 pm - Continue writing the research paper back at the library., 3:30 pm - Take a short break and make notes for future sections of the paper., 4:30 pm - Wrap up the day's writing and organize notes for tomorrow's work., 5:00 pm - Have dinner at Hobbs Cafe., 6:00 pm - Attend a study group with classmates to brainstorm ideas for the paper., 8:00 pm - Head back home and take some time to relax by reading a book or listening to music., 10:00 pm - Prepare for bed, review tomorrow's tasks, and unwind before sleep., 11:00 pm - Go to bed.. (from 2023-02-13 08:00:00)
+9. This is Klaus Mueller's plan for Tuesday February 14: 7:00 am - Wake up and complete morning routine., 8:00 am - Head to the library at Oak Hill College., 8:30 am - Begin research on effects of gentrification in low-income communities., 11:30 am - Take a break to reflect on research findings., 12:00 pm - Have lunch at Hobbs Cafe with friends to discuss social justice topics., 1:00 pm - Continue writing the research paper back at the library., 3:30 pm - Take a short break and make notes for future sections of the paper., 4:30 pm - Wrap up the day's writing and organize notes for tomorrow's work., 5:00 pm - Have dinner at Hobbs Cafe., 6:00 pm - Attend a study group with classmates to brainstorm ideas for the paper., 8:00 pm - Head back home and take some time to relax by reading a book or listening to music., 10:00 pm - Prepare for bed, review tomorrow's tasks, and unwind before sleep., 11:00 pm - Go to bed.. (from 2023-02-14 00:00:00)
+10. Klaus Mueller is reviewing academic articles on gentrification (from 2023-02-14 18:30:00)
+11. Klaus Mueller is reviewing academic articles on gentrification (from 2023-02-13 09:30:00)
+12. library table is covered with books and academic papers (from 2023-02-14 18:30:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 2: "Feeling down, depressed, or hopeless"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

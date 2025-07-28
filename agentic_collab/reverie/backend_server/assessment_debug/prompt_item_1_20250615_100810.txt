@@ -1,0 +1,46 @@
+
+            Task: Rate a mental health questionnaire item for Isabella Rodriguez based on their characteristics and memories.
+            
+            Isabella Rodriguez's traits: Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Isabella Rodriguez is getting ready to leave for the cafe (from 2023-02-13 08:15:00)
+2. This is Isabella Rodriguez's plan for Monday February 13: wake up and complete their morning routine at 6:00, prepare and enjoy breakfast at 6:30, arrive at Hobbs Cafe to open at 8:00, work at the counter, serving customers and preparing for Valentine's Day from 8:00 to 12:00, take a short break and enjoy a snack at 12:00, continue working at the cafe, arranging party materials and decorations for the Valentine's Day party from 12:30 to 4:00, take a brief lunch break at 4:00, finalize preparations and set up the cafe for the party from 4:30 to 5:00, host the Valentine's Day party at Hobbs Cafe from 5:00 to 7:00, engaging with customers and creating a festive atmosphere, clean up after the party and prepare the cafe for the next day from 7:00 to 8:00, head home and enjoy a relaxing evening routine from 8:00 to 10:00, wind down and read a book or watch TV from 10:00 to 11:00, go to bed at 11:00. (from 2023-02-13 08:00:00)
+3. closet is partially open with clothes scattered inside (from 2023-02-13 09:00:00)
+4. Isabella Rodriguez is driving to Hobbs Cafe (from 2023-02-13 09:15:00)
+5. behind the cafe counter is clean and organized with supplies ready (from 2023-02-13 10:45:00)
+6. Isabella Rodriguez is parking the car (from 2023-02-13 09:30:00)
+7. Isabella Rodriguez is parking the car (from 2023-02-13 11:00:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 1: "Little interest or pleasure in doing things"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            

@@ -1,0 +1,20 @@
+finish: Finishes the simulation environment and saves the progress.
+start path tester mode: Starts the path tester and removes the currently forked sim files.
+exit: Finishes the simulation environment but does not save the progress
+save: Saves the current simulation progress.
+run: Runs the number of steps specified in the prompt. Example: run 1000
+headless: Runs the simulation in headless mode, which means that it will. run without the frontend server. Example: headless 1000
+print persona schedule: Print the decomposed schedule of the persona specified in the prompt. Example: print persona schedule Isabella Rodriguez.
+print hourly org persona schedule: Print the hourly schedule of the persona specified in the prompt. This one shows the original, non-decomposed version of the schedule. Ex: print persona schedule Isabella Rodriguez
+print persona current tile: Print the x y tile coordinate of the persona specified in the prompt. Ex: print persona current tile Isabella Rodriguez.
+print persona chatting with buffer: Print the chatting with buffer of the persona specified in the prompt. Ex: print persona chatting with buffer Isabella Rodriguez
+print persona associative memory (event): Print the associative memory (event) of the persona specified in the prompt. Ex: print persona associative memory (event) Isabella Rodriguez
+print persona associative memory (thought): Print the associative memory (thought) of the persona specified in the prompt. Ex: print persona associative memory (thought) Isabella Rodriguez
+print persona associative memory (chat): Print the associative memory (chat) of the persona specified in the prompt. Ex: print persona associative memory (chat) Isabella Rodriguez
+print persona spatial memory: Print the spatial memory of the persona specified in the prompt Ex: print persona spatial memory Isabella Rodriguez
+print current time: Print the current time of the world. Ex: print current time
+print tile event: Print the tile events in the tile specified in the prompt. Ex: print tile event 50, 30
+print tile details: Print the tile details of the tile specified in the prompt. Ex: print tile event 50, 30
+call -- analysis: Starts a stateless chat session with the agent. It does not save anything to the agent's memory. Ex: call -- analysis Isabella Rodriguez
+call -- load history: Loads the agent history from a file. Ex: call -- load history the_ville/agent_history_init_n3.csv. Ex: call -- load history ./environment/frontend_server/storage/base_the_ville_isabella_maria_klaus/agent_history.csv
+

@@ -1,0 +1,44 @@
+
+            Task: Rate a mental health questionnaire item for Isabella Rodriguez based on their characteristics and memories.
+            
+            Isabella Rodriguez's traits: Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Status: Isabella Rodriguez is embracing the excitement of Valentine's Day at Hobbs Cafe on February 14, 2023. She opened the cafe at 8:00 AM, creating a romantic atmosphere to welcome her customers. With serving hours scheduled from 8:00 AM to 12:00 PM and 12:00 PM to 4:00 PM, Isabella is fully prepared for a bustling day, anticipating increased foot traffic as couples seek a cozy spot to celebrate. She has thoughtfully considered special promotions for the occasion to enhance customer experience and drive sales. After a busy day, she plans to take a dinner break at 6:00 PM before resuming work for the Valentine's Day party, which will take place from 5:00 PM to 7:00 PM at Hobbs Cafe. Isabella looks forward to winding down her day and reflecting on the joy of creating a memorable experience for her customers, ultimately closing the cafe at 8:00 PM and enjoying a well-deserved relaxation before bed at 11:00 PM.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: 1. Wake up and complete the morning routine at 6:00 AM.   2. Arrive at Hobbs Cafe and prepare for opening at 7:30 AM.   3. Welcome customers and serve breakfast from 8:00 AM to 12:00 PM.   4. Serve lunch and special Valentine's Day promotions from 12:00 PM to 4:00 PM.   5. Take a dinner break at 6:00 PM.   6. Host the Valentine's Day party from 5:00 PM to 7:00 PM and close the cafe at 8:00 PM.   7. Wind down and relax at home before bed at 11:00 PM.
+Current Date: Tuesday February 14
+
+            
+            Relevant memories (from the last 2 weeks):
+            1. Isabella Rodriguez is opening Hobbs Cafe (from 2023-02-13 09:00:00)
+2. This is Isabella Rodriguez's plan for Tuesday February 14: wake up and complete their morning routine at 6:00, prepare for the day and have breakfast at 7:00, open Hobbs Cafe at 8:00, serve customers at the counter from 8:00 to 12:00, take a short break and have a snack around 12:00, continue serving customers from 12:00 to 4:00, spend some time planning and organizing details for the Valentine's Day party at 4:00, take a break for dinner at 6:00, resume work at the cafe, winding down and closing up the cafe at 8:00, finish the day by cleaning up and preparing for the next day at 8:30, head home and relax until bedtime around 11:00. (from 2023-02-14 00:00:00)
+3. This is Isabella Rodriguez's plan for Monday February 13: wake up and complete their morning routine at 6:00, prepare for the day and have breakfast at 7:00, open Hobbs Cafe at 8:00, serve customers at the counter from 8:00 to 12:00, take a short break and have a snack around 12:00, continue serving customers from 12:00 to 4:00, spend some time planning and organizing details for the Valentine's Day party at 4:00, take a break for dinner at 6:00, resume work at the cafe, winding down and closing up the cafe at 8:00, finish the day by cleaning up and preparing for the next day at 8:30, head home and relax until bedtime around 11:00. (from 2023-02-13 08:00:00)
+4. Isabella Rodriguez is greeting customers as they enter the cafe (from 2023-02-13 10:00:00)
+5. behind the cafe counter is organized with coffee machines and pastry displays (from 2023-02-13 19:00:00)
+
+            
+            Questionnaire: PHQ-9
+            Instructions: In the last 2 weeks, how often have you been bothered by any of the following problems?
+            
+            Item 1: "Little interest or pleasure in doing things"
+            
+            Rating scale:
+            0: Not at all
+1: Several days
+2: More than half the days
+3: Nearly every day
+            
+            IMPORTANT: Only base your assessment on the person's actual memories and traits as listed above. 
+            Do NOT invent or assume any information not explicitly provided in the memories.
+            Do NOT reference or assume any traumatic events unless they are explicitly mentioned in the provided memories.
+            
+            Based on the character's traits and memories, assess how the character would rate this item according to the scale.
+            
+            Output MUST be in this exact format:
+            {
+              "score": [numerical score],
+              "reasoning": "[brief explanation based on memories and traits]"
+            }
+            
