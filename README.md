@@ -339,7 +339,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Built on Stanford's "Generative Agents" framework
+- Built on Stanford's "Generative Agents" framework: https://github.com/joonspk-research/generative_agents, https://arxiv.org/abs/2304.03442
 - OpenAI GPT models for agent cognition
 - Research supported by [Your Institution/Grants]
 
