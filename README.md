@@ -6,6 +6,10 @@ A comprehensive simulation platform for conducting psychological research with A
 [![OpenAI API](https://img.shields.io/badge/OpenAI-API-green.svg)](https://openai.com/api/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 🚀 Getting Started
+
+**New to PsyAgent?** Start with our [**Quick Start Guide**](QUICK_START.md) for step-by-step setup instructions and your first simulation!
+
 ## 🎯 Overview
 
 This platform provides a simple, user-friendly interface for creating complex psychological research studies with AI agents. Researchers can:
