@@ -1,6 +1,6 @@
-# 🧠 AI Agent Psychological Research Platform
+# 🧠 PSYAGENT: AI Agent Psychological Research Platform
 
-A comprehensive simulation platform for conducting psychological research with AI agents, built on Stanford's "Generative Agents" framework. This platform enables researchers to study mental health, trauma responses, therapeutic interventions, and behavioral patterns through realistic AI agent simulations.
+A comprehensive simulation platform for conducting psychological research with AI agents, built on the "Generative Agents" framework (https://github.com/joonspk-research/generative_agents, https://arxiv.org/abs/2304.03442). This platform enables researchers to study mental health, adverse life events, therapeutic interventions, and behavioral patterns through realistic AI agent simulations.
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![OpenAI API](https://img.shields.io/badge/OpenAI-API-green.svg)](https://openai.com/api/)
